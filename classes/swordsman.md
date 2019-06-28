@@ -5,6 +5,12 @@
 * When you're a Novice with job level 10, you can job change to swordsman. Go to the Swordsman Guild in Izlude (izlude 52 168).
 * To learn the quest skills immediately, go to the Criatura Academy and speak to the Knight on the second floor (iz_ac02 54 52).
 
+## Job Level Status Increase (스테이터스 가중치)
+
+| Level | STR | AGI | VIT | INT | DEX | LUK |
+| --- | --- | --- | --- | --- | --- | --- |
+| 50   | 7   | 2   | 4   | 0   | 3   | 2   |
+
 ## Skill Guide (스킬 안내)
 
 ### Increase HP Recovery (HP회복력 향상)
