@@ -4,7 +4,7 @@
 
 | Level | STR | AGI | VIT | INT | DEX | LUK |
 | --- | --- | --- | --- | --- | --- | --- |
-| 9   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 9 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Credits
 http://roz.gnjoy.com/GameInfo/beginnerGuideView.asp?lineseq=1&jobgamecode=0
