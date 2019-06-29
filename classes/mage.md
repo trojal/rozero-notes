@@ -182,15 +182,90 @@ Description: Summons an ancient holy spirit and inflicts magic damage on the ene
 
 ### Energy Coat (에너지 코트)
 
+* Type: Active, Quest
+* Prerequisites: None
+* Description: Wraps your body with mental energy, reducing physical damage and magic damage from enemies. When no SP left, Energy Coat deactivates. Also, character damage is reduced by a certain percentage.
+
+| Remaining SP (남은 SP 비율) | Damage Reduction (데미지 감소량) | SP Lost Per Hit (SP 소모량) | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Duration (지속시간) |
+|---|---|---|---|---|---|---|---|---|
+| 91 - 100% | 30% | 3.0% | 5 secs | - | - | - | 30 | 300 secs |
+| 61 - 90% | 24% | 2.5% | 5 secs | - | - | - | 30 | 300 secs |
+| 41 - 60% | 18% | 2.0% | 5 secs | - | - | - | 30 | 300 secs |
+| 21 - 40% | 12% | 1.5% | 5 secs | - | - | - | 30 | 300 secs |
+| 1 - 20% | 6% | 1.0% | 5 secs | - | - | - | 30 | 300 secs |
+
 ### Cold Bolt (콜드 볼트)
+
+* Type: Water Magic
+* Prerequisites: None
+* Description: Ice arrows rain down from the sky to damage the enemy.
+
+#### RO Zero Changes
+
+* Skill cooldown has decreased from 0.8 seconds to 0.7 seconds, and cast delay is now a fixed 0.3 seconds instead of being `skill level * 0.2`. Thus, overall cast delay stays at a total of 1.0 second, no matter skill level. This is a change from renewal, where overall cast delay increased with level (irowiki).
+
+| Level (레벨) | MATK | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) |
+|----|------|--------|--------|--------|--------|----------|-------|
+| 1  | 100% | 0.16 secs | 0.64 secs | 0.7 secs | 0.3 secs | 12 | 9 cells |
+| 2  | 200% | 0.24 secs | 0.96 secs | 0.7 secs | 0.3 secs | 14 | 9 cells |
+| 3  | 300% | 0.32 secs | 1.28 secs | 0.7 secs | 0.3 secs | 16 | 9 cells |
+| 4  | 400% | 0.40 secs | 1.60 secs | 0.7 secs | 0.3 secs | 18 | 9 cells |
+| 5  | 500% | 0.48 secs | 1.92 secs | 0.7 secs | 0.3 secs | 20 | 9 cells |
+| 6  | 600% | 0.56 secs | 2.10 secs | 0.7 secs | 0.3 secs | 22 | 9 cells |
+| 7  | 700% | 0.64 secs | 2.56 secs | 0.7 secs | 0.3 secs | 24 | 9 cells |
+| 8  | 800% | 0.72 secs | 2.88 secs | 0.7 secs | 0.3 secs | 26 | 9 cells |
+| 9  | 900% | 0.80 secs | 3.20 secs | 0.7 secs | 0.3 secs | 28 | 9 cells |
+| 10 | 1000% | 0.88 secs | 3.52 secs | 0.7 secs | 0.3 secs | 30 | 9 cells |
 
 ### Frost Diver (프로스트 다이버)
 
+* Type: Water Magic
+* Prerequisites: Cold Bolt Level 5 (콜드 봍트 5LV)
+* Description: Freeze enemies for a period of time. The higher the skill level, the higher the probability of freezing and the longer the freezing duration. Enemies become Level 1 Water property when frozen. Frozen state is canceled when damage is done. The probability of freezing and the duration frozen decreases according to the MDEF of the target.
+
+| Level (레벨) | MATK | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) | Chance to Freeze (동빙 확률) | Duration (지속시간) |
+|----|------|--------|--------|--------|--------|----------|-------|---|---|
+| 1  | 110% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 25 | 9 cells | 38% | 3 secs |
+| 2  | 120% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 24 | 9 cells | 41% | 6 secs |
+| 3  | 130% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 23 | 9 cells | 44% | 9 secs |
+| 4  | 140% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 22 | 9 cells | 47% | 12 secs |
+| 5  | 150% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 21 | 9 cells | 50% | 15 secs |
+| 6  | 160% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 20 | 9 cells | 53% | 18 secs |
+| 7  | 170% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 19 | 9 cells | 56% | 21 secs |
+| 8  | 180% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 18 | 9 cells | 59% | 24 secs |
+| 9  | 190% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 17 | 9 cells | 62% | 27 secs |
+| 10 | 200% | 0.16 secs | 0.64 secs | 1.2 secs | 0.3 secs | 16 | 9 cells | 65% | 30 secs |
+
 ### Fire Ball (화이어 볼)
+
+* Type: Fire Magic
+* Prerequisites: Fire Bolt Level 4 (화이어 볼트 4LV)
+* Description: Target a single enemy and have the fire ball damage enemies around the target as well. 3 x 3 cells of the target receive 75% of the damage.
 
 ### Fire Wall (화이어 월)
 
 ### Fire Bolt (화이어 볼트)
+
+* Type: Fire Magic
+* Prerequisites: None
+* Description: Arrows of fire rain down from the sky to damage the enemy.
+
+#### RO Zero Changes
+
+* Skill cooldown has decreased from 0.8 seconds to 0.7 seconds, and cast delay is now a fixed 0.3 seconds instead of being `skill level * 0.2`. Thus, overall cast delay stays at a total of 1.0 second, no matter skill level. This is a change from renewal, where overall cast delay increased with level (irowiki).
+
+| Level (레벨) | MATK | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) |
+|----|------|--------|--------|--------|--------|----------|-------|
+| 1  | 100% | 0.16 secs | 0.64 secs | 0.7 secs | 0.3 secs | 12 | 9 cells |
+| 2  | 200% | 0.24 secs | 0.96 secs | 0.7 secs | 0.3 secs | 14 | 9 cells |
+| 3  | 300% | 0.32 secs | 1.28 secs | 0.7 secs | 0.3 secs | 16 | 9 cells |
+| 4  | 400% | 0.40 secs | 1.60 secs | 0.7 secs | 0.3 secs | 18 | 9 cells |
+| 5  | 500% | 0.48 secs | 1.92 secs | 0.7 secs | 0.3 secs | 20 | 9 cells |
+| 6  | 600% | 0.56 secs | 2.10 secs | 0.7 secs | 0.3 secs | 22 | 9 cells |
+| 7  | 700% | 0.64 secs | 2.56 secs | 0.7 secs | 0.3 secs | 24 | 9 cells |
+| 8  | 800% | 0.72 secs | 2.88 secs | 0.7 secs | 0.3 secs | 26 | 9 cells |
+| 9  | 900% | 0.80 secs | 3.20 secs | 0.7 secs | 0.3 secs | 28 | 9 cells |
+| 10 | 1000% | 0.88 secs | 3.52 secs | 0.7 secs | 0.3 secs | 30 | 9 cells |
 
 ## Credits
 http://roz.gnjoy.com/news/update/View.asp?BBSMode=10016&seq=24
