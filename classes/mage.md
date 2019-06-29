@@ -69,6 +69,8 @@
 
 * Skill cooldown has decreased from 0.8 seconds to 0.7 seconds, and cast delay is now a fixed 0.3 seconds instead of being `skill level * 0.2`. Thus, overall cast delay stays at a total of 1.0 second, no matter skill level. This is a change from renewal, where overall cast delay increased with level (irowiki).
 
+* Total cast time is different for level 6. In renewal, it is 2.8 seconds. In RO Zero, it's 2.66 seconds.
+
 | Level (레벨) | MATK | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) |
 |----|------|--------|--------|--------|--------|----------|-------|
 | 1  | 100% | 0.16 secs | 0.64 secs | 0.7 secs | 0.3 secs | 12 | 9 cells |
@@ -204,6 +206,8 @@ Description: Summons an ancient holy spirit and inflicts magic damage on the ene
 
 * Skill cooldown has decreased from 0.8 seconds to 0.7 seconds, and cast delay is now a fixed 0.3 seconds instead of being `skill level * 0.2`. Thus, overall cast delay stays at a total of 1.0 second, no matter skill level. This is a change from renewal, where overall cast delay increased with level (irowiki).
 
+* Total cast time is different for level 6. In renewal, it is 2.8 seconds. In RO Zero, it's 2.66 seconds.
+
 | Level (레벨) | MATK | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) |
 |----|------|--------|--------|--------|--------|----------|-------|
 | 1  | 100% | 0.16 secs | 0.64 secs | 0.7 secs | 0.3 secs | 12 | 9 cells |
@@ -242,7 +246,57 @@ Description: Summons an ancient holy spirit and inflicts magic damage on the ene
 * Prerequisites: Fire Bolt Level 4 (화이어 볼트 4LV)
 * Description: Target a single enemy and have the fire ball damage enemies around the target as well. 3 x 3 cells of the target receive 75% of the damage.
 
+#### RO Zero Changes
+
+* Total cast delay (i.e cooldown + cast delay) has increased to a constant 2 seconds where previously it was 1.5 seconds for levels 1 - 5 and 1 second for levels 6 - 10 (irowiki source).
+
+| Level (레벨) | MATK (3x3) | MATK (5x5) | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) | Area of Effect (효과 범위) |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 160% | 120% | 0.32 secs | 1.28 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 2 | 180% | 135% | 0.32 secs | 1.28 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 3 | 200% | 150% | 0.32 secs | 1.28 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 4 | 220% | 165% | 0.32 secs | 1.28 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 5 | 240% | 180% | 0.32 secs | 1.28 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 6 | 260% | 195% | 0.2 secs | 0.8 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 7 | 280% | 210% | 0.2 secs | 0.8 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 8 | 300% | 225% | 0.2 secs | 0.8 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 9 | 320% | 240% | 0.2 secs | 0.8 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+| 10 | 340% | 255% | 0.2 secs | 0.8 secs | 1.2 secs | 0.8 secs | 25 | 9 cells | 5 x 5 cells |
+
 ### Fire Wall (화이어 월)
+
+* Type: Fire Magic
+* Prerequisites: Sight Level 1 (사이트 1LV), Fire Ball Level 5 (화이어 볼 5LV)
+* Description: Creates a fire barrier that hurts enemies who run into it. Can have up to three firewalls active at a time. Damage is applied where the monster hits the fire wall, and the monster is pushed 2 cells back. Number of times a monster will bounce off the firewall before breaking it depends on skill level.
+
+#### RO Zero Changes
+
+* Total cast time reduces differently after level 1. Here's a side-by-side comparison:
+  | Level | Renewal Cast Time | Zero Cast Time |
+  |---|---|---|
+  | 1 | 2 secs | 2 secs |
+  | 2 | 1.85 secs | 2 secs |
+  | 3 | 1.70 secs | 1.80 secs |
+  | 4 | 1.55 secs | 1.60 secs |
+  | 5 | 1.40 secs | 1.20 secs |
+  | 6 | 1.25 secs | 1.10 secs |
+  | 7 | 1.10 secs | 1 sec |
+  | 8 | 0.95 secs | 0.90 secs |
+  | 9 | 0.80 secs | 0.80 secs |
+  | 10 | 0.65 secs | 0.70 secs |
+
+| Level (레벨) | 1x Damage (1회 데미지) | Per Cell Number of Bounces (1셀당 튕김 횟수) | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) | Area of Effect (효과 범위) | Duration (지속시간) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | MATK 50% | 3x | 0.40 secs | 1.60 secs | - | - | 40 | 9 cells | 1 x 3 cells | 5 secs |
+| 2 | MATK 50% | 4x | 0.36 secs | 1.44 secs | - | - | 40 | 9 cells | 1 x 3 cells | 6 secs |
+| 3 | MATK 50% | 5x | 0.32 secs | 1.28 secs | - | - | 40 | 9 cells | 1 x 3 cells | 7 secs |
+| 4 | MATK 50% | 6x | 0.28 secs | 1.12 secs | - | - | 40 | 9 cells | 1 x 3 cells | 8 secs |
+| 5 | MATK 50% | 7x | 0.24 secs | 0.96 secs | - | - | 40 | 9 cells | 1 x 3 cells | 9 secs |
+| 6 | MATK 50% | 8x | 0.22 secs | 0.88 secs | - | - | 40 | 9 cells | 1 x 3 cells | 10 secs |
+| 7 | MATK 50% | 9x | 0.20 secs | 0.80 secs | - | - | 40 | 9 cells | 1 x 3 cells | 11 secs |
+| 8 | MATK 50% | 10x | 0.18 secs | 0.72 secs | - | - | 40 | 9 cells | 1 x 3 cells | 12 secs |
+| 9 | MATK 50% | 11x | 0.16 secs | 0.64 secs | - | - | 40 | 9 cells | 1 x 3 cells | 13 secs |
+| 10 | MATK 50% | 12x | 0.14 secs | 0.56 secs | - | - | 40 | 9 cells | 1 x 3 cells | 14 secs |
 
 ### Fire Bolt (화이어 볼트)
 
@@ -253,6 +307,8 @@ Description: Summons an ancient holy spirit and inflicts magic damage on the ene
 #### RO Zero Changes
 
 * Skill cooldown has decreased from 0.8 seconds to 0.7 seconds, and cast delay is now a fixed 0.3 seconds instead of being `skill level * 0.2`. Thus, overall cast delay stays at a total of 1.0 second, no matter skill level. This is a change from renewal, where overall cast delay increased with level (irowiki).
+
+* Total cast time is different for level 6. In renewal, it is 2.8 seconds. In RO Zero, it's 2.66 seconds.
 
 | Level (레벨) | MATK | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) |
 |----|------|--------|--------|--------|--------|----------|-------|
