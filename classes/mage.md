@@ -272,18 +272,19 @@ Description: Summons an ancient holy spirit and inflicts magic damage on the ene
 #### RO Zero Changes
 
 * Total cast time reduces differently after level 1. Here's a side-by-side comparison:
-  | Level | Renewal Cast Time | Zero Cast Time |
-  |---|---|---|
-  | 1 | 2 secs | 2 secs |
-  | 2 | 1.85 secs | 2 secs |
-  | 3 | 1.70 secs | 1.80 secs |
-  | 4 | 1.55 secs | 1.60 secs |
-  | 5 | 1.40 secs | 1.20 secs |
-  | 6 | 1.25 secs | 1.10 secs |
-  | 7 | 1.10 secs | 1 sec |
-  | 8 | 0.95 secs | 0.90 secs |
-  | 9 | 0.80 secs | 0.80 secs |
-  | 10 | 0.65 secs | 0.70 secs |
+
+| Level | Renewal Cast Time | Zero Cast Time |
+|---|---|---|
+| 1 | 2 secs | 2 secs |
+| 2 | 1.85 secs | 2 secs |
+| 3 | 1.70 secs | 1.80 secs |
+| 4 | 1.55 secs | 1.60 secs |
+| 5 | 1.40 secs | 1.20 secs |
+| 6 | 1.25 secs | 1.10 secs |
+| 7 | 1.10 secs | 1 sec |
+| 8 | 0.95 secs | 0.90 secs |
+| 9 | 0.80 secs | 0.80 secs |
+| 10 | 0.65 secs | 0.70 secs |
 
 | Level (레벨) | 1x Damage (1회 데미지) | Per Cell Number of Bounces (1셀당 튕김 횟수) | Fixed Casting (고정 캐스팅) | Variable Casting (변동 캐스팅) | Skill Cooldown (스킬 쿨타임) | Cast Delay (스킬 후 딜레이) | SP Cost (소모 SP) | Range (사정거리) | Area of Effect (효과 범위) | Duration (지속시간) |
 |---|---|---|---|---|---|---|---|---|---|---|
