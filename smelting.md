@@ -832,5 +832,48 @@ The "Thor's Flame" NPC combines various minerals together.
 
 ### Special material combination (특수 재료 조합)
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">Combination Material (조합재료)</th>
+      <th rowspan="2">Combination Result (조합결과)</th>
+    </tr>
+    <tr>
+      <th>Material 1 (재료1)</th>
+      <th>Quantity (수량)</th>
+      <th>Material 2 (재료2)</th>
+      <th>Quantity (수량)</th>
+      <th>Material 3 (재료3)</th>
+      <th>Quantity (수량)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mithril Ore (미스릴 원석)</td>
+      <td>10</td>
+      <td colspan="4">&nbsp;</td>
+      <td>Mithril (미스릴)</td>
+    </tr>
+    <tr>
+      <td>HD Oridecon (고농축 오리데오콘)</td>
+      <td rowspan="4">10</td>
+      <td rowspan="4">Mithril (미스릴)</td>
+      <td rowspan="4">1</td>
+      <td rowspan="4">Zeny</td>
+      <td rowspan="4">2,000,000 Zeny</td>
+      <td rowspan="4">Blacksmith Blessing (대장장이의 축복)</td>
+    </tr>
+    <tr>
+      <td>HD Elunium (고농축 에르늄)</td>
+    </tr>
+    <tr>
+      <td>HD Bradium (고밀도 브라디움)</td>
+    </tr>
+    <tr>
+      <td>HD Carnium (고밀도 카르늄)</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Mineral combination (광물 조합)
 
