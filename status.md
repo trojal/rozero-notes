@@ -152,3 +152,4 @@ A character's base level adds Matk as it increases. At base level 4, Matk = 2. A
 ## Sources
 http://roz.gnjoy.com/GameInfo/beginnerGuideStatus.asp
 https://anne010.tistory.com/20
+Ingame testing with a Novice on kRO Zero: June 30, 2019
