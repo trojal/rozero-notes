@@ -170,5 +170,5 @@
 | 9 | + 36 |
 | 10 | + 40 |
 
-## Credits
+## Sources
 http://roz.gnjoy.com/news/update/View.asp?BBSMode=10016&seq=23

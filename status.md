@@ -25,7 +25,7 @@
 | Flee | General evasion rate on the left, and perfect dodge chance on the right |
 | Aspd | Attack speed |
 
-## Stats In Depth
+## Primary Stats
 
 ### Str
 
@@ -115,6 +115,40 @@
 * Each 10 points of Luk gives:
   * +1 Perfect dodge
 
-## Credits
+## Substats
+
+### Atk
+
+#### Atk & Character Level
+
+A character's base level adds additional Atk as it increases. At level 2, Atk = 2. After base level 2, Atk increases by +1 every fourth level. (So it increases at levels 6, 10, 14, 18, etc.)
+
+| Character Level | Atk |
+|---|---|
+| 1 | 1 |
+| 1 | 2 |
+| ... | ... |
+| 6 | 3 |
+| 10 | 4 |
+| ... | ... |
+
+### Matk
+
+#### Matk & Character Level
+
+A character's base level adds Matk as it increases. At base level 4, Matk = 2. After that, Matk increases by +1 every fourth level (So it increases by 1 at levels 8, 12, 16, 20...)
+
+| Character Level | Matk |
+|---|---|
+| 1 | 1 |
+| ... | ... |
+| 4 | 2 |
+| ... | ... |
+| 8 | 3 |
+| ... | ... |
+| 12 | 4 |
+| ... | ... |
+
+## Sources
 http://roz.gnjoy.com/GameInfo/beginnerGuideStatus.asp
 https://anne010.tistory.com/20

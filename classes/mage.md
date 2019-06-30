@@ -324,5 +324,5 @@ Description: Summons an ancient holy spirit and inflicts magic damage on the ene
 | 9  | 900% | 0.80 secs | 3.20 secs | 0.7 secs | 0.3 secs | 28 | 9 cells |
 | 10 | 1000% | 0.88 secs | 3.52 secs | 0.7 secs | 0.3 secs | 30 | 9 cells |
 
-## Credits
+## Sources
 http://roz.gnjoy.com/news/update/View.asp?BBSMode=10016&seq=24

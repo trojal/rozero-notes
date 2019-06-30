@@ -6,5 +6,5 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## Credits
+## Sources
 http://roz.gnjoy.com/GameInfo/beginnerGuideView.asp?lineseq=1&jobgamecode=0
