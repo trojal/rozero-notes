@@ -126,7 +126,7 @@ A character's base level adds additional Atk as it increases. At level 2, Atk = 
 | Character Level | Atk |
 |---|---|
 | 1 | 1 |
-| 1 | 2 |
+| 2 | 2 |
 | ... | ... |
 | 6 | 3 |
 | ... | ... |
@@ -148,6 +148,48 @@ A character's base level adds Matk as it increases. At base level 4, Matk = 2. A
 | 8 | 3 |
 | ... | ... |
 | 12 | 4 |
+| ... | ... |
+
+### Hit
+
+#### Hit & Character Level
+
+A character's base level adds Hit as it increases. Each additional base level adds 1 point to that character's Hit.
+
+### Def
+
+#### Def & Character Level
+
+A character's base level adds additional Def as it increases. Every two base levels = +1 Def. It increases on the odd level, so level 3, 5, 7, 9, etc.
+
+| Character Level | Def |
+|---|---|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 2 |
+| 5 | 3 |
+| 6 | 3 |
+| 7 | 4 |
+| 8 | 4 |
+| 9 | 5 |
+| ... | ... |
+
+### Mdef
+
+#### Mdef & Character Level
+
+A character's base level adds Mdef as it increases. At base level 3, Mdef = 2. After that, Mdef increases by +1 every fourth level (So it increases by 1 at levels 7, 11, 15, 19...)
+
+| Character Level | Mdef |
+|---|---|
+| 1 | 1 |
+| ... | ... |
+| 3 | 2 |
+| ... | ... |
+| 7 | 3 |
+| ... | ... |
+| 11 | 4 |
 | ... | ... |
 
 ## Sources
