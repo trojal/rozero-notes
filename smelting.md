@@ -334,7 +334,7 @@ Depending on the smelting level, the weapon's ATK or MATK increases. The increas
 <table>
   <thead>
     <tr>
-      <th colspan="2">Armor</th>
+      <th colspan="2">Smelting Level</th>
       <th>Lvl 1 Weapon</th>
       <th>Lvl 2 Weapon</th>
       <th>Lvl 3 Weapon</th>
@@ -485,3 +485,352 @@ Depending on the smelting level, the weapon's ATK or MATK increases. The increas
     </tr>
   </tbody>
 </table>
+
+### Weapon smelting special effects (무기 제련 특수 효과)
+
+There is an additional increase in ATK and MATK depending on the degree of smelting.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Smelting Level</th>
+      <th>Lvl 1 Weapon</th>
+      <th>Lvl 2 Weapon</th>
+      <th>Lvl 3 Weapon</th>
+      <th>Lvl 4 Weapon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="20">ATK / MATK<br>Increase</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>-</td>
+      <td>-</td>
+      <td>8</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>-</td>
+      <td>5</td>
+      <td>16</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>3</td>
+      <td>10</td>
+      <td>24</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>6</td>
+      <td>15</td>
+      <td>32</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>9</td>
+      <td>20</td>
+      <td>40</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>12</td>
+      <td>25</td>
+      <td>48</td>
+      <td>98</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>15</td>
+      <td>30</td>
+      <td>56</td>
+      <td>112</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>18</td>
+      <td>35</td>
+      <td>64</td>
+      <td>126</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>21</td>
+      <td>40</td>
+      <td>72</td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>24</td>
+      <td>45</td>
+      <td>80</td>
+      <td>154</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>27</td>
+      <td>50</td>
+      <td>88</td>
+      <td>168</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>30</td>
+      <td>55</td>
+      <td>96</td>
+      <td>182</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>33</td>
+      <td>60</td>
+      <td>104</td>
+      <td>196</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>36</td>
+      <td>65</td>
+      <td>112</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>39</td>
+      <td>70</td>
+      <td>120</td>
+      <td>224</td>
+    </tr>
+  </tbody>
+</table>
+
+### Basic effects of armor smelting (방어구 제련 기본 효과)
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Smelting Level</th>
+      <th>Armor (방어구)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="20">DEF Increase (증가량)</td>
+      <td>1</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>280</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>360</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>450</td>
+      </tr>
+    <tr>
+      <td>18</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>550</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>
+
+## Thor's Flame (토르의 불꽃)
+
+The "Thor's Flame" NPC combines various minerals together.
+
+[ screenshot of Thor's Flame NPC ]
+
+### Flux combination (제련석 조합)
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">Combination material (조합재료)</th>
+      <th rowspan="2">Combination result (조합결과)</th>
+    </tr>
+    <tr>
+      <th>Flux (제련석)</th>
+      <th>Quantity (수량)</th>
+      <th>Material (재료)</th>
+      <th>Quantity (수량)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Oridecon</td>
+      <td rowspan="2">1</td>
+      <td>Gelstar (젤스타)</td>
+      <td>1</td>
+      <td rowspan="2">Enriched Oridecon</td>
+    </tr>
+    <tr>
+      <td>Zeny</td>
+      <td>500,000 Zeny</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Elunium</td>
+      <td rowspan="2">1</td>
+      <td>Gelstar</td>
+      <td>1</td>
+      <td rowspan="2">Enriched Elunium</td>
+    </tr>
+    <tr>
+      <td>Zeny</td>
+      <td>500,000 Zeny</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Enriched Oridecon</td>
+      <td rowspan="2">1</td>
+      <td>Gelstar</td>
+      <td>4</td>
+      <td rowspan="2">HD (Highly Concentrated) Oridecon</td>
+    </tr>
+    <tr>
+      <td>Zeny</td>
+      <td>1,000,000 Zeny</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Enriched Elunium</td>
+      <td rowspan="2">1</td>
+      <td>Gelstar</td>
+      <td>4</td>
+      <td rowspan="2">HD (Highly Concentrated) Elunium</td>
+    </tr>
+    <tr>
+      <td>Zeny</td>
+      <td>1,000,000 Zeny</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Enriched Elunium</td>
+      <td rowspan="2">1</td>
+      <td>Gelstar</td>
+      <td>5</td>
+      <td rowspan="2">High-density Bradium</td>
+    </tr>
+    <tr>
+      <td>Zeny</td>
+      <td>1,500,000 Zeny</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Carnium</td>
+      <td rowspan="2">1</td>
+      <td>Gelstar</td>
+      <td>5</td>
+      <td rowspan="2">High-density Carnium</td>
+    </tr>
+    <tr>
+      <td>Zeny</td>
+      <td>1,500,000 Zeny</td>
+    </tr>
+  </tbody>
+</table>
+
+### Special material combination (특수 재료 조합)
+
+### Mineral combination (광물 조합)
+
