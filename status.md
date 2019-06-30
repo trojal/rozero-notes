@@ -30,90 +30,90 @@
 ### Str
 
 * Each 1 point of Str gives:
-  * + 1 Status Atk for melee-type weapons or bare-handed
-  * + 0.50% Weapon Atk
-  * + 30 Weight Limit
+  * +1 Status Atk for melee-type weapons or bare-handed
+  * +0.50% Weapon Atk
+  * +30 Weight Limit
 
 * Each 5 points of Str gives:
-  * + 1 Status Atk for ranged-type weapons
+  * +1 Status Atk for ranged-type weapons
 
 ### Vit
 
 * Each 1 point of Vit gives:
-  * + 1% Max HP
-  * + 2% Healing item effectiveness
+  * +1% Max HP
+  * +2% Healing item effectiveness
   * Reduces chance and duration of being affected by: Stun, Poison, Deadly Poison, Burning, Freezing
 
 * Each 2 points of Vit gives:
-  * + 1 Status Def
+  * +1 Status Def
 
 * Each 5 points of Vit gives:
-  * + 1 Status Mdef
-  * + 1 HP recovery rate
+  * +1 Status Mdef
+  * +1 HP recovery rate
 
 ### Agi
 
 * Each 1 point of Agi gives:
-  * + 1 Flee
+  * +1 Flee
   * Reduces chance and duration of being affected by: Sleep, Bleeding
 
 * Each 5 points of Agi gives:
-  * + 1 Status Def
+  * +1 Status Def
 
 * Each 6 points of Agi gives, with bare hands:
-  * + 1 Aspd
+  * +1 Aspd
 
 ### Int
 
 * Each 1 point of Int gives:
-  * + 1 Status Matk
-  * + 1% Maximum SP
-  * + 1% SP recovery item effectiveness
+  * +1 Status Matk
+  * +1% Maximum SP
+  * +1% SP recovery item effectiveness
   * Decrease in cast time (50% effective as adding to Dex)
   * Reduces chance and duration of being affected by: Blind, Silence
 
 * Each 2 points of Int gives:
-  * + 1 Status Mdef
+  * +1 Status Mdef
 
 * Each 6 points of Int gives:
-  * + 1 SP recovery rate
+  * +1 SP recovery rate
 
 ### Dex
 
 * Each 1 point of Dex gives:
-  * + 1 Status Atk for ranged-type weapons
-  * + 0.50% Weapon Atk
-  * + 1 Hit
+  * +1 Status Atk for ranged-type weapons
+  * +0.50% Weapon Atk
+  * +1 Hit
   * Cast time reduction
   * Increased probability of stealing, stripping, crafting, and cooking success
 
 * Each 5 points of Dex gives:
-  * + 1 Status Atk for melee-type weapons or bare-handed
-  * + 1 Matk
-  * + 1 Status Mdef
+  * +1 Status Atk for melee-type weapons or bare-handed
+  * +1 Matk
+  * +1 Status Mdef
 
 * Each 9 points of Dex gives:
-  * + 1 Aspd
+  * +1 Aspd
 
 ### Luk
 
 * Each 1 point of Luk gives:
-  * + 0.3% crit rate
+  * +0.3% crit rate
   * Forging, brewing, and cooking success rate increased
   * Blitz Beat probability increased
   * Reduces chance and duration of being affected by: Curse
 
 * Each 3 points of Luk gives:
-  * + 1 Atk
-  * + 1 Matk
-  + + 1 Hit rate
+  * +1 Atk
+  * +1 Matk
+  + +1 Hit rate
 
 * Each 5 points of Luk gives:
-  * + 1 Flee
-  * + 1% "Critical Hit Shield" (i.e. percent chance to dodge an enemy's critical hit)
+  * +1 Flee
+  * +1% "Critical Hit Shield" (i.e. percent chance to dodge an enemy's critical hit)
 
 * Each 10% of Luk gives:
-  * + 1 Perfect dodge
+  * +1 Perfect dodge
 
 ## Credits
 http://roz.gnjoy.com/GameInfo/beginnerGuideStatus.asp
