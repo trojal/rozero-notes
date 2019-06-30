@@ -66,7 +66,7 @@
 ### Int
 
 * Each 1 point of Int gives:
-  * +1 Status Matk
+  * +1.5 Status Matk
   * +1% Maximum SP
   * +1% SP recovery item effectiveness
   * Decrease in cast time (50% effective as adding to Dex)
@@ -106,13 +106,13 @@
 * Each 3 points of Luk gives:
   * +1 Atk
   * +1 Matk
-  + +1 Hit rate
+  + +1 Hit
 
 * Each 5 points of Luk gives:
   * +1 Flee
   * +1% "Critical Hit Shield" (i.e. percent chance to dodge an enemy's critical hit)
 
-* Each 10% of Luk gives:
+* Each 10 points of Luk gives:
   * +1 Perfect dodge
 
 ## Credits
