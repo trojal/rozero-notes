@@ -129,6 +129,7 @@ A character's base level adds additional Atk as it increases. At level 2, Atk = 
 | 1 | 2 |
 | ... | ... |
 | 6 | 3 |
+| ... | ... |
 | 10 | 4 |
 | ... | ... |
 
