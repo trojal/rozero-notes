@@ -4,6 +4,8 @@
 
 This is an update on the work done by the [irowiki](https://irowiki.org/wiki/Max_HP) team. Currently has only been confirmed in kRO with a Novice without any equipment modifiers.
 
+See the iROWiki page for more information about modifiers. Note that, based on the updated algorithm below, the Max HP look up table is off. Updated Novice values provided below. Further testing needed to verify other classes and equipment.
+
 Updated Max HP algorithm for calculating Max HP. Using a level 13 Novice with 2 VIT as an example.
 
 ```javascript
