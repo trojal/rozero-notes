@@ -232,6 +232,276 @@ Some items in the game appear with special options. Items that have been given a
 
 #### Levels 21 - 40 (21 ~ 40레벨)
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Melee series (근접 물리 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>STR</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 300</td>
+    </tr>
+    <tr>
+      <td>MasSP</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>ATK</td>
+      <td>20 ~ 50</td>
+    </tr>
+    <tr>
+      <td>ATK (%)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>ASPD</td>
+      <td>1 ~ 2</td>
+    </tr>
+    <tr>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>7 ~ 15</td>
+    </tr>
+    <tr>
+      <td>HIT</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>CRIT</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>Increased Critical Damage (크리티컬 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased healing (받는 힐량 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increase damage to small enemies (소형 적에게 물리 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase damage to medium enemies (중형 적에게 물리 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase damage to large enemies (대형 적에게 물리 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Ranged series (원거리 물리 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 300</td>
+    </tr>
+    <tr>
+      <td>MaxSP</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>ATK</td>
+      <td>20 ~ 50</td>
+    </tr>
+    <tr>
+      <td>ATK (%)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>ASPD</td>
+      <td>1 ~ 2</td>
+    </tr>
+    <tr>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>HIT</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>CRI</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>3 ~ 5</td>
+    </tr>
+    <tr>
+      <td>Increased healing (받는 힐량 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increase damage to small enemies (소형 적에게 물리 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase damage to medium enemies (중형 적에게 물리 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase damage to large enemies (대형 적에게 물리 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Magic series (마법 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>INT</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 300</td>
+    </tr>
+    <tr>
+      <td>MaxSP</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>MATK</td>
+      <td>20 ~ 50</td>
+    </tr>
+    <tr>
+      <td>MATK (%)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>Increased healing (힐량 증가)</td>
+      <td>10 ~ 30</td>
+    </tr>
+    <tr>
+      <td>Variable cast reduction (변동 캐스팅 감소)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>Increases magical damage to enemies (수속성 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increases magical damage to "persistent" enemies (지속성 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 15</td>
+    </tr>                                            
+    <tr>
+      <td>Increases magic damage to enemies (diff?) (화속성 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increases magical damage to enemies (diff?) (풍속성 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase magic damage to small enemies (소형 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase magic damage to medium enemies (중형 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase magic damage to large enemies (대형 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 15</td>
+    </tr>
+  </tbody>
+</table>
+
 #### Levels 41 - 60 (41 ~ 60레벨)
 
 #### Levels 61 - 99 (61 ~ 99레벨)
@@ -248,6 +518,6 @@ Some items in the game appear with special options. Items that have been given a
 
 ## Localization-only options (로컬라이징 전용 옵션)
 
-By granting random options, you can add additional capabilities to equipment "in your localized area" (랜덤옵션 부여를 통해 로컬라이징 지역의 장비에 추가 능력을 부여할 수 있습니다).
+By granting random options, you can add additional capabilities to equipment "in your localized area" (whatever that means) (랜덤옵션 부여를 통해 로컬라이징 지역의 장비에 추가 능력을 부여할 수 있습니다).
 
 [Confirm localized optional information](http://roz.gnjoy.com/news/update/View.asp?seq=21&curpage=1#%EC%9E%A5%EB%B9%84%20%EC%98%B5%EC%85%98%20%EB%B6%80%EC%97%AC) (TODO: Translate that linked table and include it here.)
