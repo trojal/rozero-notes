@@ -43,3 +43,6 @@ Also, when multiple cards of the same card are socketed in one piece of equipmen
 | 2 (2장) | Double - (더블 -) |
 | 3 (3장) | Triple - (트리플 -) |
 | 4 (4장) | Quadruple - (쿼드로플 -) |
+
+## Sources
+http://roz.gnjoy.com/GameInfo/gameIntroductionSystem.asp#system3
