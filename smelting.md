@@ -1105,3 +1105,6 @@ When using Elunium or Oridecon as the raw material, you can get one of the 8 pro
     <tr></tr>
   </tbody>
 </table>
+
+## Sources
+http://roz.gnjoy.com/GameInfo/gameIntroductionSystem.asp
