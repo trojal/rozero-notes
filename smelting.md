@@ -903,17 +903,238 @@ The "Thor's Flame" NPC combines various minerals together.
         1 Rough Oridecon
       </td>
     </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
+    <!-- Section -->
+    <tr></tr>
+    <tr></tr>
     <tr>
       <td rowspan="3">Iron (철)</td>
       <td rowspan="3">5</td>
     </tr>
+    <tr></tr>
+    <tr></tr>
+  </tbody>
+</table>
+
+When using iron ore and iron as the raw material, you can get one of the six products on the right.
+
+<table>
+  <thead>
     <tr>
+      <th colspan="3">Combination Material (조합재료)</th>
+      <th rowspan="2">Combination Result (조합결과)</th>
     </tr>
     <tr>
+      <th>Class (등급)</th>
+      <th>Material (재료)</th>
+      <th>Quantity (수량)</th>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Intermediate Minerals (중급 광물)</td>
+      <td rowspan="3">Coal (석탄)</td>
+      <td rowspan="3">5</td>
+      <td colspan="2" rowspan="6">
+        2 Rough Elunium<br>
+        2 Rough Oridecon<br>
+        3 Elunium<br>
+        3 Oridecon<br>
+        1 Gold
+      </td>
+    </tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Steel (강철)</td>
+      <td rowspan="3">5</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+  </tbody>
+</table>
+
+When using Coal or Steel as the raw material, you can get one of the five products on the right.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Combination Material (조합재료)</th>
+      <th rowspan="2">Combination Result (조합결과)</th>
+    </tr>
+    <tr>
+      <th>Class (등급)</th>
+      <th>Material (재료)</th>
+      <th>Quantity (수량)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Greater Minerals (중급 광물)</td>
+      <td rowspan="3">Elunium (에르늄)</td>
+      <td rowspan="3">3</td>
+      <td colspan="2" rowspan="6">
+        3 Green Live<br>
+        3 Crystal Blue<br>
+        3 Red Blood<br>
+        3 Wind of Verdure<br>
+        1 Great Nature<br>
+        1 Mystic Frozen<br>
+        1 Flame Heart<br>
+        1 Rough Wind
+      </td>
+    </tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Oridecon (오리데오콘)</td>
+      <td rowspan="3">3</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+  </tbody>
+</table>
+
+When using Elunium or Oridecon as the raw material, you can get one of the 8 products on the right.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Combination Material (조합재료)</th>
+      <th rowspan="2">Combination Result (조합결과)</th>
+    </tr>
+    <tr>
+      <th>Class (등급)</th>
+      <th>Material (재료)</th>
+      <th>Quantity (수량)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Advanced Minerals (중급 광물)</td>
+      <td rowspan="3">Elunium (에르늄)</td>
+      <td rowspan="3">7</td>
+      <td colspan="2" rowspan="6">
+        1 or 2 Garnets<br>
+        1 or 2 Amethysts<br>
+        1 or 2 Emeralds<br>
+        1 or 2 Pearls<br>
+        1 or 2 Rubies<br>
+        1 or 2 Sardonyx<br>
+        1 or 2 Sapphires<br>
+        1 or 2 Opal<br>
+        1 or 2 Topaz<br>
+        1 or 2 Zircon<br>
+        1 or 2 Diamond Carats<br>
+        1 or 2 Aquamarines
+      </td>
+    </tr>
+    <!-- Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Oridecon (오리데오콘)</td>
+      <td rowspan="3">7</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Combination Material (조합재료)</th>
+      <th rowspan="2">Combination Result (조합결과)</th>
+    </tr>
+    <tr>
+      <th>Class (등급)</th>
+      <th>Material (재료)</th>
+      <th>Quantity (수량)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Special Minerals (중급 광물)</td>
+      <td rowspan="3">Peridot (감람석)</td>
+      <td rowspan="3">2</td>
+      <td colspan="2" rowspan="6">
+        1 Olivine<br>
+        1 Gold Mica<br>
+        1 Agate<br>
+        1 Muscovite<br>
+        1 Rose Quartz<br>
+        1 Turquoise<br>
+        1 Pyroxene<br>
+        1 Citrine<br>
+        1 Gold<br>
+        1 Emperium Anvil<br><br>
+        One of the above minerals is randomly generated
+      </td>
+    </tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Gold Mica (금운모)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Agate (마노)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Muscovite (백운모)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Rose Quartz (장미석영)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Turquoise (터키석)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Pyroxene (휘석)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <!--Section -->
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td rowspan="3">Citrine (황수정)</td>
+      <td rowspan="3">2</td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
   </tbody>
 </table>
