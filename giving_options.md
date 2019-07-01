@@ -25,7 +25,7 @@ Some items in the game appear with special options. Items that have been given a
   <tbody>
     <tr>
       <th>Option (옵션)</th>
-      <th>Range (수치)</th>
+      <th>Value (수치)</th>
     </tr>
     <tr>
       <td>STR</td>
@@ -85,3 +85,169 @@ Some items in the game appear with special options. Items that have been given a
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Ranged series (원거리 물리 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 300</td>
+    </tr>
+    <tr>
+      <td>MaxSP</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>ATK</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>ATK (%)</td>
+      <td>1 ~ 5</td>
+    </tr>
+    <tr>
+      <td>ASPD</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>HIT</td>
+      <td>5 ~ 20</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>5 ~ 20</td>
+    </tr>
+    <tr>
+      <td>CRIT</td>
+      <td>3 ~ 6</td>
+    </tr>
+    <tr>
+      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>3 ~ 5</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Magic series (마법 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>INT</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 3</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 300</td>
+    </tr>
+    <tr>
+      <td>MaxSP</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>MATK</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>5 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased healing (힐량 증가)</td>
+      <td>3 ~ 5</td>
+    </tr>
+    <tr>
+      <td>Variable cast reduction (변동 캐스팅 감소)</td>
+      <td>3 ~ 5</td>
+    </tr>
+    <tr>
+      <td>Increases magical damage to enemies (수속성 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>Increases magical damage to "persistent" enemies (지속성 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>Increases magic damage to enemies (diff?) (화속성 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 10</td>
+    </tr>
+    <tr>
+      <td>Increases magical damage to enemies (diff?) (풍속성 적에게 마법 데미지 증가)</td>
+      <td>5 ~ 10</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Levels 21 - 40 (21 ~ 40레벨)
+
+#### Levels 41 - 60 (41 ~ 60레벨)
+
+#### Levels 61 - 99 (61 ~ 99레벨)
+
+#### Boss Monster (보스 몬스터)
+
+#### Fever Dungeon (피버 던전)
+
+### Armor (랜덤옵션 정보(방어구))
+
+#### Champion Monster (챔피언 몬스터)
+
+#### Fever Dungeon (피버 던전)
+
+## Localization-only options (로컬라이징 전용 옵션)
+
+By granting random options, you can add additional capabilities to equipment "in your localized area" (랜덤옵션 부여를 통해 로컬라이징 지역의 장비에 추가 능력을 부여할 수 있습니다).
+
+[Confirm localized optional information](http://roz.gnjoy.com/news/update/View.asp?seq=21&curpage=1#%EC%9E%A5%EB%B9%84%20%EC%98%B5%EC%85%98%20%EB%B6%80%EC%97%AC) (TODO: Translate that linked table and include it here.)
