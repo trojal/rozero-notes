@@ -887,8 +887,6 @@ The "Thor's Flame" NPC combines various minerals together.
       <th>Class (등급)</th>
       <th>Material (재료)</th>
       <th>Quantity (수량)</th>
-      <th>Result (결과물)</th>
-      <th>Quantity (수량)</th>
     </tr>
   </thead>
   <tbody>
