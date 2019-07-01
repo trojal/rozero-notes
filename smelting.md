@@ -1056,7 +1056,7 @@ When using Elunium or Oridecon as the raw material, you can get one of the 8 pro
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6">Special Minerals (중급 광물)</td>
+      <td rowspan="8">Special Minerals (중급 광물)</td>
       <td rowspan="3">Peridot (감람석)</td>
       <td rowspan="3">2</td>
       <td colspan="2" rowspan="6">
