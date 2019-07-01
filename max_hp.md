@@ -138,3 +138,6 @@ return maxHp // This example, maxHp = 70
 | 97 | 494 |
 | 98 | 499 |
 | 99 | 505 |
+
+## Sources
+https://irowiki.org/wiki/Max_HP
