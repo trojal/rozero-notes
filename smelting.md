@@ -1057,8 +1057,8 @@ When using Elunium or Oridecon as the raw material, you can get one of the 8 pro
   <tbody>
     <tr>
       <td rowspan="8">Special Minerals (중급 광물)</td>
-      <td rowspan="1">Peridot (감람석)</td>
-      <td rowspan="1">2</td>
+      <td>Peridot (감람석)</td>
+      <td>2</td>
       <td colspan="2" rowspan="8">
         1 Olivine<br>
         1 Gold Mica<br>
@@ -1073,63 +1073,30 @@ When using Elunium or Oridecon as the raw material, you can get one of the 8 pro
         One of the above minerals is randomly generated
       </td>
     </tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Gold Mica (금운모)</td>
       <td rowspan="1">2</td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Agate (마노)</td>
       <td rowspan="1">2</td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Muscovite (백운모)</td>
       <td rowspan="1">2</td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Rose Quartz (장미석영)</td>
       <td rowspan="1">2</td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Turquoise (터키석)</td>
       <td rowspan="1">2</td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Pyroxene (휘석)</td>
       <td rowspan="1">2</td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <!--Section -->
-    <tr></tr>
-    <tr></tr>
     <tr>
       <td rowspan="1">Citrine (황수정)</td>
       <td rowspan="1">2</td>
