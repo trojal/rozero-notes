@@ -877,3 +877,45 @@ The "Thor's Flame" NPC combines various minerals together.
 
 ### Mineral combination (광물 조합)
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Combination Material (조합재료)</th>
+      <th rowspan="2">Combination Result (조합결과)</th>
+    </tr>
+    <tr>
+      <th>Class (등급)</th>
+      <th>Material (재료)</th>
+      <th>Quantity (수량)</th>
+      <th>Result (결과물)</th>
+      <th>Quantity (수량)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Minor Minerals (하급 광물)</td>
+      <td rowspan="3">Iron Ore (철광석)</td>
+      <td rowspan="3">5</td>
+      <td colspan="2" rowspan="6">
+        2 Phracon<br>
+        1 Emveretarcon<br>
+        1 Coal<br>
+        1 Steel<br>
+        1 Rough Elunium<br>
+        1 Rough Oridecon
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td rowspan="3">Iron (철)</td>
+      <td rowspan="3">5</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
