@@ -8,17 +8,17 @@ In Ragnarok Zero, most monsters drop, at a low chance, cards named after them (e
 
 [ image of mummy card ]
 
-| Color (색상) | Monster property (몬스터 속성) |
+| Color (색상) | Monster element (몬스터 속성) |
 |---|---|
-| Brown (갈색) | Salt property (염속성) |
-| Black (검정색) | Cancer property (암속성) |
-| Hyacinth (보라색) | Dock property (독속성) |
-| Light Green (연두색) | Wind property (풍속성) |
+| Brown (갈색) | Ghost (염속성) |
+| Black (검정색) | Shadow/Dark (암속성) |
+| Hyacinth (보라색) | Poison (독속성) |
+| Light Green (연두색) | Wind (풍속성) |
 | Amethyst (자주색) | Undead (언데드) |
-| Green (초록색) | Persistence property (지속성) |
-| Blue (파란색) | Number property (수속성) |
+| Green (초록색) | Earth (지속성) |
+| Blue (파란색) | Water (수속성) |
 
-If you click the "View" (보기) button in the Card details, you will see a cute illustration of the monster. You can also check the monster's property information.
+If you click the "View" (보기) button in the Card details, you will see a cute illustration of the monster. You can also check the monster's element information.
 
 ## Combining cards (카드 조합하기)
 
