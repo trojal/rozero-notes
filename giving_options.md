@@ -1238,6 +1238,46 @@ For all three weapon types, the option values are the same.
 
 ##### Option 1 (1번 옵션)
 
+For all three weapon types, the option values are the same.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Melee / Ranged / Magic series</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>STR</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>INT</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 4</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 4</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### Option 2 (2번 옵션)
 
 ##### Option 3 (3번 옵션)
@@ -1253,13 +1293,13 @@ For all three weapon types, the option values are the same.
 ##### Option 4 (4번 옵션)
 
 
-### Armor (랜덤Option (옵션) 정보(방어구))
+### Armor (챔피언 몬스터)
 
 #### Champion Monster (챔피언 몬스터)
 
 #### Fever Dungeon (피버 던전)
 
-## Localization-only options (로컬라이징 전용 Option (옵션))
+## Localization-only options (피버 던전)
 
 By granting random options, you can add additional capabilities to equipment "in your localized area" (whatever that means) (랜덤Option (옵션) 부여를 통해 로컬라이징 지역의 장비에 추가 능력을 부여할 수 있습니다).
 
