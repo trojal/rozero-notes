@@ -770,6 +770,110 @@ For non-level categories, options for weapons dropped on those maps are chosen f
 
 ##### Option 2 (2번 옵션)
 
+For all three weapon types, the option values are the same.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Melee / Ranged / Magic series</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>Increase damage to neutral element enemies (무속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increase damage to water element enemies (수속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increase damage to earth element enemies (지속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>                                            
+    <tr>
+      <td>Increased damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Increased damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 20</td>
+    </tr>
+    <tr>
+      <td>Indestructable weapon (무기 파괴 불가)</td>
+      <td>Applied (적용)</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Levels 61 - 99 (61 ~ 99레벨)
+
+##### Option 1 (1번 옵션)
+
 <table>
   <thead>
     <tr>
@@ -782,84 +886,346 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <th>Value (수치)</th>
     </tr>
     <tr>
-      <td>Increase physical damage to neutral element enemies (무속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>STR</td>
+      <td>1 ~ 6</td>
     </tr>
     <tr>
-      <td>Increase physical damage to water element enemies (수속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>AGI</td>
+      <td>1 ~ 6</td>
     </tr>
     <tr>
-      <td>Increase physical damage to earth element enemies (지속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>VIT</td>
+      <td>1 ~ 6</td>
     </tr>
     <tr>
-      <td>Increased physical damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>DEX</td>
+      <td>1 ~ 6</td>
     </tr>
     <tr>
-      <td>Increased physical damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>LUK</td>
+      <td>1 ~ 6</td>
     </tr>
     <tr>
-      <td>Increased physical damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>MaxHP</td>
+      <td>100 ~ 500</td>
     </tr>
     <tr>
-      <td>Increased physical damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>MaxSP</td>
+      <td>20 ~ 100</td>
     </tr>
     <tr>
-      <td>Increased physical damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>ATK</td>
+      <td>20 ~ 60</td>
     </tr>
     <tr>
-      <td>Increased physical damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>ATK (%)</td>
+      <td>5 ~ 12</td>
     </tr>
     <tr>
-      <td>Increased physical damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>ASPD</td>
+      <td>1 ~ 2</td>
     </tr>
     <tr>
-      <td>Increased physical damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>7 ~ 18</td>
     </tr>
     <tr>
-      <td>Increased physical damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>HIT</td>
+      <td>10 ~ 35</td>
     </tr>
     <tr>
-      <td>Increased physical damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>FLEE</td>
+      <td>10 ~ 35</td>
     </tr>
     <tr>
-      <td>Increased physical damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>CRIT</td>
+      <td>5 ~ 12</td>
+    </tr>
+    <tr>
+      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>10 ~ 24</td>
+    </tr>
+    <tr>
+      <td>Increased healing (받는 힐량 증가)</td>
+      <td>10 ~ 24</td>
+    </tr>
+    <tr>
+      <td>Increase damage to small enemies (소형 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increase damage to medium enemies (중형 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increase damage to large enemies (대형 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Ranged series (원거리 물리 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>AGI</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 500</td>
+    </tr>
+    <tr>
+      <td>MaxSP</td>
+      <td>20 ~ 100</td>
+    </tr>
+    <tr>
+      <td>ATK</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>ATK (%)</td>
+      <td>5 ~ 12</td>
+    </tr>
+    <tr>
+      <td>ASPD</td>
+      <td>1 ~ 2</td>
+    </tr>
+    <tr>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>7 ~ 18</td>
+    </tr>
+    <tr>
+      <td>HIT</td>
+      <td>10 ~ 35</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>10 ~ 35</td>
+    </tr>
+    <tr>
+      <td>CRIT</td>
+      <td>5 ~ 12</td>
+    </tr>
+    <tr>
+      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>10 ~ 24</td>
     </tr>                                            
     <tr>
-      <td>Increased physical damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>5 ~ 15</td>
     </tr>
     <tr>
-      <td>Increased physical damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>Increased healing (받는 힐량 증가)</td>
+      <td>10 ~ 24</td>
     </tr>
     <tr>
-      <td>Increased physical damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>Increase damage to small enemies (소형 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased physical damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>Increase damage to medium enemies (중형 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased physical damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>Increase damage to large enemies (대형 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Magic Series (마법 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
     </tr>
     <tr>
-      <td>Increased physical damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
-      <td>10 ~ 20</td>
+      <td>AGI</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>VIT</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>INT</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>LUK</td>
+      <td>1 ~ 6</td>
+    </tr>
+    <tr>
+      <td>MaxHP</td>
+      <td>100 ~ 500</td>
+    </tr>
+    <tr>
+      <td>MaxSP</td>
+      <td>20 ~ 100</td>
+    </tr>
+    <tr>
+      <td>MATK</td>
+      <td>20 ~ 60</td>
+    </tr>
+    <tr>
+      <td>MATK (%)</td>
+      <td>5 ~ 12</td>
+    </tr>
+    <tr>
+      <td>FLEE</td>
+      <td>10 ~ 35</td>
+    </tr>
+    <tr>
+      <td>Increased healing (힐량 증가)</td>
+      <td>10 ~ 24</td>
+    </tr>
+    <tr>
+      <td>Increased healing (받는 힐량 증가)</td>
+      <td>10 ~ 24</td>
+    </tr>
+    <tr>
+      <td>Variable cast reduction (변동 캐스팅 감소)</td>
+      <td>5 ~ 12</td>
+    </tr>
+    <tr>
+      <td>Increased magic damage to small enemies (소형 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>                                            
+    <tr>
+      <td>Increased magic damage to medium enemies (중형 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased magic damage to large enemies (대형 적에게 마법 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Option 2 (2번 옵션)
+
+For all three weapon types, the option values are the same.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Melee / Ranged / Magic series</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>Increase damage to neutral element enemies (무속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increase damage to water element enemies (수속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increase damage to earth element enemies (지속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>                                            
+    <tr>
+      <td>Increased damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
+    </tr>
+    <tr>
+      <td>Increased damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>10 ~ 25</td>
     </tr>
     <tr>
       <td>Indestructable weapon (무기 파괴 불가)</td>
@@ -868,11 +1234,24 @@ For non-level categories, options for weapons dropped on those maps are chosen f
   </tbody>
 </table>
 
-#### Levels 61 - 99 (61 ~ 99레벨)
-
 #### Boss Monster (보스 몬스터)
 
+##### Option 1 (1번 옵션)
+
+##### Option 2 (2번 옵션)
+
+##### Option 3 (3번 옵션)
+
 #### Fever Dungeon (피버 던전)
+
+##### Option 1 (1번 옵션)
+
+##### Option 2 (2번 옵션)
+
+##### Option 3 (3번 옵션)
+
+##### Option 4 (4번 옵션)
+
 
 ### Armor (랜덤Option (옵션) 정보(방어구))
 
