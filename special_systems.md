@@ -1,0 +1,801 @@
+# Special Systems (특별 시스템)
+
+## (레벨 차 시스템)
+
+라그나로크 제로에서는 몬스터와 캐릭터 간의 레벨 차에 따라 획득할 수 있는 경험치 또는 드랍률에 차이가 있습니다.
+
+### (경험치 획득량)
+
+| (레벨 차이) | (추가/감소량) |
+|---|---|
+| ~ -10 | 패널티 없음 |
+| -15 ~ -11 | 10% 감소 |
+| -20 ~ -16 | 30% 감소 |
+| -25 ~ -21 | 50% 감소 |
+| -30 ~ -26 | 70% 감소 |
+| ~ -31 | 90% 감소 |
+
+### (드랍률 감소량)
+
+| (레벨 차이) | (추가/감소량) |
+|---|---|
+| ~ -10 | 패널티 없음 |
+| -15 ~ -11 | 20% 감소 |
+| -20 ~ -16 | 30% 감소 |
+| -21 ~ | 50% 감소 |
+
+## (크기 시스템)
+
+라그나로크 제로에서는 장착한 무기에 따라 몬스터의 크기 별로 입힐 수 있는 데미지에 차이가 있습니다.
+
+<table>
+  <caption>크기 시스템 리스트</caption>
+  <thead>
+    <tr>
+      <th>종류</th>
+      <th>소형</th>
+      <th>중형</th>
+      <th>대형</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>맨손</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>한손검</td>
+      <td>75</td>
+      <td>100</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>양손검</td>
+      <td>75</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>단검</td>
+      <td>100</td>
+      <td>75</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>한손도끼</td>
+      <td>50</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>양손도끼</td>
+      <td>50</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>카타르</td>
+      <td>75</td>
+      <td>100</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>한손지팡이</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>양손지팡이</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>한손둔기</td>
+      <td>75</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>양손둔기</td>
+      <td>75</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>활</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>한손창</td>
+      <td>75</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>양손창</td>
+      <td>75</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>너클</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>책</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>채찍</td>
+      <td>75</td>
+      <td>100</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>악기</td>
+      <td>75</td>
+      <td>100</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>풍마수리검</td>
+      <td>75</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>총</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+## (종족 시스템)
+
+라그나로크 제로에는 다양한 종족이 존재하기 때문에 자신이 상대하는 주요 종족에 따라 장비를 준비해야 합니다.
+
+| (인간형) | (악마형) | (동물형) | (곤충형) | (어류형) |
+|---|---|---|---|---|
+| 용족 | 천사형 | 무형 | 불사형 | 식물형 |
+
+## (속성 시스템)
+
+속성을 알면 승리는 나의 것! 몬스터의 속성을 알고 그 속성에 상극의 속성 공격을 가하면 몬스터에게 많은 데미지를 줄 수 있습니다.
+
+1) 속성 시스템이란?
+라그나로크 제로에는 무, 수, 지, 화, 풍, 독, 성, 암, 염, 불사 총 10가지의 속성이 존재합니다. 
+10 종류의 속성들은 서로 상성 관계가 있어, 특정한 속성에는 강한 반면 특정 속성에는 약하므로, 무기와 방어구를 선택하는 데 영향을 줍니다.
+
+2) 속성표 보는법!
+속성 공격을 가하는 쪽은 별도의 속성 레벨이 없으나,공격을 당하는 쪽의 속성은 아래와 같이 레벨 차이가 있습니다.
+
+### (피해자 속성 Lv. 1)
+
+<table>
+  <thead>
+    <tr>
+      <th>피해자 \ 공격자</th>
+      <th>무</th>
+      <th>수</th>
+      <th>지</th>
+      <th>화</th>
+      <th>풍</th>
+      <th>독</th>
+      <th>성</th>
+      <th>암</th>
+      <th>염</th>
+      <th>불사</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>무</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>70</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>수</td>
+      <td>100</td>
+      <td>25</td>
+      <td>100</td>
+      <td>90</td>
+      <td>175</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>지</td>
+      <td>100</td>
+      <td>100</td>
+      <td>25</td>
+      <td>150</td>
+      <td>90</td>
+      <td>125</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>화</td>
+      <td>100</td>
+      <td>150</td>
+      <td>90</td>
+      <td>25</td>
+      <td>100</td>
+      <td>125</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>풍</td>
+      <td>100</td>
+      <td>90</td>
+      <td>150</td>
+      <td>100</td>
+      <td>25</td>
+      <td>125</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>독</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>50</td>
+      <td>100</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>성</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>0</td>
+      <td>125</td>
+      <td>75</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>암</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>125</td>
+      <td>0</td>
+      <td>75</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>염</td>
+      <td>70</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>125</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>불사</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>125</td>
+      <td>100</td>
+      <td>0</td>
+      <td>150</td>
+      <td>0</td>
+      <td>100</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+### (피해자 속성 Lv. 2)
+
+<table>
+  <thead>
+    <tr>
+      <th>피해자 \ 공격자</th>
+      <th>무</th>
+      <th>수</th>
+      <th>지</th>
+      <th>화</th>
+      <th>풍</th>
+      <th>독</th>
+      <th>성</th>
+      <th>암</th>
+      <th>염</th>
+      <th>불사</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>무</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>수</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>80</td>
+      <td>175</td>
+      <td>75</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>지</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>175</td>
+      <td>80</td>
+      <td>125</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>화</td>
+      <td>100</td>
+      <td>175</td>
+      <td>90</td>
+      <td>0</td>
+      <td>100</td>
+      <td>125</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>풍</td>
+      <td>100</td>
+      <td>80</td>
+      <td>175</td>
+      <td>100</td>
+      <td>0</td>
+      <td>125</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>독</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>25</td>
+      <td>75</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>성</td>
+      <td>100</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>0</td>
+      <td>150</td>
+      <td>50</td>
+      <td>125</td>
+    </tr>
+    <tr>
+      <td>암</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>25</td>
+      <td>150</td>
+      <td>0</td>
+      <td>50</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>염</td>
+      <td>50</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>75</td>
+      <td>100</td>
+      <td>100</td>
+      <td>150</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>불사</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>150</td>
+      <td>100</td>
+      <td>0</td>
+      <td>175</td>
+      <td>0</td>
+      <td>125</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+### (피해자 속성 Lv. 3)
+
+<table>
+  <thead>
+    <tr>
+      <th>피해자 \ 공격자</th>
+      <th>무</th>
+      <th>수</th>
+      <th>지</th>
+      <th>화</th>
+      <th>풍</th>
+      <th>독</th>
+      <th>성</th>
+      <th>암</th>
+      <th>염</th>
+      <th>불사</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>무</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>수</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>70</td>
+      <td>200</td>
+      <td>50</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>지</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>200</td>
+      <td>70</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>화</td>
+      <td>100</td>
+      <td>200</td>
+      <td>70</td>
+      <td>0</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>풍</td>
+      <td>100</td>
+      <td>70</td>
+      <td>200</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>독</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>125</td>
+      <td>0</td>
+      <td>50</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>성</td>
+      <td>100</td>
+      <td>25</td>
+      <td>25</td>
+      <td>25</td>
+      <td>25</td>
+      <td>25</td>
+      <td>0</td>
+      <td>175</td>
+      <td>25</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td>암</td>
+      <td>100</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>0</td>
+      <td>175</td>
+      <td>0</td>
+      <td>25</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>염</td>
+      <td>0</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>50</td>
+      <td>100</td>
+      <td>100</td>
+      <td>175</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>불사</td>
+      <td>100</td>
+      <td>125</td>
+      <td>100</td>
+      <td>175</td>
+      <td>100</td>
+      <td>0</td>
+      <td>200</td>
+      <td>0</td>
+      <td>150</td>
+      <td>0</td>
+    </tr>	
+  </tbody>
+</table>
+
+### (피해자 속성 Lv. 4)
+
+<table>
+  <thead>
+    <tr>
+      <th>피해자 \ 공격자</th>
+      <th>무</th>
+      <th>수</th>
+      <th>지</th>
+      <th>화</th>
+      <th>풍</th>
+      <th>독</th>
+      <th>성</th>
+      <th>암</th>
+      <th>염</th>
+      <th>불사</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>무</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>수</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>60</td>
+      <td>200</td>
+      <td>25</td>
+      <td>75</td>
+      <td>75</td>
+      <td>25</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>지</td>
+      <td>100</td>
+      <td>100</td>
+      <td>0</td>
+      <td>200</td>
+      <td>60</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>25</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>화</td>
+      <td>100</td>
+      <td>200</td>
+      <td>60</td>
+      <td>0</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>25</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>풍</td>
+      <td>100</td>
+      <td>60</td>
+      <td>200</td>
+      <td>100</td>
+      <td>0</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>25</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>독</td>
+      <td>100</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>75</td>
+      <td>0</td>
+      <td>125</td>
+      <td>0</td>
+      <td>25</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>성</td>
+      <td>100</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>200</td>
+      <td>0</td>
+      <td>175</td>
+    </tr>
+    <tr>
+      <td>암</td>
+      <td>100</td>
+      <td>25</td>
+      <td>25</td>
+      <td>25</td>
+      <td>25</td>
+      <td>0</td>
+      <td>200</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>염</td>
+      <td>0</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>25</td>
+      <td>100</td>
+      <td>100</td>
+      <td>200</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>불사</td>
+      <td>100</td>
+      <td>150</td>
+      <td>50</td>
+      <td>200</td>
+      <td>100</td>
+      <td>0</td>
+      <td>200</td>
+      <td>0</td>
+      <td>175</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+※ 불사 속성의 특징
+1. 화이어 월 스킬에 넉백되지 않는다.
+2. 석화/동빙에 걸리지 않는다
+3. 회복 스킬로 회복되지 않으며, 적의 회복 스킬에 피해를 입는다.
+4. 턴 언데드 스킬에 즉사할 수 있다..
+5. 사망 후 이그드라실의 나뭇잎과 리저렉션 스킬로 살려낼 수 없다.
+※ 홈페이지 정보는 게임의 업데이트에 따라 내용이 다소 변경 될 수 있습니다.
+
+## Sources
+http://roz.gnjoy.com/GameInfo/gameIntroductionSystem.asp#system5
