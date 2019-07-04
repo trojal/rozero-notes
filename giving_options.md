@@ -154,7 +154,7 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>3 ~ 6</td>
     </tr>
     <tr>
-      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>Increase ranged weapon damage (원거리 무기 데미지 증가)</td>
       <td>3 ~ 5</td>
     </tr>
   </tbody>
@@ -208,7 +208,7 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased healing (힐량 증가)</td>
+      <td>Increase healing (힐량 증가)</td>
       <td>3 ~ 5</td>
     </tr>
     <tr>
@@ -304,11 +304,11 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
@@ -390,15 +390,15 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>Increase ranged weapon damage (원거리 무기 데미지 증가)</td>
       <td>3 ~ 5</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>10 ~ 30</td>
     </tr>
     <tr>
-      <td>Increased healing (힐량 증가)</td>
+      <td>Increase healing (힐량 증가)</td>
       <td>10 ~ 30</td>
     </tr>
     <tr>
@@ -578,11 +578,11 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
@@ -664,15 +664,15 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>                                            
     <tr>
-      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>Increase ranged weapon damage (원거리 무기 데미지 증가)</td>
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
@@ -742,11 +742,11 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>10 ~ 30</td>
     </tr>
     <tr>
-      <td>Increased healing (힐량 증가)</td>
+      <td>Increase healing (힐량 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
@@ -754,15 +754,15 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increased magic damage to small enemies (소형 적에게 마법 데미지 증가)</td>
+      <td>Increase magic damage to small enemies (소형 적에게 마법 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>                                            
     <tr>
-      <td>Increased magic damage to medium enemies (중형 적에게 마법 데미지 증가)</td>
+      <td>Increase magic damage to medium enemies (중형 적에게 마법 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased magic damage to large enemies (대형 적에게 마법 데미지 증가)</td>
+      <td>Increase magic damage to large enemies (대형 적에게 마법 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
   </tbody>
@@ -796,71 +796,71 @@ For all three weapon types, the option values are the same.
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>                                            
     <tr>
-      <td>Increased damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
-      <td>Increased damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 20</td>
     </tr>
     <tr>
@@ -942,11 +942,11 @@ For all three weapon types, the option values are the same.
       <td>5 ~ 12</td>
     </tr>
     <tr>
-      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
       <td>10 ~ 24</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 24</td>
     </tr>
     <tr>
@@ -1028,15 +1028,15 @@ For all three weapon types, the option values are the same.
       <td>5 ~ 12</td>
     </tr>
     <tr>
-      <td>Increased critical damage (크리티컬 데미지 증가)</td>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
       <td>10 ~ 24</td>
     </tr>                                            
     <tr>
-      <td>Increased ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>Increase ranged weapon damage (원거리 무기 데미지 증가)</td>
       <td>5 ~ 15</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 24</td>
     </tr>
     <tr>
@@ -1106,11 +1106,11 @@ For all three weapon types, the option values are the same.
       <td>10 ~ 35</td>
     </tr>
     <tr>
-      <td>Increased healing (힐량 증가)</td>
+      <td>Increase healing (힐량 증가)</td>
       <td>10 ~ 24</td>
     </tr>
     <tr>
-      <td>Increased healing (받는 힐량 증가)</td>
+      <td>Increase healing (받는 힐량 증가)</td>
       <td>10 ~ 24</td>
     </tr>
     <tr>
@@ -1118,15 +1118,15 @@ For all three weapon types, the option values are the same.
       <td>5 ~ 12</td>
     </tr>
     <tr>
-      <td>Increased magic damage to small enemies (소형 적에게 마법 데미지 증가)</td>
+      <td>Increase magic damage to small enemies (소형 적에게 마법 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>                                            
     <tr>
-      <td>Increased magic damage to medium enemies (중형 적에게 마법 데미지 증가)</td>
+      <td>Increase magic damage to medium enemies (중형 적에게 마법 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased magic damage to large enemies (대형 적에게 마법 데미지 증가)</td>
+      <td>Increase magic damage to large enemies (대형 적에게 마법 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
   </tbody>
@@ -1160,71 +1160,71 @@ For all three weapon types, the option values are the same.
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to wind element enemies (풍속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>Increase damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>                                            
     <tr>
-      <td>Increased damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
-      <td>Increased damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>Increase damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
       <td>10 ~ 25</td>
     </tr>
     <tr>
@@ -1280,6 +1280,332 @@ For all three weapon types, the option values are the same.
 
 ##### Option 2 (2번 옵션)
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Melee series (근접 물리 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>ATK</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>4 ~ 12</td>
+    </tr>
+    <tr>
+      <td>HIT</td>
+      <td>4 ~ 12</td>
+    </tr>
+    <tr>
+      <td>CRIT</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to neutral element enemies (무속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to water element enemies (수속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to earth element enemies (지속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Ranged series (원거리 물리 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Option (옵션)</th>
+      <th>Value (수치)</th>
+    </tr>
+    <tr>
+      <td>ATK</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>After attack delay (공격 후 딜레이)</td>
+      <td>4 ~ 12</td>
+    </tr>
+    <tr>
+      <td>HIT</td>
+      <td>4 ~ 12</td>
+    </tr>
+    <tr>
+      <td>CRIT</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to neutral element enemies (무속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to water element enemies (수속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to earth element enemies (지속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Magic series (마법 계열)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>옵션</th>
+      <th>수치</th>
+    </tr>
+    <tr>
+      <td>MATK</td>
+      <td>5 ~ 15</td>
+    </tr>
+    <tr>
+      <td>Increase critical damage (크리티컬 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase ranged weapon damage (원거리 무기 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to neutral element enemies (무속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to water element enemies (수속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to earth element enemies (지속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to fire element enemies (화속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to poison element enemies (독속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to holy element enemies (성속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to shadow/dark element enemies (암속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to ghost element enemies (염속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to undead element enemies (불사속성 적에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to formless race enemies (무형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to undead race enemies (불사형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to brute race monsters (동물형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to plant race monsters (식물형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to insect race monsters (곤충형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to fish race monsters (어류형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to demon race monsters (악마형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to demi-human race monsters (인간형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to angel race monsters (천사형 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+    <tr>
+      <td>Increase damage to dragon race monsters (용족 몬스터에게 물리 데미지 증가)</td>
+      <td>3 ~ 9</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### Option 3 (3번 옵션)
 
 #### Fever Dungeon (피버 던전)
@@ -1304,3 +1630,5 @@ For all three weapon types, the option values are the same.
 By granting random options, you can add additional capabilities to equipment "in your localized area" (whatever that means) (랜덤옵션 부여를 통해 로컬라이징 지역의 장비에 추가 능력을 부여할 수 있습니다).
 
 [Confirm localized optional information](http://roz.gnjoy.com/news/update/View.asp?seq=21&curpage=1#%EC%9E%A5%EB%B9%84%20%EC%98%B5%EC%85%98%20%EB%B6%80%EC%97%AC) (TODO: Translate that linked table and include it here.)
+
+## Sources
