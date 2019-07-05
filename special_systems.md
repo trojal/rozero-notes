@@ -1,160 +1,159 @@
 # Special Systems (특별 시스템)
 
-## (레벨 차 시스템)
+## Level Difference System (레벨 차 시스템)
 
-라그나로크 제로에서는 몬스터와 캐릭터 간의 레벨 차에 따라 획득할 수 있는 경험치 또는 드랍률에 차이가 있습니다.
+In Ragnarok Zero, there is a difference in experience and drop rate depending on the level difference between the monster and the character.
 
-### (경험치 획득량)
+### Experience amount obtained (경험치 획득량)
 
-| (레벨 차이) | (추가/감소량) |
+| Level difference (레벨 차이) | Reduction (추가/감소량) |
 |---|---|
-| ~ -10 | 패널티 없음 |
-| -15 ~ -11 | 10% 감소 |
-| -20 ~ -16 | 30% 감소 |
-| -25 ~ -21 | 50% 감소 |
-| -30 ~ -26 | 70% 감소 |
-| ~ -31 | 90% 감소 |
+| ~ -10 | No penalty |
+| -15 ~ -11 | 10% reduction |
+| -20 ~ -16 | 30% reduction |
+| -25 ~ -21 | 50% reduction |
+| -30 ~ -26 | 70% reduction |
+| ~ -31 | 90% reduction |
 
-### (드랍률 감소량)
+### Drop rate reduction (드랍률 감소량)
 
-| (레벨 차이) | (추가/감소량) |
+| Level difference (레벨 차이) | Reduction (추가/감소량) |
 |---|---|
-| ~ -10 | 패널티 없음 |
-| -15 ~ -11 | 20% 감소 |
-| -20 ~ -16 | 30% 감소 |
-| -21 ~ | 50% 감소 |
+| ~ -10 | No penalty |
+| -15 ~ -11 | 20% reduction |
+| -20 ~ -16 | 30% reduction |
+| -21 ~ | 50% reduction |
 
-## (크기 시스템)
+## Size system (크기 시스템)
 
-라그나로크 제로에서는 장착한 무기에 따라 몬스터의 크기 별로 입힐 수 있는 데미지에 차이가 있습니다.
+In Ragnarok Zero, there is a difference in the damage that can be inflicted by the size of the monster depending on the equipped weapon type.
 
 <table>
-  <caption>크기 시스템 리스트</caption>
   <thead>
     <tr>
-      <th>종류</th>
-      <th>소형</th>
-      <th>중형</th>
-      <th>대형</th>
+      <th>Weapon type (종류)</th>
+      <th>Small (소형)</th>
+      <th>Medium (중형)</th>
+      <th>Large (대형)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>맨손</td>
+      <td>Bare hands (맨손)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>한손검</td>
+      <td>One-handed sword (한손검)</td>
       <td>75</td>
       <td>100</td>
       <td>75</td>
     </tr>
     <tr>
-      <td>양손검</td>
+      <td>Two-handed sword (양손검)</td>
       <td>75</td>
       <td>75</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>단검</td>
+      <td>Dagger (단검)</td>
       <td>100</td>
       <td>75</td>
       <td>50</td>
     </tr>
     <tr>
-      <td>한손도끼</td>
+      <td>One-handed axe (한손도끼)</td>
       <td>50</td>
       <td>75</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>양손도끼</td>
+      <td>Two-handed axe (양손도끼)</td>
       <td>50</td>
       <td>75</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>카타르</td>
+      <td>Katar (카타르)</td>
       <td>75</td>
       <td>100</td>
       <td>75</td>
     </tr>
     <tr>
-      <td>한손지팡이</td>
+      <td>One-handed staff (한손지팡이)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>양손지팡이</td>
+      <td>Two-handed staff (양손지팡이)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>한손둔기</td>
+      <td>One-handed mace (한손둔기)</td>
       <td>75</td>
       <td>100</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>양손둔기</td>
+      <td>Two-handed mace (양손둔기)</td>
       <td>75</td>
       <td>100</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>활</td>
+      <td>Bow (활)</td>
       <td>100</td>
       <td>100</td>
       <td>75</td>
     </tr>
     <tr>
-      <td>한손창</td>
+      <td>One-handed spear (한손창)</td>
       <td>75</td>
       <td>75</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>양손창</td>
+      <td>Two-handed spear (양손창)</td>
       <td>75</td>
       <td>75</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>너클</td>
+      <td>Knuckle (너클)</td>
       <td>100</td>
       <td>100</td>
       <td>75</td>
     </tr>
     <tr>
-      <td>책</td>
+      <td>Book (책)</td>
       <td>100</td>
       <td>100</td>
       <td>50</td>
     </tr>
     <tr>
-      <td>채찍</td>
+      <td>Whip (채찍)</td>
       <td>75</td>
       <td>100</td>
       <td>50</td>
     </tr>
     <tr>
-      <td>악기</td>
+      <td>Instrument (악기)</td>
       <td>75</td>
       <td>100</td>
       <td>75</td>
     </tr>
     <tr>
-      <td>풍마수리검</td>
+      <td>Kunai (풍마수리검)</td>
       <td>75</td>
       <td>75</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>총</td>
+      <td>Gun (총)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -162,46 +161,47 @@
   </tbody>
 </table>
 
-## (종족 시스템)
+## Race system (종족 시스템)
 
-라그나로크 제로에는 다양한 종족이 존재하기 때문에 자신이 상대하는 주요 종족에 따라 장비를 준비해야 합니다.
+Ragnarok Zero has various races, so you have to use equipment that is strong against the major race you are dealing with.
 
-| (인간형) | (악마형) | (동물형) | (곤충형) | (어류형) |
+| Demi-human (인간형) | Demon (악마형) | Brute (동물형) | Insect (곤충형) | Fish (어류형) |
 |---|---|---|---|---|
-| 용족 | 천사형 | 무형 | 불사형 | 식물형 |
+| Dragon (용족) | Angel (천사형) | Formless (무형) | Undead (불사형) | Plant (식물형) |
 
-## (속성 시스템)
+## Property system (속성 시스템)
 
-속성을 알면 승리는 나의 것! 몬스터의 속성을 알고 그 속성에 상극의 속성 공격을 가하면 몬스터에게 많은 데미지를 줄 수 있습니다.
+If you know the property, victory is yours! Knowing the properties of monsters and attacking them with mutual attributes can provide increased damage to monsters.
 
-1) 속성 시스템이란?
-라그나로크 제로에는 무, 수, 지, 화, 풍, 독, 성, 암, 염, 불사 총 10가지의 속성이 존재합니다. 
-10 종류의 속성들은 서로 상성 관계가 있어, 특정한 속성에는 강한 반면 특정 속성에는 약하므로, 무기와 방어구를 선택하는 데 영향을 줍니다.
+1) What is an attribute system?
 
-2) 속성표 보는법!
-속성 공격을 가하는 쪽은 별도의 속성 레벨이 없으나,공격을 당하는 쪽의 속성은 아래와 같이 레벨 차이가 있습니다.
+Ragnarok Zero has 10 properties: neutral (무), water (수), earth (지), fire (화), wind (풍), poison (독), holy (성), shadow/dark (암), ghost (염), and undead (불사). Ten types of properties are mutually related, strong against crtain properties, and weak against others. Knowing these strengths and weaknesses can help you choose the proper weapons and armor.
 
-### (피해자 속성 Lv. 1)
+2) How to view the property table!
+
+There is no separate attribute level for the attacking property, but monsters can have 1 - 4 levels of a specific property.
+
+### Level 1 Victim Properties (피해자 속성 Lv. 1)
 
 <table>
   <thead>
     <tr>
-      <th>피해자 \ 공격자</th>
-      <th>무</th>
-      <th>수</th>
-      <th>지</th>
-      <th>화</th>
-      <th>풍</th>
-      <th>독</th>
-      <th>성</th>
-      <th>암</th>
-      <th>염</th>
-      <th>불사</th>
+      <th>Victim \ Attacker</th>
+      <th>Neutral (무)</th>
+      <th>Water (수)</th>
+      <th>Earth (지)</th>
+      <th>Fire (화)</th>
+      <th>Wind (풍)</th>
+      <th>Poison (독)</th>
+      <th>Holy (성)</th>
+      <th>Shadow/Dark (암)</th>
+      <th>Ghost (염)</th>
+      <th>Undead (불사)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>무</td>
+      <td>Neutral (무)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -214,7 +214,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>수</td>
+      <td>Water (수)</td>
       <td>100</td>
       <td>25</td>
       <td>100</td>
@@ -227,7 +227,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>지</td>
+      <td>Earth (지)</td>
       <td>100</td>
       <td>100</td>
       <td>25</td>
@@ -240,7 +240,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>화</td>
+      <td>Fire (화)</td>
       <td>100</td>
       <td>150</td>
       <td>90</td>
@@ -253,7 +253,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>풍</td>
+      <td>Wind (풍)</td>
       <td>100</td>
       <td>90</td>
       <td>150</td>
@@ -266,7 +266,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>독</td>
+      <td>Poison (독)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -279,7 +279,7 @@
       <td>50</td>
     </tr>
     <tr>
-      <td>성</td>
+      <td>Holy (성)</td>
       <td>100</td>
       <td>75</td>
       <td>75</td>
@@ -292,7 +292,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>암</td>
+      <td>Shadow/Dark (암)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -305,7 +305,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>염</td>
+      <td>Ghost (염)</td>
       <td>70</td>
       <td>100</td>
       <td>100</td>
@@ -318,7 +318,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>불사</td>
+      <td>Undead (불사)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -333,27 +333,27 @@
   </tbody>
 </table>
 
-### (피해자 속성 Lv. 2)
+### Level 2 Victim Properties (피해자 속성 Lv. 2)
 
 <table>
   <thead>
     <tr>
-      <th>피해자 \ 공격자</th>
-      <th>무</th>
-      <th>수</th>
-      <th>지</th>
-      <th>화</th>
-      <th>풍</th>
-      <th>독</th>
-      <th>성</th>
-      <th>암</th>
-      <th>염</th>
-      <th>불사</th>
+      <th>Victim \ Attacker</th>
+      <th>Neutral (무)</th>
+      <th>Water (수)</th>
+      <th>Earth (지)</th>
+      <th>Fire (화)</th>
+      <th>Wind (풍)</th>
+      <th>Poison (독)</th>
+      <th>Holy (성)</th>
+      <th>Shadow/Dark (암)</th>
+      <th>Ghost (염)</th>
+      <th>Undead (불사)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>무</td>
+      <td>Neutral (무)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -366,7 +366,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>수</td>
+      <td>Water (수)</td>
       <td>100</td>
       <td>0</td>
       <td>100</td>
@@ -379,7 +379,7 @@
       <td>75</td>
     </tr>
     <tr>
-      <td>지</td>
+      <td>Earth (지)</td>
       <td>100</td>
       <td>100</td>
       <td>0</td>
@@ -392,7 +392,7 @@
       <td>75</td>
     </tr>
     <tr>
-      <td>화</td>
+      <td>Fire (화)</td>
       <td>100</td>
       <td>175</td>
       <td>90</td>
@@ -405,7 +405,7 @@
       <td>75</td>
     </tr>
     <tr>
-      <td>풍</td>
+      <td>Wind (풍)</td>
       <td>100</td>
       <td>80</td>
       <td>175</td>
@@ -418,7 +418,7 @@
       <td>75</td>
     </tr>
     <tr>
-      <td>독</td>
+      <td>Poison (독)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -431,7 +431,7 @@
       <td>25</td>
     </tr>
     <tr>
-      <td>성</td>
+      <td>Holy (성)</td>
       <td>100</td>
       <td>50</td>
       <td>50</td>
@@ -444,7 +444,7 @@
       <td>125</td>
     </tr>
     <tr>
-      <td>암</td>
+      <td>Shadow/Dark (암)</td>
       <td>100</td>
       <td>75</td>
       <td>75</td>
@@ -457,7 +457,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>염</td>
+      <td>Ghost (염)</td>
       <td>50</td>
       <td>100</td>
       <td>100</td>
@@ -470,7 +470,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>불사</td>
+      <td>Undead (불사)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -485,27 +485,27 @@
   </tbody>
 </table>
 
-### (피해자 속성 Lv. 3)
+### Level 3 Victim Properties (피해자 속성 Lv. 3)
 
 <table>
   <thead>
     <tr>
-      <th>피해자 \ 공격자</th>
-      <th>무</th>
-      <th>수</th>
-      <th>지</th>
-      <th>화</th>
-      <th>풍</th>
-      <th>독</th>
-      <th>성</th>
-      <th>암</th>
-      <th>염</th>
-      <th>불사</th>
+      <th>Victim \ Attacker</th>
+      <th>Neutral (무)</th>
+      <th>Water (수)</th>
+      <th>Earth (지)</th>
+      <th>Fire (화)</th>
+      <th>Wind (풍)</th>
+      <th>Poison (독)</th>
+      <th>Holy (성)</th>
+      <th>Shadow/Dark (암)</th>
+      <th>Ghost (염)</th>
+      <th>Undead (불사)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>무</td>
+      <td>Neutral (무)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -518,7 +518,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>수</td>
+      <td>Water (수)</td>
       <td>100</td>
       <td>0</td>
       <td>100</td>
@@ -531,7 +531,7 @@
       <td>50</td>
     </tr>
     <tr>
-      <td>지</td>
+      <td>Earth (지)</td>
       <td>100</td>
       <td>100</td>
       <td>0</td>
@@ -544,7 +544,7 @@
       <td>50</td>
     </tr>
     <tr>
-      <td>화</td>
+      <td>Fire (화)</td>
       <td>100</td>
       <td>200</td>
       <td>70</td>
@@ -557,7 +557,7 @@
       <td>50</td>
     </tr>
     <tr>
-      <td>풍</td>
+      <td>Wind (풍)</td>
       <td>100</td>
       <td>70</td>
       <td>200</td>
@@ -570,7 +570,7 @@
       <td>50</td>
     </tr>
     <tr>
-      <td>독</td>
+      <td>Poison (독)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -583,7 +583,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>성</td>
+      <td>Holy (성)</td>
       <td>100</td>
       <td>25</td>
       <td>25</td>
@@ -596,7 +596,7 @@
       <td>150</td>
     </tr>
     <tr>
-      <td>암</td>
+      <td>Shadow/Dark (암)</td>
       <td>100</td>
       <td>50</td>
       <td>50</td>
@@ -609,7 +609,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>염</td>
+      <td>Ghost (염)</td>
       <td>0</td>
       <td>100</td>
       <td>100</td>
@@ -622,7 +622,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>불사</td>
+      <td>Undead (불사)</td>
       <td>100</td>
       <td>125</td>
       <td>100</td>
@@ -637,27 +637,27 @@
   </tbody>
 </table>
 
-### (피해자 속성 Lv. 4)
+### Level 4 Victim Properties (피해자 속성 Lv. 4)
 
 <table>
   <thead>
     <tr>
-      <th>피해자 \ 공격자</th>
-      <th>무</th>
-      <th>수</th>
-      <th>지</th>
-      <th>화</th>
-      <th>풍</th>
-      <th>독</th>
-      <th>성</th>
-      <th>암</th>
-      <th>염</th>
-      <th>불사</th>
+      <th>Victim \ Attacker</th>
+      <th>Neutral (무)</th>
+      <th>Water (수)</th>
+      <th>Earth (지)</th>
+      <th>Fire (화)</th>
+      <th>Wind (풍)</th>
+      <th>Poison (독)</th>
+      <th>Holy (성)</th>
+      <th>Shadow/Dark (암)</th>
+      <th>Ghost (염)</th>
+      <th>Undead (불사)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>무</td>
+      <td>Neutral (무)</td>
       <td>100</td>
       <td>100</td>
       <td>100</td>
@@ -670,7 +670,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>수</td>
+      <td>Water (수)</td>
       <td>100</td>
       <td>0</td>
       <td>100</td>
@@ -683,7 +683,7 @@
       <td>25</td>
     </tr>
     <tr>
-      <td>지</td>
+      <td>Earth (지)</td>
       <td>100</td>
       <td>100</td>
       <td>0</td>
@@ -696,7 +696,7 @@
       <td>25</td>
     </tr>
     <tr>
-      <td>화</td>
+      <td>Fire (화)</td>
       <td>100</td>
       <td>200</td>
       <td>60</td>
@@ -709,7 +709,7 @@
       <td>25</td>
     </tr>
     <tr>
-      <td>풍</td>
+      <td>Wind (풍)</td>
       <td>100</td>
       <td>60</td>
       <td>200</td>
@@ -722,7 +722,7 @@
       <td>25</td>
     </tr>
     <tr>
-      <td>독</td>
+      <td>Poison (독)</td>
       <td>100</td>
       <td>75</td>
       <td>75</td>
@@ -735,7 +735,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>성</td>
+      <td>Holy (성)</td>
       <td>100</td>
       <td>0</td>
       <td>0</td>
@@ -748,7 +748,7 @@
       <td>175</td>
     </tr>
     <tr>
-      <td>암</td>
+      <td>Shadow/Dark (암)</td>
       <td>100</td>
       <td>25</td>
       <td>25</td>
@@ -761,7 +761,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>염</td>
+      <td>Ghost (염)</td>
       <td>0</td>
       <td>100</td>
       <td>100</td>
@@ -774,7 +774,7 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>불사</td>
+      <td>Undead (불사)</td>
       <td>100</td>
       <td>150</td>
       <td>50</td>
@@ -789,13 +789,13 @@
   </tbody>
 </table>
 
-※ 불사 속성의 특징
-1. 화이어 월 스킬에 넉백되지 않는다.
-2. 석화/동빙에 걸리지 않는다
-3. 회복 스킬로 회복되지 않으며, 적의 회복 스킬에 피해를 입는다.
-4. 턴 언데드 스킬에 즉사할 수 있다..
-5. 사망 후 이그드라실의 나뭇잎과 리저렉션 스킬로 살려낼 수 없다.
-※ 홈페이지 정보는 게임의 업데이트에 따라 내용이 다소 변경 될 수 있습니다.
+## Features of the undead (불사 속성의 특징)
+
+1. Not knocked back by fire.
+2. Do not get petrified or frozen.
+3. "It does not recover to recovery skill, and it inflicts damage on enemy recovery skill." (Need better translation of: 회복 스킬로 회복되지 않으며, 적의 회복 스킬에 피해를 입는다.)
+4. Turn Undead skills kill instantly.
+5. After death, you can not resurrect with Yggdrasil leaves.
 
 ## Sources
 http://roz.gnjoy.com/GameInfo/gameIntroductionSystem.asp#system5
