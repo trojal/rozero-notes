@@ -166,7 +166,6 @@ In Ragnarok Zero, there is a difference in the damage that can be inflicted by t
 Ragnarok Zero has various races, so you have to use equipment that is strong against the major race you are dealing with.
 
 | Demi-human (인간형) | Demon (악마형) | Brute (동물형) | Insect (곤충형) | Fish (어류형) |
-|---|---|---|---|---|
 | Dragon (용족) | Angel (천사형) | Formless (무형) | Undead (불사형) | Plant (식물형) |
 
 ## Property system (속성 시스템)
