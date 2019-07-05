@@ -180,11 +180,24 @@ Ragnarok Zero has various races, so you have to use equipment that is strong aga
 
 If you know the property, victory is yours! Knowing the properties of monsters and attacking them with mutual attributes can provide increased damage to monsters.
 
-1) What is an attribute system?
+### What is an attribute system?
 
-Ragnarok Zero has 10 properties: neutral (무), water (수), earth (지), fire (화), wind (풍), poison (독), holy (성), shadow/dark (암), ghost (염), and undead (불사). Ten types of properties are mutually related, strong against crtain properties, and weak against others. Knowing these strengths and weaknesses can help you choose the proper weapons and armor.
+Ragnarok Zero has 10 properties: 
 
-2) How to view the property table!
+* Neutral (무)
+* Water (수)
+* Earth (지)
+* Fire (화)
+* Wind (풍)
+* Poison (독)
+* Holy (성)
+* Shadow/dark (암)
+* Ghost (염)
+* Undead (불사)
+
+Ten types of properties are mutually related, strong against crtain properties, and weak against others. Knowing these strengths and weaknesses can help you choose the proper weapons and armor.
+
+### How to view the property table!
 
 There is no separate attribute level for the attacking property, but monsters can have 1 - 4 levels of a specific property.
 
@@ -193,7 +206,7 @@ There is no separate attribute level for the attacking property, but monsters ca
 <table>
   <thead>
     <tr>
-      <th>Victim \ Attacker</th>
+      <th>↓ Victim \ Attacker →</th>
       <th>Neutral (무)</th>
       <th>Water (수)</th>
       <th>Earth (지)</th>
@@ -345,7 +358,7 @@ There is no separate attribute level for the attacking property, but monsters ca
 <table>
   <thead>
     <tr>
-      <th>Victim \ Attacker</th>
+      <th>↓ Victim \ Attacker →</th>
       <th>Neutral (무)</th>
       <th>Water (수)</th>
       <th>Earth (지)</th>
@@ -497,7 +510,7 @@ There is no separate attribute level for the attacking property, but monsters ca
 <table>
   <thead>
     <tr>
-      <th>Victim \ Attacker</th>
+      <th>↓ Victim \ Attacker →</th>
       <th>Neutral (무)</th>
       <th>Water (수)</th>
       <th>Earth (지)</th>
@@ -649,7 +662,7 @@ There is no separate attribute level for the attacking property, but monsters ca
 <table>
   <thead>
     <tr>
-      <th>Victim \ Attacker</th>
+      <th>↓ Victim \ Attacker →</th>
       <th>Neutral (무)</th>
       <th>Water (수)</th>
       <th>Earth (지)</th>
