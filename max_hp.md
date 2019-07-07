@@ -2,38 +2,30 @@
 
 ## Calculation
 
-This is an update on the work done by the [irowiki](https://irowiki.org/wiki/Max_HP) team. Requires further testing before can confirm that the below algorithm works.
+This is an update on the work done by the [irowiki](https://irowiki.org/wiki/Max_HP) team. Requires further testing before can confirm 100%.
 
-See the iROWiki page for more information about modifiers. Note that, based on the updated algorithm below, the Max HP look up table is off.
+Currently have only tested on a Novice up to base level 14. For Novices, their base HP increases by 3 when going to an even number (2, 4, 6, 8...) and by 4 when going to an odd number (3, 5, 7, 9...).
 
-Updated Max HP algorithm for calculating Max HP. Using a level 13 Novice with 2 VIT as an example.
+Further testing is needed to see if this pattern continues with other classes.
 
-```javascript
-// Define variables
-const vit = 2;
-const baseLevel = 13;
-const jobModifier = 0;
-const additionalJobModifier = 5;
-const transMod = 1;
-const sumOfAdditiveModifiers = 0;
-const sumOfMultiplicativeModifiers = 0;
+### Novice Max HP
 
-// Calculate base HP
-let baseHp = 5 + (vit * 0.01);
-baseHp = Math.floor(baseHp + (baseLevel * additionalJobModifier))
-
-for (let i = 2; i <= baseLevel; i++) {
-  baseHp += Math.round(jobModifier * i);
-}
-
-// Calculate max HP
-let maxHp = baseHp;
-maxHp = Math.floor(maxHp * (1 + vit * 0.01) * transMod);
-maxHp += sumOfAdditiveModifiers;
-maxHp = Math.floor(maxHp * (1 + sumOfMultiplicativeModifiers * 0.01));
-
-return maxHp // This example, maxHp = 70
-```
+| Level | Max HP |
+|---|---|
+| 1 | 28 |
+| 2 | 32 |
+| 3 | 35 |
+| 4 | 39 |
+| 5 | 42 |
+| 6 | 46 |
+| 7 | 49 |
+| 8 | 53 |
+| 9 | 56 |
+| 10 | 60 |
+| 11 | 63 |
+| 12 | 67 |
+| 13 | 70 |
+| 14 | 73 |
 
 ## Sources
 https://irowiki.org/wiki/Max_HP
