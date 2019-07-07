@@ -134,7 +134,7 @@ Enter the dungeon by talking to a calm scientist in the center of Orc Village. M
 		<tr>
       <td>
 			  <img alt="" src="http://imgc.gnjoy.com/ufile/common/2017/11/27/115400_TfLuVyAT.bmp"><br/>
-			  Expedition Army Sash
+			  Expedition Sash
 			</td>
 			<td>
         7% increased resistance to Neutral property.<br/>
@@ -150,7 +150,7 @@ Enter the dungeon by talking to a calm scientist in the center of Orc Village. M
 		<tr>
       <td>
 			  <img alt="" src="http://imgc.gnjoy.com/ufile/common/2017/11/27/115412_LOqqgVYR.bmp"><br/>
-			  토벌단의 갑옷
+			  Expedition Armor
 			</td>
 			<td>
         Max HP + 300, Max SP + 20.<br>
