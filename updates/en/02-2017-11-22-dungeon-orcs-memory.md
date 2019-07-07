@@ -123,28 +123,28 @@ Enter the dungeon by talking to a calm scientist in the center of Orc Village. M
 
 ---
 
-### 아이템 소개
+### Item Introduction
 
 <table>
 	<tbody>
 		<tr>
-			<td>아이템</td>
-			<td>설명</td>
+			<td>Item</td>
+			<td>Explanation</td>
 		</tr>
 		<tr>
       <td>
 			  <img alt="" src="http://imgc.gnjoy.com/ufile/common/2017/11/27/115400_TfLuVyAT.bmp"><br/>
-			  토벌단의 어깨띠
+			  Expedition Army Sash
 			</td>
 			<td>
-        토벌에 대한 보상으로 지급되는 어깨에 두르는 띠.<br/>
-        무속성 내성 7% 증가.<br/>
-        FLEE + 10.<br/>
-        계열 : 걸칠것 방어 : 12<br/>
-        무게 : 20<br/>
-        요구 레벨 : 60<br/>
-        장착 : 전 직업<br/>
-        SLOT:1
+        7% increased resistance to Neutral property.<br/>
+        FLEE + 10<br/>
+        Category: Garment<br/>
+        DEF: 12<br/>
+        Weight: 20<br/>
+        Required level: 60<br/>
+        Equippable by: All<br/>
+        SLOT: 1
 			</td>
 		</tr>
 		<tr>
@@ -153,19 +153,21 @@ Enter the dungeon by talking to a calm scientist in the center of Orc Village. M
 			  토벌단의 갑옷
 			</td>
 			<td>
-        토벌에 대한 보상으로 지급되는 갑옷.<br/>
-        MHP + 300, MSP + 20.<br>
+        Max HP + 300, Max SP + 20.<br>
         MDEF + 5, DEF + 20.<br/>
-        토벌단의 어깨띠, 토벌단의 군화, 토벌단의 반지와 함께 장착 시,<br/>
+        -----<br>
+        When worn with Expedition Sash, Expedition Armor, and Expedition Ring:<br/>
         ATK + 15, MATK + 15,<br/>
-        제련도 합 17 이상인 경우,<br/>
-        공격 속도 증가(공격 후 딜레이 3% 감소.),<br/>
-        변동 캐스팅 5% 감소.<br/>
-        계열 : 갑옷 방어 : 46<br/>
-        무게 : 30<br/>
-        요구 레벨 : 60<br/>
-        장착 : 전 직업<br/>
-        SLOT:1
+        -----<br>
+        If the sum of smelting is more than 17,<br/>
+        Increased ASPD (3% delay after attack),<br/>
+        Variable casting reduced by 5%.<br/>
+        Category: Armor<br/>
+        DEF: 46<br/>
+        Weight: 30<br/>
+        Required level: 60<br/>
+        Equippable by: All<br/>
+        SLOT: 1
 			</td>
 		</tr>
 	</tbody>
