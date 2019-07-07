@@ -40,7 +40,7 @@ Poring Village is a memorial dungeon located one map to the west of Prontera. Th
 | Item | Description | Classification | Weight | Required Level | Classes Can Wear |
 |---|---|---|---|---|---|
 | ![equipment artwork](http://imgc.gnjoy.com/ufile/common/2017/11/24/105506_lgKBwhJp.bmp)<br/>Poring Village Leek | On recieving physical attack, chance to turn into Smokie for 5 seconds. Movement speed increases during transformation time. (Does not overlap with Increase Agility.) | Bottom helmet | 10 | 30 | All |
-| ![equipment artwork](http://imgc.gnjoy.com/ufile/common/2017/11/24/105516_5fRUOcrB.bmp)<br/>Poring Village Carrot | 포링마을이 원산지인 신선한 당근. 물리 공격 시, 일정 확률로 5초간 루나틱으로 변신. 변신 시간동안 이동속도가 증가한다.(민첩성 증가와 중첩하지 않는다.) | Bottom helmet | 10 | 30 | All |
+| ![equipment artwork](http://imgc.gnjoy.com/ufile/common/2017/11/24/105516_5fRUOcrB.bmp)<br/>Poring Village Carrot | When doing physical attack, chance to turn into Lunatic for 5 seconds. Movement speed increases during transformation time. (Does not overlap with Increase Agility.) | Bottom helmet | 10 | 30 | All |
 
 ---
 
@@ -65,30 +65,30 @@ Poring Village is a memorial dungeon located one map to the west of Prontera. Th
 
 | Day of the week | Item | Explanation | Usage |
 |---|---|---|---|
-| Monday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122221_t75qmH4f.bmp)<br/>Poring Jelly Fragment | Fragment found in Poring Village. Necessary material for making "physical-force" armor. | Make Red Jelly Stone |
-| Tuesday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122246_kgIlkilf.bmp)<br/>Poporing Jelly Fragment | Fragment found in Poring Village. Necessary material for making magic armor. | Make Cheongpung's Jelly Stone |
-| Wednesday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122253_Pj4Yl4V6.bmp)<br/>Drops Jelly Fragment | Fragment found in Poring Village. Necessary material for making certain "ornaments". | Make Twilight Jelly Stone |
-| Thursday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122301_lJcxK3n8.bmp)<br/>Deviling Jelly Fragment | Fragment found in Poring Village. Necessary material for making "agility" armor.  | Make Chaos Jelly Stone |
-| Friday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122309_6zv9cDEX.bmp)<br/>Angeling Jelly Fragment | Fragment found in Poring Village. Necessary material for making the "sacred treasure". | Make Divine Jelly Stone |
-| Saturday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122319_CGoZ43gY.bmp)<br/>Jelly Debris Box | Contains jelly fragments. | Obtain jelly fragments |
-| Sunday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122319_CGoZ43gY.bmp)<br/>Jelly Debris Box | Contains jelly fragments. | Obtain jelly fragments |
+| Monday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122221_t75qmH4f.bmp)<br/>Poring Jello Fragment | Fragment found in Poring Village. Necessary material for making "physical-force" armor. | Make Red Lotus Jello Stone |
+| Tuesday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122246_kgIlkilf.bmp)<br/>Poporing Jello Fragment | Fragment found in Poring Village. Necessary material for making magic armor. | Make Breeze Jello Stone |
+| Wednesday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122253_Pj4Yl4V6.bmp)<br/>Drops Jello Fragment | Fragment found in Poring Village. Necessary material for making certain "ornaments". | Make Dusk Jello Stone |
+| Thursday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122301_lJcxK3n8.bmp)<br/>Deviling Jello Fragment | Fragment found in Poring Village. Necessary material for making "agility" armor.  | Make Chaotic Jello Stone |
+| Friday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122309_6zv9cDEX.bmp)<br/>Angeling Jello Fragment | Fragment found in Poring Village. Necessary material for making the "sacred treasure". | Make Holy Jello Stone |
+| Saturday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122319_CGoZ43gY.bmp)<br/>Jello Fragment Box | Contains Jello fragments. | Obtain Jello fragments |
+| Sunday | ![item](http://imgc.gnjoy.com/ufile/common/2017/12/07/122319_CGoZ43gY.bmp)<br/>Jello Fragment Box | Contains Jello fragments. | Obtain Jello fragments |
 
 ---
 
-## Jelly Stone Synthesis
+## Jello Stone Synthesis
 
-* You can make a stone with five jelly fragments.
-* It is possible to create jelly stones from base level 30 or higher.
+* You can make a stone with five Jello fragments.
+* It is possible to create Jello stones from base level 30 or higher.
 * Stone creation time: 3 days. (Can be made immediately with 5 Gel Stars.)
 * You can not create other stones while in the process of making one.
 
 | Synthetic material | | Synthesis result |
 |---|---|---|
-| 5 Poring Jelly Fragment | → | 1 Red Jelly Stone |
-| 5 Poporing Jelly Fragment | → | 1 Cheongpung's Jelly Stone |
-| 5 Drops Jelly Fragment | → | 1 Twilight Jelly Stone |
-| 5 Deviling Jelly Fragment | → | 1 Chaos Jelly Stone |
-| 5 Angeling Jelly Fragment | → | 1 Holy Jelly Stone |
+| 5 Poring Jello Fragment | → | 1 Red Lotus Jello Stone |
+| 5 Poporing Jello Fragment | → | 1 Breeze Jello Stone |
+| 5 Drops Jello Fragment | → | 1 Dusk Jello Stone |
+| 5 Deviling Jello Fragment | → | 1 Chaotic Jello Stone |
+| 5 Angeling Jello Fragment | → | 1 Holy Jello Stone |
 
 ---
 
