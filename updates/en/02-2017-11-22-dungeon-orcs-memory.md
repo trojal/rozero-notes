@@ -379,19 +379,19 @@ Enter the dungeon by talking to a calm scientist in the center of Orc Village. M
 | CRIT + 1 | DEX + 1 | DEX + 2 |
 | DEF + 15 | STR + 1 | STR + 2 |
 | MDEF + 2 | INT + 1 | INT + 2 ]
-| MHP + 50 | VIT + 1 | VIT + 2 |
-| MHP + 100 | LUK + 1 | LUK + 2 |
-| MHP + 200 | | |
+| MaxHP + 50 | VIT + 1 | VIT + 2 |
+| MaxHP + 100 | LUK + 1 | LUK + 2 |
+| MaxHP + 200 | | |
 
 #### Enchants when smelting is over +9
 
 | | | |
 |---|---|---|
-| MHP + 50 | AGI + 1 | AGI + 2 |
-| MHP + 100 | DEX + 1 | DEX + 2 |
-| MHP + 200 | STR + 1 | STR + 2 |
-| MHP + 300 | INT + 1 | INT + 2 |
-| MHP + 400 | VIT + 1 | VIT + 2 |
+| MaxHP + 50 | AGI + 1 | AGI + 2 |
+| MaxHP + 100 | DEX + 1 | DEX + 2 |
+| MaxHP + 200 | STR + 1 | STR + 2 |
+| MaxHP + 300 | INT + 1 | INT + 2 |
+| MaxHP + 400 | VIT + 1 | VIT + 2 |
 | FLEE + 3 | LUK + 1 | LUK + 2 |
 | Mage's Essence Lvl 1 | Swordsman's Essence Lvl 1 | CRIT + 1 |
 | Acolyte's Essence Lvl 1 | Merchant's Essence Lvl 1 | DEF + 15 |
