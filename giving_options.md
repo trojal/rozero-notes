@@ -1627,8 +1627,10 @@ For all three weapon types, the option values are the same.
 
 ## Localization-only options (피버 던전)
 
-By granting random options, you can add additional capabilities to equipment "in your localized area" (whatever that means) (랜덤옵션 부여를 통해 로컬라이징 지역의 장비에 추가 능력을 부여할 수 있습니다).
+Equipment dropped on "localized" maps like Amatsu, Louyang, Hugel, will have options as well.
 
-[Confirm localized optional information](http://roz.gnjoy.com/news/update/View.asp?seq=21&curpage=1#%EC%9E%A5%EB%B9%84%20%EC%98%B5%EC%85%98%20%EB%B6%80%EC%97%AC) (TODO: Translate that linked table and include it here.)
+[See options for these types of maps](http://roz.gnjoy.com/news/update/View.asp?seq=21&curpage=1#%EC%9E%A5%EB%B9%84%20%EC%98%B5%EC%85%98%20%EB%B6%80%EC%97%AC) (TODO: Translate that linked table and include it here.)
 
 ## Sources
+
+http://roz.gnjoy.com/GameInfo/gameIntroductionSystem.asp#system4
