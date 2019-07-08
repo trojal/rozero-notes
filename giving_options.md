@@ -216,19 +216,19 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>3 ~ 5</td>
     </tr>
     <tr>
-      <td>Increases magical damage to enemies (수속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magical damage to water element enemies (수속성 적에게 마법 데미지 증가)</td>
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increases magical damage to "persistent" enemies (지속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magical damage to earth element enemies (지속성 적에게 마법 데미지 증가)</td>
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increases magic damage to enemies (diff?) (화속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magic damage to fire element enemies (화속성 적에게 마법 데미지 증가)</td>
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increases magical damage to enemies (diff?) (풍속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magical damage to wind element enemies (풍속성 적에게 마법 데미지 증가)</td>
       <td>5 ~ 10</td>
     </tr>
   </tbody>
@@ -476,19 +476,19 @@ For non-level categories, options for weapons dropped on those maps are chosen f
       <td>5 ~ 10</td>
     </tr>
     <tr>
-      <td>Increases magical damage to enemies (수속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magical damage to water element enemies (수속성 적에게 마법 데미지 증가)</td>
       <td>10 ~ 15</td>
     </tr>
     <tr>
-      <td>Increases magical damage to "persistent" enemies (지속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magical damage to earth element enemies (지속성 적에게 마법 데미지 증가)</td>
       <td>10 ~ 15</td>
     </tr>                                            
     <tr>
-      <td>Increases magic damage to enemies (diff?) (화속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magic damage to fire element enemies (화속성 적에게 마법 데미지 증가)</td>
       <td>10 ~ 15</td>
     </tr>
     <tr>
-      <td>Increases magical damage to enemies (diff?) (풍속성 적에게 마법 데미지 증가)</td>
+      <td>Increases magical damage to wind element enemies (풍속성 적에게 마법 데미지 증가)</td>
       <td>10 ~ 15</td>
     </tr>
     <tr>
