@@ -64,7 +64,7 @@ The monthly premium service is a service that increases experience, drop rate, l
 
 #### Character Premium Service; Essential Package
 
-The Essential Package is a character premium service that adds convenience to the game. This product has a 20% increase in EXP and drop rate, and it has a limited number of 10 "Dew Water of the World" ([세계수의 이슬]) with some functions of "Gel Star" every day. (Please note that the "Dew Water of the World's number of dew will be redeemed for the remaining number of worlds each time it is re-paid.) Through the "Dew Water of the World" number, you can conveniently use the world map transfer service or receive special buffs. 
+The Essential Package is a character premium service that adds convenience to the game. This product has a 20% increase in EXP and drop rate, and it has a limited number of 10 Dews of Yggdrasil ([세계수의 이슬]) with some functions of "Gel Star" every day. (Please note that when refilling the dew beware the remaining dew will be retreived.) Through the "Dew of Yggdrasil" number, you can conveniently use the world map transfer service or receive special buffs. 
 
 #### Character Premium Service: Hunting Package
 
