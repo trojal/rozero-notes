@@ -14,7 +14,7 @@ Some items in the game appear with special options. Items that have been given a
 
 ### Weapons (랜덤Option (옵션) 정보(무기))
 
-Each category below refers to the pool of available options for a weapon that drops from a monster. For example: if a monster drops a melee weapon, and your character is level 18, then RO will choose the options from the "Melee series" table in the "Levels 1 - 20" section.
+Each category below is divided into monster levels, and then by weapon type (Melee, Ranged, Magic). And then each table represents the pool of possible options that type of weapon can have. For example, a level 6 monster could drop a melee weapon with a STR + 3 option.
 
 For non-level categories, options for weapons dropped on those maps are chosen from those tables.
 
