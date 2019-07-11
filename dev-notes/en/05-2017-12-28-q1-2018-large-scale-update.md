@@ -180,13 +180,13 @@ The Glast Heim Dungeon, located to the west of Geffen, is a complex dungeon cons
  
 In the old Fever areas, there were two benefits: acquiring equipment and acquiring experience. The experience points were there to help level up to second job. For the newly added Fever areas after the second job update, the focus will be on equipment acquisition rather than experience.
 
-## 신규 MD 3종 및 MD 장비 업데이트
+## New Memorial Dungeons & Memorial Dungeon Equipment update
 
-99레벨 확장에 따라 70레벨, 80레벨, 99레벨대의 총 3종의 새로운 메모리얼 던전이 업데이트될 예정입니다. 신규 던전 업데이트에 따라 새로운 장비들도 업데이트되며, 이러한 장비들은 이전 단계의 장비와 함께 젤로스톤과 기타 재료를 통해 업그레이드하여 획득 가능할 예정입니다.
+3 new memorial dungeons will be added. New equipment will be added with new dungeons and the equipment will be upgradable with previous equipments + jello stones and other materials.
 
 ## Condition change in item distribution
 
-During party play, the criteria for equitable distribution of items will change. In the past, the item would be distributed to a random party member in the 11 x 11 cell range of the player who picked up the item. Moving forward, this cell range will increase to 31 x 31. 
+Normally when the item is looted, the person who picks up the item was shared within 11x11 cells of the looter. The new sharing mechanism will be 31x31 around the party leader will be shared, but those who are looting outside of 31x31 cell will individually loot and not be shared.
 
 ## Change the weight limit value of some manufacturing skills
 
