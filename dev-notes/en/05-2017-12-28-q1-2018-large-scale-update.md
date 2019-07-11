@@ -182,7 +182,7 @@ In the old Fever areas, there were two benefits: acquiring equipment and acquiri
 
 ## New Memorial Dungeons & Memorial Dungeon Equipment update
 
-3 new memorial dungeons will be added. New equipment will be added with new dungeons and the equipment will be upgradable with previous equipments + jello stones and other materials.
+3 new memorial dungeons will be added. These new memorial dungeons will have min-level requirements of 70, 80 and 99. New equipment will be added with new dungeons and the equipment will be upgradable with previous equipments + jello stones and other materials.
 
 ## Condition change in item distribution
 
