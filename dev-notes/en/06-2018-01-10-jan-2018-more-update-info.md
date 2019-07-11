@@ -38,7 +38,7 @@ You will be able to go to Turtle Island from Alberta on a slippery ride. Turtle 
 
 ![turtle dungeon instance mobs](http://imgc.gnjoy.com/ufile/common/2018/01/10/055629_lEgmYGtO.png)
 
-<You will be able to meet Turtle General>
+< You will be able to meet Turtle General >
 
 ## Memorial Dungeon Armor Upgrade
 
@@ -56,11 +56,11 @@ Expedition Armor (8 types) can be upgraded to Armored Armor (16 types)
 
 ![screenshot](http://imgc.gnjoy.com/ufile/common/2018/01/10/055841_B3MAKUN7.png)
 
-<Each dungeon crystal and Jello Stone will be able to upgrade the equipment>
+< Each dungeon crystal and Jello Stone will be able to upgrade the equipment >
 
 ![screenshot](http://imgc.gnjoy.com/ufile/common/2018/01/10/055851_9LAlUgVy.png)
 
-<Second class enchant also added>
+< Second class enchant also added >
 
 ## Add Memorial Dungeon
 
@@ -70,7 +70,7 @@ Level 70 Memorial Dungeon 'Ant Hell Dungeon 1' has various varieties of ant mons
 
 ![screenshot](http://imgc.gnjoy.com/ufile/common/2018/01/10/055929_BSKIslfZ.png)
 
-<Memorial dungeons are added>
+< Memorial dungeons are added >
 
 ### Memorial Dungeon: Izlude's 2nd Floor
  
