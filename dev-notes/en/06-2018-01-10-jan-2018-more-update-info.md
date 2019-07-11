@@ -12,7 +12,7 @@ Change to second class by completing a quest. To do the quest you must be at lea
 
 ![screenshot](http://imgc.gnjoy.com/ufile/common/2018/01/10/055114_Qe2l1nII.png)
 
-<The updated second classes>
+< The updated second classes >
 
 However, in the 2nd job class announcement on Dec 28, 2017, we mentioned Bard & Dancer. On January 31, you will not be able to change to those classes, as their skills are still being redevoloped.
 
@@ -26,7 +26,7 @@ Glast Heim will be added, and some areas will appear as Fever dungeons. In that 
 
 ![mobs](http://imgc.gnjoy.com/ufile/common/2018/01/10/055448_aOiHhXL6.png)
 
-<Glast Heim dungeon opens>
+< Glast Heim dungeon opens >
 
 ### Clock Tower Dungeon
 
