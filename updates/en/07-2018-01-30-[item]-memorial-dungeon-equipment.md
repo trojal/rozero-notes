@@ -194,7 +194,7 @@
 			</td>
 			<td>
         MaxHP + 500, MaxSP + 30, MDEF + 5, DEF + 30.<br/>
-        When smelting +3, DEF + 10, MHP + 50.<br/>
+        When smelting +3, DEF + 10, MaxHP + 50.<br/>
         ----------------<br/>
         When wearing Expedition (Grade 2) Mantle, Expedition (Grade 2) Boots, Expedition (Grade 2) Ring,<br/>
         ATK + 20,<br/>
@@ -317,7 +317,7 @@
 			<td>
         INT + 1, DEX + 1.<br/>
         MaxHP + 500, MaxSP + 70, MDEF + 5, DEF + 40.<br/>
-        When smelting +5, DEF + 10, MSP + 20.<br/>
+        When smelting +5, DEF + 10, MaxSP + 20.<br/>
         ----------------<br/>
         When wearing Dispatching (Grade 3) Muffler, Dispatching (Grade 3) Shoes, & Dispatching (Grade 3) Magic Ring,<br/>
         MATK + 25,<br/>
@@ -1131,19 +1131,19 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 | CRIT + 1 | DEX + 1 | DEX + 2 |
 | DEF + 15 | STR + 1 | STR + 2 |
 | MDEF + 2 | INT + 1 | INT + 2 ]
-| MHP + 50 | VIT + 1 | VIT + 2 |
-| MHP + 100 | LUK + 1 | LUK + 2 |
-| MHP + 200 | | |
+| MaxHP + 50 | VIT + 1 | VIT + 2 |
+| MaxHP + 100 | LUK + 1 | LUK + 2 |
+| MaxHP + 200 | | |
 
 #### Subjugation (Grade 1) Armor +9 smelting enchantment only
 
 | | | |
 |---|---|---|
-| MHP + 50 | AGI + 1 | AGI + 2 |
-| MHP + 100 | DEX + 1 | DEX + 2 |
-| MHP + 200 | STR + 1 | STR + 2 |
-| MHP + 300 | INT + 1 | INT + 2 |
-| MHP + 400 | VIT + 1 | VIT + 2 |
+| MaxHP + 50 | AGI + 1 | AGI + 2 |
+| MaxHP + 100 | DEX + 1 | DEX + 2 |
+| MaxHP + 200 | STR + 1 | STR + 2 |
+| MaxHP + 300 | INT + 1 | INT + 2 |
+| MaxHP + 400 | VIT + 1 | VIT + 2 |
 | FLEE + 3 | LUK + 1 | LUK + 2 |
 | Mage's Essence Lvl 1 | Swordsman's Essence Lvl 1 | CRIT + 1 |
 | Acolyte's Essence Lvl 1 | Merchant's Essence Lvl 1 | DEF + 15 |
@@ -1163,9 +1163,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 | CRIT + 1 | DEX + 1 | DEX + 2 |
 | DEF + 15 | STR + 1 | STR + 2 |
 | MDEF + 2 | INT + 1 | INT + 2 ]
-| MHP + 50 | VIT + 1 | VIT + 2 |
-| MHP + 100 | LUK + 1 | LUK + 2 |
-| MHP + 200 | | |
+| MaxHP + 50 | VIT + 1 | VIT + 2 |
+| MaxHP + 100 | LUK + 1 | LUK + 2 |
+| MaxHP + 200 | | |
 
 ※ 제련도가 9 이상인 Armor 장비의 마지막 슬롯에 직업군 정수가 인챈트됩니다.
 
@@ -1279,7 +1279,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
         Mage's Essence Lvl 2
 			</td>
-			<td>[Cold Bolt], [Fire Bolt], [Lightning Bolt] Damage increased by 20%. [Firewall] Variable casting per level reduced by 1%. Armor의 제련도 2당 MSP + 50씩 증가. +50 MaxSP every +2 armor smelting.</td>
+			<td>[Cold Bolt], [Fire Bolt], [Lightning Bolt] Damage increased by 20%. [Firewall] Variable casting per level reduced by 1%. Armor의 제련도 2당 MaxSP + 50씩 증가. +50 MaxSP every +2 armor smelting.</td>
 		</tr>
 		<tr>
 			<td>
