@@ -1030,77 +1030,77 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 
 ### Dispatching Equipment (Grade 3) Combination
 
-| 장착 Combination material     | 서브 Combination material                                  | Result          |
-|--------------|-------------------------------------------|--------------|
-| Expedition (Grade 2) Armor[1]   | 푸른 빛의 결정체(50) + Red Lotus Jello Stone (4)               | Dispatching (Grade 3) Chainmail[1]   |
-| Expedition (Grade 2) Mantle[1]   | 푸른 빛의 결정체(50) + Chaotic Jello Stone (4)               | Dispatching (Grade 3) Mantle[1]   |
-| Expedition (Grade 2) Boots[1]   | 푸른 빛의 결정체(50) + Red Lotus Jello Stone (4)               | Dispatching (Grade 3) Greaves[1]  |
-| Expedition (Grade 2) Ring[1]   | 푸른 빛의 결정체(50) + Holy Jello Stone (6)               | Dispatching (Grade 3) Ring[1]   |
-| Expedition (Grade 2) Armor[1]   | 푸른 빛의 결정체(50) + Red Lotus Jello Stone (2) + Chaotic Jello Stone (2) | Dispatching (Grade 3) Clothes[1]  |
-| Expedition (Grade 2) Mantle[1]   | 푸른 빛의 결정체(50) + Red Lotus Jello Stone (2) + Chaotic Jello Stone (2) | Dispatching (Grade 3) Scouting Mantle[1] |
-| Expedition (Grade 2) Boots[1]   | 푸른 빛의 결정체(50) + Chaotic Jello Stone (4)               | Dispatching (Grade 3) Boots[1]   |
-| Expedition (Grade 2) Ring[1]   | 푸른 빛의 결정체(50) + Holy Jello Stone (6)               | Dispatching (Grade 3) Glove[1]  |
-| Expedition (Grade 2) Robe[1]   | 푸른 빛의 결정체(50) + Breeze Jello Stone (4)               | Dispatching (Grade 3) Robe[1]   |
-| Expedition (Grade 2) Muffler[1]  | 푸른 빛의 결정체(50) + Holy Jello Stone (2) + Breeze Jello Stone (2) | Dispatching (Grade 3) Muffler[1]  |
-| Expedition (Grade 2) Shoes[1]   | 푸른 빛의 결정체(50) + Breeze Jello Stone (4)               | Dispatching (Grade 3) Shoes[1]   |
-| Expedition (Grade 2) Magic Ring[1] | 푸른 빛의 결정체(50) + Holy Jello Stone (6)               | Dispatching (Grade 3) Magic Ring[1] |
-| Expedition (Grade 2) Robe[1]   | 푸른 빛의 결정체(50) + Breeze Jello Stone (2) + Holy Jello Stone (2) | Dispatching (Grade 3) Clothes[1]   |
-| Expedition (Grade 2) Muffler[1]  | 푸른 빛의 결정체(50) + Holy Jello Stone (2)               | Dispatching (Grade 3) Cape[1]  |
-| Expedition (Grade 2) Shoes[1]   | 푸른 빛의 결정체(50) + Holy Jello Stone (4)               | Dispatching (Grade 3) Magic Shoes[1] |
-| Expedition (Grade 2) Magic Ring[1] | 푸른 빛의 결정체(50) + Holy Jello Stone (6)               | Dispatching (Grade 3) Necklace[1]  |
+| Starting equipment | Combination material | Result |
+|--------------|-----------------|--------------|
+| Expedition (Grade 2) Armor[1]   | Crystal of Blue Light + Red Lotus Jello Stone (4)               | Dispatching (Grade 3) Chainmail[1]   |
+| Expedition (Grade 2) Mantle[1]   | Crystal of Blue Light + Chaotic Jello Stone (4)               | Dispatching (Grade 3) Mantle[1]   |
+| Expedition (Grade 2) Boots[1]   | Crystal of Blue Light + Red Lotus Jello Stone (4)               | Dispatching (Grade 3) Greaves[1]  |
+| Expedition (Grade 2) Ring[1]   | Crystal of Blue Light + Holy Jello Stone (6)               | Dispatching (Grade 3) Ring[1]   |
+| Expedition (Grade 2) Armor[1]   | Crystal of Blue Light + Red Lotus Jello Stone (2) + Chaotic Jello Stone (2) | Dispatching (Grade 3) Clothes[1]  |
+| Expedition (Grade 2) Mantle[1]   | Crystal of Blue Light + Red Lotus Jello Stone (2) + Chaotic Jello Stone (2) | Dispatching (Grade 3) Scouting Mantle[1] |
+| Expedition (Grade 2) Boots[1]   | Crystal of Blue Light + Chaotic Jello Stone (4)               | Dispatching (Grade 3) Boots[1]   |
+| Expedition (Grade 2) Ring[1]   | Crystal of Blue Light + Holy Jello Stone (6)               | Dispatching (Grade 3) Glove[1]  |
+| Expedition (Grade 2) Robe[1]   | Crystal of Blue Light + Breeze Jello Stone (4)               | Dispatching (Grade 3) Robe[1]   |
+| Expedition (Grade 2) Muffler[1]  | Crystal of Blue Light + Holy Jello Stone (2) + Breeze Jello Stone (2) | Dispatching (Grade 3) Muffler[1]  |
+| Expedition (Grade 2) Shoes[1]   | Crystal of Blue Light + Breeze Jello Stone (4)               | Dispatching (Grade 3) Shoes[1]   |
+| Expedition (Grade 2) Magic Ring[1] | Crystal of Blue Light + Holy Jello Stone (6)               | Dispatching (Grade 3) Magic Ring[1] |
+| Expedition (Grade 2) Robe[1]   | Crystal of Blue Light + Breeze Jello Stone (2) + Holy Jello Stone (2) | Dispatching (Grade 3) Clothes[1]   |
+| Expedition (Grade 2) Muffler[1]  | Crystal of Blue Light + Holy Jello Stone (2)               | Dispatching (Grade 3) Cape[1]  |
+| Expedition (Grade 2) Shoes[1]   | Crystal of Blue Light + Holy Jello Stone (4)               | Dispatching (Grade 3) Magic Shoes[1] |
+| Expedition (Grade 2) Magic Ring[1] | Crystal of Blue Light + Holy Jello Stone (6)               | Dispatching (Grade 3) Necklace[1]  |
 
 ---
 
 ### Conquering Equipment (Grade 4) Combination
 
-| 장착 Combination material     | 서브 Combination material                                   | Result          |
+| Starting equipment | Combination material | Result |
 |--------------|--------------------------------------------|--------------|
-| Dispatching (Grade 3) Chainmail[1]   | 붉은 마력의 결정체(50) + Red Lotus Jello Stone (6)               | Conquering (Grade 4) Chainmail[1]   |
-| Dispatching (Grade 3) Mantle[1]   | 붉은 마력의 결정체(50) + Chaotic Jello Stone (6)               | Conquering (Grade 4) Mantle[1]   |
-| Dispatching (Grade 3) Greaves[1]  | 붉은 마력의 결정체(50) + Red Lotus Jello Stone (6)               | Conquering (Grade 4) Greaves[1]  |
-| Dispatching (Grade 3) Ring[1]   | 붉은 마력의 결정체(50) + Holy Jello Stone (10)              | Conquering (Grade 4) Ring[1]   |
-| Dispatching (Grade 3) Clothes[1]  | 붉은 마력의 결정체(50) + Red Lotus Jello Stone (3) + Chaotic Jello Stone (3) | Conquering (Grade 4) Clothes[1]  |
-| Dispatching (Grade 3) Scouting Mantle[1] | 붉은 마력의 결정체(50) + Red Lotus Jello Stone (3) + Chaotic Jello Stone (3) | Conquering (Grade 4) Scouting Mantle[1] |
-| Dispatching (Grade 3) Boots[1]   | 붉은 마력의 결정체(50) + Chaotic Jello Stone (6)               | Conquering (Grade 4) Boots[1]   |
-| Dispatching (Grade 3) Glove[1]  | 붉은 마력의 결정체(50) + Holy Jello Stone (10)              | Conquering (Grade 4) Glove[1]  |
-| Dispatching (Grade 3) Robe[1]   | 붉은 마력의 결정체(50) + Breeze Jello Stone (6)               | Conquering (Grade 4) Robe[1]   |
-| Dispatching (Grade 3) Muffler[1]  | 붉은 마력의 결정체(50) + Holy Jello Stone (3) + Breeze Jello Stone (3) | Conquering (Grade 4) Muffler[1]  |
-| Dispatching (Grade 3) Shoes[1]   | 붉은 마력의 결정체(50) + Breeze Jello Stone (6)               | Conquering (Grade 4) Shoes[1]   |
-| Dispatching (Grade 3) Magic Ring[1] | 붉은 마력의 결정체(50) + Holy Jello Stone (10)              | Conquering (Grade 4) Magic Ring[1] |
-| Dispatching (Grade 3) Clothes[1]   | 붉은 마력의 결정체(50) + Breeze Jello Stone (3) + Holy Jello Stone (3) | Conquering (Grade 4) Clothes[1]   |
-| Dispatching (Grade 3) Cape[1]  | 붉은 마력의 결정체(50) + Holy Jello Stone (6)               | Conquering (Grade 4) Cape[1]  |
-| Dispatching (Grade 3) Magic Shoes[1] | 붉은 마력의 결정체(50) + Holy Jello Stone (6)               | Conquering (Grade 4) Magic Shoes[1] |
-| Dispatching (Grade 3) Necklace[1]  | 붉은 마력의 결정체(50) + Holy Jello Stone (10)              | Conquering (Grade 4) Necklace[1]  |
+| Dispatching (Grade 3) Chainmail[1]   | Crystal of Red Power (50) + Red Lotus Jello Stone (6)               | Conquering (Grade 4) Chainmail[1]   |
+| Dispatching (Grade 3) Mantle[1]   | Crystal of Red Power (50) + Chaotic Jello Stone (6)               | Conquering (Grade 4) Mantle[1]   |
+| Dispatching (Grade 3) Greaves[1]  | Crystal of Red Power (50) + Red Lotus Jello Stone (6)               | Conquering (Grade 4) Greaves[1]  |
+| Dispatching (Grade 3) Ring[1]   | Crystal of Red Power (50) + Holy Jello Stone (10)              | Conquering (Grade 4) Ring[1]   |
+| Dispatching (Grade 3) Clothes[1]  | Crystal of Red Power (50) + Red Lotus Jello Stone (3) + Chaotic Jello Stone (3) | Conquering (Grade 4) Clothes[1]  |
+| Dispatching (Grade 3) Scouting Mantle[1] | Crystal of Red Power (50) + Red Lotus Jello Stone (3) + Chaotic Jello Stone (3) | Conquering (Grade 4) Scouting Mantle[1] |
+| Dispatching (Grade 3) Boots[1]   | Crystal of Red Power (50) + Chaotic Jello Stone (6)               | Conquering (Grade 4) Boots[1]   |
+| Dispatching (Grade 3) Glove[1]  | Crystal of Red Power (50) + Holy Jello Stone (10)              | Conquering (Grade 4) Glove[1]  |
+| Dispatching (Grade 3) Robe[1]   | Crystal of Red Power (50) + Breeze Jello Stone (6)               | Conquering (Grade 4) Robe[1]   |
+| Dispatching (Grade 3) Muffler[1]  | Crystal of Red Power (50) + Holy Jello Stone (3) + Breeze Jello Stone (3) | Conquering (Grade 4) Muffler[1]  |
+| Dispatching (Grade 3) Shoes[1]   | Crystal of Red Power (50) + Breeze Jello Stone (6)               | Conquering (Grade 4) Shoes[1]   |
+| Dispatching (Grade 3) Magic Ring[1] | Crystal of Red Power (50) + Holy Jello Stone (10)              | Conquering (Grade 4) Magic Ring[1] |
+| Dispatching (Grade 3) Clothes[1]   | Crystal of Red Power (50) + Breeze Jello Stone (3) + Holy Jello Stone (3) | Conquering (Grade 4) Clothes[1]   |
+| Dispatching (Grade 3) Cape[1]  | Crystal of Red Power (50) + Holy Jello Stone (6)               | Conquering (Grade 4) Cape[1]  |
+| Dispatching (Grade 3) Magic Shoes[1] | Crystal of Red Power (50) + Holy Jello Stone (6)               | Conquering (Grade 4) Magic Shoes[1] |
+| Dispatching (Grade 3) Necklace[1]  | Crystal of Red Power (50) + Holy Jello Stone (10)              | Conquering (Grade 4) Necklace[1]  |
 
 ## Enchanting Memorial Dungeon Equipment
  
-### 위치
+### Location
 
-* 인챈트 협회 직원(Subjugation Equipment (Grade 1)) : 프론테라 9시 맵 지하수로 근처 (prt_fild05 251 193)
-* 메모리얼 장인의 공방(원정대/파병대/Conquering Equipment (Grade 4)) : 프론테라 9시방향에 위치한 건물 내부 (prontera 50 227)
-  * → 인챈트 협회 직원 1차 직군 담당, 인챈트 협회 직원 2차 직군 담당, 인챈트 협회 직원 닌자 담당
+* Enchantment Staff (Subjugation Equipment (Grade 1)) : Prontera 9 o'clock near "ground water" (prt_fild05 251 193)
+* Memorial Artisan's Workshop (Expedition (Grade 2) / Dispatching (Grade 3) / Conquering Equipment (Grade 4)): Inside the building at 9 o'clock (prontera 50 227)
+  * → Enchantment Staff 1, Enchantment Staff 2, Enchantment Staff Ninja
 
 ---
 
 ### Enchant Info
 
-* 100,000제니를 소모하여 ‘Memorial Dungeon Equipment'에 인챈트할 수 있습니다.
-* 아이템에 따라 최대 인챈트 부여 개수가 다릅니다.
-* 인챈트 초기화 시 100,000제니 또는 젤스타 1개가 소모됩니다.
-* 100,000제니를 소모하여 인챈트 초기화 시 30% 확률로 장비가 파괴됩니다.
-* 젤스타 1개를 소모하여 인챈트 초기화 시 100% 확률로 초기화에 성공합니다.
+* It costs 100,000 zeny to enchant the Memorial Dungeon Equipment.
+* The maximum number of enchants awarded depends on the item.
+* When you start an enchant, 100,000 zeny or 1 Gel Star is consumed.
+* When you start an enchant, your zeny is consumed and there is a 30% chance your equipment will be destroyed.
+* When you start an enchant with a Gel Star, there is 0% chance your equipment will be destroyed.
 * ‘메모리얼 던전 Armor 장비’에는 9제련 후 마지막 슬롯에 인챈트 시도 시, 랜덤한 직업군의 인챈트가 부여됩니다.
-  * ※ 각 직군에 맞는 인챈트 협회 직원 이용 시 일정한 확률로 직업군 정수 인챈트가 가능합니다.
-* 'Memorial Dungeon Equipment' 수준에 따라 '직업군 정수'의 인챈트 가능한 위치가 정해져있습니다.
-  * (4 슬롯 : Subjugation (Grade 1) Armor, Expedition (Grade 2) Armor/Robe)
-  * (3 슬롯 : Dispatching (Grade 3) Chainmail/Clothes/Robe/Clothes)
-  * (2 슬롯 : Conquering (Grade 4) Chainmail/Clothes/Robe/Clothes)
+  * ※ 각 직군에 맞는 Enchantment Staff 이용 시 일정한 확률로 직업군 정수 인챈트가 가능합니다.
+* 'Memorial Dungeon Equipment' has a fixed maximum number of enchantment slots.
+  * (4 slots : Subjugation (Grade 1) Armor, Expedition (Grade 2) Armor/Robe)
+  * (3 slots : Dispatching (Grade 3) Chainmail/Clothes/Robe/Clothes)
+  * (2 slots : Conquering (Grade 4) Chainmail/Clothes/Robe/Clothes)
 
 ---
 
 ### Enchantable Slot List
 
-| 4 슬롯      | 3, 4 슬롯   | 2, 3, 4 슬록 |
+| 4 slots      | 3, 4 slots   | 2, 3, 4 slots |
 |-----------|-----------|------------|
 | Expedition (Grade 2) Armor   | Dispatching (Grade 3) Chainmail   | Conquering (Grade 4) Chainmail    |
 | Expedition (Grade 2) Mantle   | Dispatching (Grade 3) Mantle   | Conquering (Grade 4) Mantle    |
@@ -1123,7 +1123,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 
 ### Enchantment List (Grade 1 Equip.)
 
-#### 공통 인챈트 목록
+#### Common enchant list
 
 | | | |
 |---|---|---|
@@ -1135,7 +1135,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 | MHP + 100 | LUK + 1 | LUK + 2 |
 | MHP + 200 | | |
 
-#### Subjugation (Grade 1) Armor 9제련 이상 전용 인챈트 목록
+#### Subjugation (Grade 1) Armor +9 smelting enchantment only
 
 | | | |
 |---|---|---|
@@ -1145,9 +1145,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 | MHP + 300 | INT + 1 | INT + 2 |
 | MHP + 400 | VIT + 1 | VIT + 2 |
 | FLEE + 3 | LUK + 1 | LUK + 2 |
-| 마법사의 정수 1LV | 검사의 정수 1LV | CRIT + 1 |
-| 복사의 정수 1LV | 상인의 정수 1LV | DEF + 15 |
-| 궁수의 정수 1LV | 도둑의 정수 1LV | MDEF + 2 |
+| Mage's Essence Lvl 1 | Swordsman's Essence Lvl 1 | CRIT + 1 |
+| Acolyte's Essence Lvl 1 | Merchant's Essence Lvl 1 | DEF + 15 |
+| Archer's Essence Lvl 1 | Thief's Essence Lvl 1 | MDEF + 2 |
 
 ※ 제련도가 9 이상인 메모리얼 던전 Armor 장비의 마지막 슬롯에 인챈트 시도시에만 일정 확률로 직업군 정수가 인챈트됩니다.
 
@@ -1155,7 +1155,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 
 ### Enchantment List (Grades 2, 3, 4 Equip.)
 
-#### 공통 인챈트 목록
+#### Common enchant list
 
 | | | |
 |---|---|---|
@@ -1172,27 +1172,27 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 <table>
   <thead>
     <tr>
-      <th colspan="4">인챈트 협회 직원 1자 직군 정수 리스트</th>
+      <th colspan="4">Enchantment Staff 1</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>검사의 정수 1 LV</td>
-      <td>검사의 정수 2 LV</td>
-      <td>상인의 정수 1 LV</td>
-      <td>상인의 정수 2 LV</td>
+      <td>Swordman's Essence Lvl 1</td>
+      <td>Swordman's Essence Lvl 2</td>
+      <td>Merchant's Essence Lvl 1</td>
+      <td>Merchant's Essence Lvl 2</td>
     </tr>
     <tr>
-      <td>마법사의 정수 1 LV</td>
-      <td>마법사의 정수 2 LV</td>
-      <td>복사의 정수 1 LV</td>
-      <td>복사의 정수 2 LV</td>
+      <td>Mage's Essence Lvl 1</td>
+      <td>Mage's Essence Lvl 2</td>
+      <td>Acolyte's Essence Lvl 1</td>
+      <td>Acolyte's Essence Lvl 2</td>
     </tr>
     <tr>
-      <td>도둑의 정수 1 LV</td>
-      <td>도둑의 정수 2 LV</td>
-      <td>궁수의 정수 1 LV</td>
-      <td>궁수의 정수 2 LV</td>
+      <td>Thief's Essence Lvl 1</td>
+      <td>Thief's Essence Lvl 2</td>
+      <td>Archer's Essence Lvl 1</td>
+      <td>Archer's Essence Lvl 2</td>
     </tr>
   </tbody>
 </table>
@@ -1200,45 +1200,45 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 <table>
   <thead>
     <tr>
-      <th colspan="4">인챈트 협회 직원 2자 직군 정수 리스트</th>
+      <th colspan="4">Enchantment Staff 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>나이트의 정수 1/2Lv</td>
-      <td>나이트의 정수II 1/2Lv</td>
-      <td>블랙스미스의 정수 1/2Lv</td>
-      <td>블랙스미스의 정수II 1/2Lv</td>
+      <td>Knight's Essence Lvl 1/2</td>
+      <td>Knight's Essence II Lvl 1/2</td>
+      <td>Blacksmith's Essence Lvl 1/2</td>
+      <td>Blacksmith's Essence II Lvl 1/2</td>
     </tr>
     <tr>
-      <td>위저드의 정수 1/2Lv</td>
-      <td>위저드의 정수II 1/2Lv</td>
-      <td>프리스트의 정수 1/2Lv</td>
-      <td>프리스트의 정수II 1/2Lv</td>
+      <td>Wizard's Essence Lvl 1/2</td>
+      <td>Wizard's Essence II Lvl 1/2</td>
+      <td>Priest's Essence Lvl 1/2</td>
+      <td>Priest's Essence II Lvl 1/2</td>
     </tr>
     <tr>
-      <td>크루세이더의 정수 1/2Lv</td>
-      <td>크루세이더의 정수II 1/2Lv</td>
-      <td>알케미스트의 정수 1/2Lv</td>
-      <td>알케미스트의 정수II 1/2Lv</td>
+      <td>Crusader's Essence Lvl 1/2</td>
+      <td>Crusader's Essence II Lvl 1/2</td>
+      <td>Alchemist's Essence Lvl 1/2</td>
+      <td>Alchemist's Essence II Lvl 1/2</td>
     </tr>
     <tr>
-      <td>세이지의 정수 1/2Lv</td>
-      <td>세이지의 정수II 1/2Lv</td>
-      <td>몽크의 정수 1/2Lv</td>
-      <td>몽크의 정수II 1/2Lv</td>
+      <td>Sage's Essence Lvl 1/2</td>
+      <td>Sage's Essence II Lvl 1/2</td>
+      <td>Monk's Essence Lvl 1/2</td>
+      <td>Monk's Essence II Lvl 1/2</td>
     </tr>
     <tr>
-      <td>어쌔신의 정수 1/2Lv</td>
-      <td>어쌔신의 정수II 1/2Lv</td>
-      <td>헌터의 정수 1/2Lv</td>
-      <td>헌터의 정수II 1/2Lv</td>
+      <td>Assassin's Essence Lvl 1/2</td>
+      <td>Assassin's Essence II Lvl 1/2</td>
+      <td>Hunter's Essence Lvl 1/2</td>
+      <td>Hunter's Essence II Lvl 1/2</td>
     </tr>
     <tr>
-      <td>로그의 정수 1/2Lv</td>
-      <td>로그의 정수II 1/2Lv</td>
-      <td>바드 & 댄서의 정수 1/2Lv</td>
-      <td>바드 & 댄서의 정수II 1/2Lv</td>
+      <td>Rogue's Essence Lvl 1/2</td>
+      <td>Rogue's Essence II Lvl 1/2</td>
+      <td>Bard & Dancer's Essence Lvl 1/2</td>
+      <td>Bard & Dancer's Essence II Lvl 1/2</td>
     </tr>
   </tbody>
 </table>
@@ -1246,13 +1246,13 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 <table>
   <thead>
     <tr>
-      <th colspan="2">인챈트 협회 직원 닌자 직군 정수 리스트</th>
+      <th colspan="2">Enchantment Staff Ninja</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>닌자의 정수 1/2Lv</td>
-      <td>닌자의 정수II 1/2Lv</td>
+      <td>Ninja's Essence Lvl 1/2</td>
+      <td>Ninja's Essence II Lvl 1/2</td>
     </tr>
   </tbody>
 </table>
@@ -1270,104 +1270,91 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
-        마법사의 정수 1LV
+        Mage's Essence Lvl 1
 			</td>
-			<td>[콜드 볼트], [화이어 볼트], [라이트닝 볼트]의 데미지 20% 증가.<br>
-			[화이어 월] 2레벨당 변동 캐스팅 1% 감소.</td>
+			<td>[Cold Bolt], [Fire Bolt], [Lightning Bolt] damage increased by 20%. [Firewall] Variable casting per level reduced by 1%.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
-        마법사의 정수 2 LV
+        Mage's Essence Lvl 2
 			</td>
-			<td>[콜드 볼트], [화이어 볼트], [라이트닝 볼트] 데미지 20% 증가.<br>
-			[화이어 월] 1레벨당 변동 캐스팅 1% 감소.<br>
-			Armor의 제련도 2당 MSP + 50씩 증가.</td>
+			<td>[Cold Bolt], [Fire Bolt], [Lightning Bolt] Damage increased by 20%. [Firewall] Variable casting per level reduced by 1%. Armor의 제련도 2당 MSP + 50씩 증가. +50 MaxSP every +2 armor smelting.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
-        복사의 정수 1 LV
+        Acolyte's Essence Lvl 1
 			</td>
-			<td>[힐], [민첩성 증가], [블레싱] 소모 SP 15% 감소.<br>
-			[힐] 2레벨당 힐량 1%씩 증가.</td>
+			<td>[Heal], [Increase Agility], [Blessing] Reduced SP cost by 15%. [Heal] Increases the healing rate by 1% per 2 levels.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
-        복사의 정수 2 LV<br/>
+        Acolyte's Essence Lvl 2<br/>
 			</td>
-			<td>[힐], [민첩성 증가], [블레싱 소모] 소모 SP 15% 감소.<br>
-			[힐] 1레벨당 힐량 1%씩 증가.<br>
-			Armor의 제련도 2당 MaxHP + 70, MaxSP + 30씩 증가.</td>
+			<td>[Heal], [Increase Agility], [Blessing] Reduced SP cost by 15%. [Heal] Increases the healing rate by 1% per level. MaxHP +70 and MaxSP +30 every +2 armor smelting.
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
-        궁수의 정수 1 LV
+        Archer's Essence Lvl 1
 			</td>
-			<td>[더블 스트레이핑] 소모 SP 5 감소.<br>
-			[독수리의 눈] 1레벨당 활 공격력 1% 증가.</td>
+			<td>[Double Strafe] Reduced SP consumption by 5. [Eagle Eye] Increases bow damage per level by 1%.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
-        궁수의 정수 2 LV
+        Archer's Essence Lvl 2
 			</td>
-			<td>[더블 스트레이핑] 소모 SP 5 감소.<br>
-			[독수리의 눈] 1레벨당 활 공격력 2% 증가.<br>
-			Armor의 제련도 2당 [애로우 샤워] 데미지 5%씩 증가.</td>
+			<td>[Double Strafe] Reduced SP consumption by 5. [Eagle Eye] Increases bow damage per level by 2%. [Arrow Shower] Increases damage by 5% every +2 armor smelting.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
-        검사의 정수 1 LV
+        Swordman's Essence Lvl 1
 			</td>
-			<td>[매그넘 브레이크] 소모 SP 10 감소.<br>
-			[배쉬] 2레벨당 공격속도 증가(공격 후 딜레이 1%씩 감소).</td>
+			<td>[Magnum Break] Reduced SP consumption by 10. [Bash] Increases attack speed per two levels (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
-        검사의 정수 2 LV
+        Swordman's Essence Lvl 2
 			</td>
-			<td>[매그넘 브레이크] 소모 SP 10감소.<br>
-			[배쉬] 1레벨당 공격속도 증가(공격 후 딜레이 1%씩 감소).<br>
-			Armor의 제련도 2당 [매그넘 브레이크] 데미지 15% 증가.</td>
+			<td>[Magnum Break] Reduced SP consumption by 10. [Bash] Increases attack speed per level (-1% after attack delay). [Magnum Break] Increases damage by 15% every +2 armor smelting.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
-        도둑의 정수 1 LV<br/>
+        Thief's Essence Lvl 1<br/>
 			</td>
-			<td>[스틸] 사용 성공 시, 60초간 ATK + 30.<br>
-			[스틸] 2레벨당 공격속도 증가(공격 후 딜레이 1%씩 감소).</td>
+			<td>[Steal] If successful, ATK + 30 for 60 seconds. [Steal] Increases attack speed every 2 levels (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
-        도둑의 정수 2 LV
+        Thief's Essence Lvl 2
 			</td>
-			<td>[스틸] 사용 성공 시, 60초간 ATK + 30.<br>
-			[스틸] 1레벨당 공격속도 증가(공격 후 딜레이 1%씩 감소).<br>
-			Armor의 제련도 2당 FLEE + 10씩 증가.</td>
+			<td>[Steal] If successful, ATK + 30 for 60 seconds.<br>
+			[Steal] Increases attack speed every level (-1% after attack delay).<br>
+			FLEE + 10 every +2 armor smelting.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
-        상인의 정수 1 LV
+        Merchant's Essence Lvl 1
 			</td>
-			<td>[디스카운트] 1레벨당 ATK + 2씩 증가.<br>
-			[오버챠지] 2레벨당 공격속도 증가(공격 후 딜레이 1%씩 감소).</td>
+			<td>[Discount] ATK +2 per level.<br>
+			[Overcharge] Increases attack speed every 2 levels (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
-        상인의 정수 2 LV
+        Merchant's Essence Lvl 2
 			</td>
-			<td>[디스카운트] 1레벨당 ATK + 2씩 증가.<br>
-			[오버챠지] 1레벨당 공격속도 증가(공격 후 딜레이 1%씩 감소).<br>
-			Armor의 제련도 2당 MaxHP + 100씩 증가.</td>
+			<td>[Discount] ATK +2 per level.<br>
+			[Overcharge] Increases attack speed every level (-1% after attack delay).<br>
+			MaxHP +100 every +2 armor smelting.</td>
 		</tr>
 	</tbody>
 </table>
@@ -1381,257 +1368,257 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
-        나이트의 정수 1Lv
+        Knight's Essence Lvl 1
 			</td>
-			<td>[기병 수련] 스킬 레벨의 3배만큼 CRI 증가.<br>
-			[볼링 배쉬] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소)</td>
+			<td>[Peco Riding] Increases CRIT 3x the skill level.<br>
+			[Bowling Bash] Damage increased by 20%.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
-        나이트의 정수 2Lv
+        Knight's Essence Lvl 2
 			</td>
-			<td>[기병 수련] 스킬 레벨의 5배만큼 CRI 증가.<br>
-			[볼링 배쉬] 데미지 20% 증가.<br>
-			[투핸드 퀴큰] 사용 시, 60초간 크리티컬 데미지 7% 증가.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			<td>[Peco Riding] Increases CRIT 5x the skill level.<br>
+			[Bowling Bash] Damage increased by 20%.<br>
+			[Two-handed Quicken] Increases CRIT damage by 7% for 60 seconds when in use.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
-        블랙스미스의 정수 1Lv
+        Blacksmith's Essence Lvl 1
 			</td>
-			<td>[웨폰 퍼펙션] 사용 시, 60초간 CRI + 10.<br>
-			[맥시마이즈 파워] 스킬 레벨의 3배만큼 CRI 증가.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			<td>[Weapon Perfection] When in use, CRIT + 10 for 60 seconds.<br>
+			[Maximum Power] Increases CRIT 3x the skill level.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
-        블랙스미스의 정수 2Lv
+        Blacksmith's Essence Lvl 2
 			</td>
-			<td>[웨폰 퍼펙션] 사용 시, 60초간 CRI + 10.<br>
-			[맥시마이즈 파워] 스킬 레벨의 5배만큼 CRI 증가.<br>
+			<td>[Weapon Perfection] When in use, CRIT + 10 for 60 seconds.<br>
+			[Maximum Power] Increases CRIT 5x the skill level.<br>
 			[무기 연구] 1레벨당 크리티컬 데미지 1% 증가.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
-        어쌔신의 정수 1Lv
+        Assassin's Essence Lvl 1
 			</td>
-			<td>[그림투스] 스킬 레벨의 3배만큼 CRI 증가.<br>
-			[소닉 블로우] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 크리티컬 데미지 1% 증가.</td>
+			<td>[Grimtooth] Increases CRIT 3x the skill level.<br>
+			[Sonic Blow] Damage increased by 20%.<br>
+			+1% increase in CRIT damage per smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
-        어쌔신의 정수 2Lv
+        Assassin's Essence Lvl 2
 			</td>
-			<td>[그림투스] 스킬 레벨의 5배만큼 CRI 증가.<br>
-			[소닉 블로우] 데미지 20% 증가.<br>
-			[소닉 블로우] 사용 시, 60초간 공격속도 증가(-7% after attack delay).<br>
-			Armor의 제련도 1당 크리티컬 데미지 1% 증가.</td>
+			<td>[Grimtooth] Increases CRIT 5x the skill level.<br>
+			[Sonic Blow] Damage increased by 20%.<br>
+			[Sonic Blow] When in use, increases attack speed for 60 seconds (-7% after attack delay).<br>
+			+1% increase in CRIT damage per smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
-        위저드의 정수 1Lv
+        Wizard's Essence Lvl 1
 			</td>
-			<td>[헤븐즈 드라이브] 스킬의 3배만큼 변동 캐스팅 감소.<br>
-			[메테오 스톰], [로드 오브 버밀리온], [스톰 가스트] 데미지 20% 증가.<br>
-			Armor의 제련도 2당 MATK + 1%.</td>
+			<td>[Heaven's Drive] Reduces variable cast time by 3x the skill.<br>
+			[Meteor Storm], [Lord of Vermilion], [Storm Gust] Damage increased by 20%.<br>
+			MATK +1% every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
-        위저드의 정수 2Lv
+        Wizard's Essence Lvl 2
 			</td>
-			<td>[헤븐즈 드라이브] 스킬의 5배만큼 변동 캐스팅 감소.<br>
-			[메테오 스톰], [로드 오브 버밀리온], [스톰 가스트] 데미지 20% 증가.<br>
-			[콰그마이어] 사용 시, 60초간 FLEE + 30.<br>
-			Armor의 제련도 2당 MATK + 1%.</td>
+			<td>[Heaven's Drive] Reduces variable cast time by 5x the skill.<br>
+			[Meteor Storm], [Lord of Vermilion], [Storm Gust] Damage increased by 20%.<br>
+			[Quagmire] When using, FLEE +30 for 60 seconds.<br>
+			MATK +1% every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
-        프리스트의 정수 1Lv
+        Priest's Essence Lvl 1
 			</td>
-			<td>[마니피캇] 스킬 레벨의 3배만큼 변동 캐스팅 감소.<br>
-			[마그누스 엑소르시스무스] 데미지 20% 증가.<br>
-			Armor의 제련도 2당 [마그누스 엑소르시스무스] 데미지 5%씩 증가.</td>
+			<td>[Magnificat] Decreased cast by 3x the skill level.<br>
+			[Magnus Exorcimus] Damage increased by 20%.<br>
+			[Magnus Exorcimus] Increased damage by 5% every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
-        프리스트의 정수 2Lv
+        Priest's Essence Lvl 2
 			</td>
-			<td>[마니피캇] 스킬 레벨의 5배만큼 변동 캐스팅 감소.<br>
-			[마그누스 엑소르시스무스] 데미지 20% 증가.<br>
-			[글로리아] 사용 시, 60초간 MATK + 7%, 힐량 15% 증가.<br>
-			Armor의 제련도 2당 [마그누스 엑소르시스무스] 데미지 5%씩 증가.</td>
+			<td>[Magnificat] Decreased cast by 5x the skill level.<br>
+			[Magnus Exorcimus] Damage increased by 20%.<br>
+			[Gloria] When in use, increases MATK +7% and Heal by 15% for 60 seconds.<br>
+			[Magnus Exorcimus] Increased damage by 5% every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
-        헌터의 정수 1Lv
+        Hunter's Essence Lvl 1
 			</td>
-			<td>[블리츠 비트] 스킬 레벨의 2배만큼 Increases attack speed (공격 후 딜레이 1% 감소).<br>
-			[블리츠 비트]의 데미지 40% 증가.<br>
-			Armor의 제련도 1당 LUK 1씩 증가.</td>
+			<td>[Blitz Beat] Increases attack speed by 2x the skill level (-1% after attack delay).<br>
+			[Blitz Beat]의 Damage increased by 40%.<br>
+			LUK +1 every +1 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
-        헌터의 정수 2Lv
+        Hunter's Essence Lvl 2
 			</td>
-			<td>[블리츠 비트] 스킬 레벨의 3배만큼 Increases attack speed (공격 후 딜레이 1% 감소).<br>
-			[블리츠 비트]의 데미지 40% 증가.<br>
-			[집중력 향상] 사용 시, 60초간 [블리츠 비트] 데미지 40% additionally.<br>
-			Armor의 제련도 1당 LUK 1씩 증가.</td>
+			<td>[Blitz Beat] Increases attack speed by 3x the skill level (-1% after attack delay).<br>
+			[Blitz Beat]의 Damage increased by 40%.<br>
+			[Improved Concentration] When in use, increases [Blitz Beat] damage by an additional 40% for 60 seconds.<br>
+			LUK +1 every +1 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
-        크루세이더의 정수 1Lv
+        Crusader's Essence Lvl 1
 			</td>
-			<td>[믿음] 스킬 레벨의 3배만큼 ATK 증가.<br>
-			[홀리 크로스] 데미지 15% 증가.<br>
-			Armor의 제련도 2당 MaxHP + 100.</td>
+			<td>[Faith] ATK increased by 3x the skill level.<br>
+			[Holy Cross] Damage increased by 15%.<br>
+			MaxHP +100 every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
-        크루세이더의 정수 2Lv
+        Crusader's Essence Lvl 2
 			</td>
-			<td>[믿음] 스킬 레벨의 5배만큼 ATK 증가.<br>
-			[홀리 크로스] 데미지 15% 증가.<br>
-			[오토 가드] 사용 시, 60초간 DEF + 80.<br>
-			Armor의 제련도 2당 MaxHP + 100.</td>
+			<td>[Faith] ATK increased by 5x the skill level.<br>
+			[Holy Cross] Damage increased by 15%.<br>
+			[Auto Guard] When used, DEF +80 for 60 seconds.<br>
+			MaxHP +100 every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
-        알케미스트의 정수 1Lv
+        Alchemist's Essence Lvl 1
 			</td>
-			<td>[러닝 포션] 레벨의 3배만큼 ATK 증가.<br>
-			공격속도 증가(-10% after attack delay).<br>
-			Armor의 제련도 2당 CRI + 5.</td>
+			<td>[Learning Potion] ATK increased by 3x the level.<br>
+			Increased attack speed (-10% after attack delay).<br>
+			CRIT +5 every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
-        알케미스트의 정수 2Lv
+        Alchemist's Essence Lvl 2
 			</td>
 			<td>
-			[러닝 포션] 레벨의 5배만큼 ATK 증가.<br>
-			공격속도 10% 증가.<br>
-			[포션 피쳐] 사용 시, 60초간 LUK + 7, DEX + 7, INT + 7, <br/>
+			[Learning Potion] ATK increased by 5x the level.<br>
+			Increased attack speed by 10%.<br>
+			[Throw Potion] When in use, LUK +7, DEX +7, INT +7,<br/>
 			몬스터 처치 시 일정 확률로 식인식물병, 코팅약 드롭.<br>
-			Armor의 제련도 2당 CRI + 5.<br/>
+			CRIT +5 every +2 armor smelting level.<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
-        로그의 정수 1Lv
+        Rogue's Essence Lvl 1
 			</td>
-			<td>[도작] 레벨의 3배만큼 ATK 증가.<br>
-			[기습] 데미지 20% 증가<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			<td>[Intimidate] ATK increased by 3x the level.<br>
+			[Backstab] Damage increased by 20%.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
-        로그의 정수 2Lv
+        Rogue's Essence Lvl 2
 			</td>
-			<td>[도작] 레벨의 5배만큼 ATK 증가.<br>
-			[기습] 데미지 20% 증가.<br>
-			[하이딩] 사용 시, 60초간 [기습] 소모 SP 15% 감소.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			<td>[Intimidate] ATK increased by 5x the level.<br>
+			[Backstab] Damage increased by 20%.<br>
+			[Hide] When using, [Backstab] SP consumption reduced by 15% for 60 seconds.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
-        세이지의 정수 1Lv
+        Sage's Essence Lvl 1
 			</td>
-			<td>[오토 스펠] 스킬 레벨의 3배만큼 MATK 증가.<br>
-			[헤븐즈 드라이브], [어스 스파이크] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			<td>[Auto Spell] Increases MATK by 3x the skill level.<br>
+			[Heaven's Drive], [Earth Spike] Damage increased by 20%.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
-        세이지의 정수 2Lv
+        Sage's Essence Lvl 2
 			</td>
-			<td>[오토 스펠] 스킬 레벨의 5배만큼 MATK 증가.<br>
-			[헤븐즈 드라이브], [어스 스파이크] 데미지 20% 증가.<br>
-			[오토 스펠] 사용 시, 60초간 ASPD + 1, 지속성 마법 데미지 15% 증가.<br>
-			Armor의 제련도 1당 공격속도 증가(공격 후 딜레이 1% 감소).</td>
+			<td>[Auto Spell] Increases MATK by 5x the skill level.<br>
+			[Heaven's Drive], [Earth Spike] Damage increased by 20%.<br>
+			[Auto Spell] When used, ASPD +1 & damage increased by 15% for 60 seconds.<br>
+			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
-        몽크의 정수 1Lv
+        Monk's Essence Lvl 1
 			</td>
-			<td>[데몬 베인] 스킬 레벨의 3배만큼 ATK 증가.<br>
-			[연환전신장] 데미지 20% 증가.<br>
-			Armor의 제련도 2당 [맹룡과강]의 데미지 5%씩 증가.</td>
+			<td>[Demon Bane] ATK increased by 3x the skill level.<br>
+			[Raging Quadruple Blow] Damage increased by 20%.<br>
+			[Raging Thrust] Damage increased by 5% every +2 armor smelting.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
-        몽크의 정수 2Lv
+        Monk's Essence Lvl 2
 			</td>
 			<td>
-			데몬 베인 스킬 레벨의 5배만큼 ATK 증가.<br>
-			[연환전신장] 데미지 20% 증가.<br>
-			[축기] 사용 시, 60초간 일반 근접 물리 공격시 <br/>
-			높은 확률로 [오토 스펠] [축기] 발동.<br>
-			Armor의 제련도 2당 [맹룡과강] 데미지 5%씩 증가.<br/>
+			[Demon Bane] ATK increased by 5x the skill level.<br>
+			[Raging Quadruple Blow] Damage increased by 20%.<br>
+			[Summon Spirit Sphere] When in use, for 60 seconds during a normal close physical attack,<br/>
+			activate [Summon Spirit Sphere] with high probability.<br>
+			[Raging Thrust] Damage increased by 5% every +2 armor smelting.<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
-        바드 & 댄서의 정수 1Lv
+        Bard & Dancer's Essence Lvl 1
 			</td>
-			<td>[악기 다루기], [춤 연습] 스킬 레벨만큼 [임기응변] 스킬 쿨타임 감소.<br>
-			[임기응변] 스킬 쿨타임 60초 감소.<br>
-			Armor의 제련도 2당 MaxSP + 30.</td>
+			<td>[Music Lessons], [Dance Lessons] skill level decreases [Amp] skill cooldown.<br>
+			[Amp] Skill cooldown reduced by 60 seconds.<br>
+			MaxSP + 30 every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
-        바드 & 댄서의 정수 2Lv
+        Bard & Dancer's Essence Lvl 2
 			</td>
-			<td>[악기 다루기], [춤 연습] 스킬 레벨의 3배만큼 [임기응변] 스킬 쿨타임 감소.<br>
-			[임기응변] 스킬 쿨타임 60초 감소.<br>
-			[당신을 위한 서비스] 또는 [브라기의 시] 사용 시,<br/>
-			60초간 자신의 SP 자연 회복량 50% 증가.<br>
-			Armor의 제련도 2당 MaxSP + 30.<br/>
+			<td>[Music Lessons], [Dance Lessons] skill level decreases [Amp] skill cooldown by 3x.<br>
+			[Amp] Skill cooldown reduced by 60 seconds.<br>
+			When using [Gypsy's Kiss] or [Magic Strings],<br/>
+			increases SP recovery by 50% for 60 seconds.<br>
+			MaxSP +30 every +2 armor smelting level.<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/05/23/123211_2vKozxrG.bmp"><br/>
-        닌자의 정수 1Lv
+        Ninja's Essence Lvl 1
 			</td>
-			<td>[비도 수련] 스킬 레벨의 3배만큼 ATK 증가.<br>
-			[그림자 베기, [풍마수리검 던지기] 데미지 20% 증가.<br>
-			Armor의 제련도 2당 MaxHP + 100, HIT + 5.</td>
+			<td>[Dagger Throwing Practice] ATK increased by 3x the skill level.<br>
+			[Shadow Slash], [Throw Huuma Shuriken] Damage increased by 20%.<br>
+			MaxHP +100, HIT +5 every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/05/23/123211_2vKozxrG.bmp"><br/>
-        닌자의 정수 2Lv
+        Ninja's Essence Lvl 2
 			</td>
-			<td>[비도 수련] 스킬 레벨의 5배만큼 ATK 증가.<br>
-			[그림자 베기, [풍마수리검 던지기] 데미지 20% 증가.<br>
-			염 사용 시, 60초간 [그림자 베기, [풍마수리검 던지기] 데미지 20% additionally.<br>
-			Armor의 제련도 2당 MaxHP + 100, HIT + 5.</td>
+			<td>[Dagger Throwing Practice] ATK increased by 5x the skill level.<br>
+			[Shadow Slash], [Throw Huuma Shuriken] Damage increased by 20%.<br>
+			When using [Ninja Aura], [Shadow Slash], [Throw Huuma Shuriken] Damage increased by 20% additionally for 60 seconds.<br>
+			MaxHP +100, HIT +5 every +2 armor smelting level.</td>
 		</tr>
 	</tbody>
 </table>
@@ -1645,188 +1632,188 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044052_ZyO2iTAh.bmp"><br/>
-        나이트의 정수Ⅱ 1Lv
+        Knight's Essence II Lvl 1
 			</td>
-			<td>[창 수련] 스킬 레벨 만큼 HIT 증가.<br>
-			[피어스] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			<td>[Spear Mastery] HIT increased by skill level.<br>
+			[Pierce] Damage increased by 20%.<br>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
-        블랙스미스의 정수Ⅱ 1Lv
+        Blacksmith's Essence II Lvl 1
 			</td>
-			<td>[스킨 템퍼린] 스킬 레벨만큼 LUK 증가.<br>
+			<td>[Skin Tempering] LUK increased by skill level.<br>
 			DEX + 10.<br>
-			Armor의 제련도 2당 LUK 1씩 증가.</td>
+			LUK +1 every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
-        어쌔신의 정수Ⅱ 1Lv
+        Assassin's Essence II Lvl 1
 			</td>
-			<td>[왼손 수련] 스킬 레벨의 3배 만큼 FLEE 증가.<br>
-			[베넘 스플래셔] 데미지 20% 증가.<br>
-			Armor의 제련도 2당 변동 캐스팅 3%씩 감소.</td>
+			<td>[Lefthand Mastery] Increases FLEE by 3x skill level.<br>
+			[Venom Splasher] Damage increased by 20%.<br>
+			Variable casting reduced by 3% every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044227_JgwS4kwq.bmp"><br/>
-        위저드의 정수Ⅱ 1Lv
+        Wizard's Essence II Lvl 1
 			</td>
-			<td>[로드 오브 버밀리온] 스킬 레벨의 2배만큼 변동 캐스팅 감소.<br>
-			[유피텔 선더] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 MATK + 2.</td>
+			<td>[Lord of Vermilion] Reduces variable cast time by 2x the skill level.<br>
+			[유피텔 선더] Damage increased by 20%.<br>
+			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044251_CotYhNl7.bmp"><br/>
-        프리스트의 정수Ⅱ 1Lv
+        Priest's Essence II Lvl 1
 			</td>
-			<td>[메이스 수련] 스킬 레벨의 3배만큼 ATK 증가.<br>
-			크리티컬 데미지 15% 증가.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			<td>[Mace Training] ATK increased by 3x the skill level.<br>
+			Critical damage increased by 15%..<br>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044329_UfzGpWri.bmp"><br/>
-        헌터의 정수Ⅱ 1Lv
+        Hunter's Essence II Lvl 1
 			</td>
-			<td>[비스트 베인] 스킬 레벨의 3배만큼 ATK 증가.<br>
-			[더블 스트레이핑] 데미지 20% 증가.<br>
-			Armor의 제련도 2당 활 공격력 3%씩 증가.</td>
+			<td>[Beast Bane] ATK increased by 3x the skill level.<br>
+			[Double Strafe] Damage increased by 20%.<br>
+			+3% bow damage for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044354_UiZ961Nr.bmp"><br/>
-        닌자의 정수Ⅱ 1Lv
+        Ninja's Essence II Lvl 1
 			</td>
-			<td>[인법 수련] 스킬 레벨의 3배만큼 MATK 증가.<br>
-			[폭염룡], [빙정락], [삭풍] 데미지 20% 증가.<br>
+			<td>[인법 수련] Increases MATK by 3x the skill level.<br>
+			[폭염룡], [빙정락], [삭풍] Damage increased by 20%.<br>
 			Armor의 제련도 2당 [홍염화], [빙섬창], [풍인] 변동 캐스팅 5%씩 감소.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044052_ZyO2iTAh.bmp"><br/>
-        크루세이더의 정수Ⅱ 1Lv
+        Crusader's Essence II Lvl 1
 			</td>
-			<td>[믿음] 스킬 레벨의 3배만큼 MATK 증가.<br>
-			[그랜드 크로스] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 MATK + 2.</td>
+			<td>[Faith] Increases MATK by 3x the skill level.<br>
+			[그랜드 크로스] Damage increased by 20%.<br>
+			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
-        알케미스트의 정수Ⅱ 1Lv
+        Alchemist's Essence II Lvl 1
 			</td>
-			<td>[파머시] 스킬 레벨의 3배만큼 ATK 증가.<br>
+			<td>[파머시] ATK increased by 3x the skill level.<br>
 			[매머나이트] 데미지 100% 증가.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
-        로그의 정수Ⅱ 1Lv
+        Rogue's Essence II Lvl 1
 			</td>
 			<td>[스내쳐] 스킬 레벨만큼 HIT 증가.<br>
-			[백 스텝] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			[백 스텝] Damage increased by 20%.<br>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044227_JgwS4kwq.bmp"><br/>
-        세이지의 정수Ⅱ 1Lv
+        Sage's Essence II Lvl 1
 			</td>
-			<td>[어드밴스드 북] 스킬 레벨의 3배만큼 MATK 증가.<br>
-			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 MATK + 2.</td>
+			<td>[어드밴스드 북] Increases MATK by 3x the skill level.<br>
+			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] Damage increased by 20%.<br>
+			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044251_CotYhNl7.bmp"><br/>
-        몽크의 정수Ⅱ 1Lv
+        Monk's Essence II Lvl 1
 			</td>
-			<td>[데몬 베인] 스킬 레벨의 3배만큼 [침투경]의 변동 캐스팅 감소.<br>
-			[침투경] 데미지 20% 증가.<br>
+			<td>[Demon Bane] 스킬 레벨의 3배만큼 [침투경]의 변동 캐스팅 감소.<br>
+			[침투경] Damage increased by 20%.<br>
 			Armor의 제련도 2당 [침투경] 데미지 5%씩 증가.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044329_UfzGpWri.bmp"><br/>
-        바드 & 댄서의 정수Ⅱ 1Lv
+        Bard & Dancer's Essence II Lvl 1
 			</td>
-			<td>[악기 다루기] 또는 [춤 연습] 스킬 레벨의 3배만큼 ATK 증가.<br>
-			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] 데미지 20% 증가.<br>
+			<td>[Music Lessons] 또는 [Dance Lessons] ATK increased by 3x the skill level.<br>
+			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] Damage increased by 20%.<br>
 			Armor의 제련도 2당 원거리 무기 물리 데미지 1% 씩 증가.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044052_ZyO2iTAh.bmp"><br/>
-        나이트의 정수Ⅱ 2Lv
+        Knight's Essence II Lvl 2
 			</td>
-			<td>[창 수련] 스킬 레벨의 2배 만큼 HIT 증가.<br>
-			[피어스] 데미지 20% 증가.<br>
-			[피어스] 사용 시, 60초간 [브랜디쉬 스피어] 데미지 40% 증가.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			<td>[Spear Mastery] 스킬 레벨의 2배 만큼 HIT 증가.<br>
+			[Pierce] Damage increased by 20%.<br>
+			[Pierce] 사용 시, 60초간 [브랜디쉬 스피어] Damage increased by 40%.<br>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
-        블랙스미스의 정수Ⅱ 2Lv
+        Blacksmith's Essence II Lvl 2
 			</td>
-			<td>[스킨 템퍼린] 스킬 레벨의 2배 만큼 LUK 증가.<br>
+			<td>[Skin Tempering] 스킬 레벨의 2배 만큼 LUK 증가.<br>
 			DEX + 10.<br>
 			[아드레날린 러쉬] 사용 시, 60초간 DEX, LUK + 10.<br>
-			Armor의 제련도 2당 LUK 1씩 증가.</td>
+			LUK +1 every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
-        어쌔신의 정수Ⅱ 2Lv
+        Assassin's Essence II Lvl 2
 			</td>
-			<td>[왼손 수련] 스킬 레벨의 5배 만큼 FLEE 증가.<br>
-			[베넘 스플래셔] 데미지 20% 증가.<br>
-			[클로킹] 사용 시, 60초간 [베넘 스플래셔] 데미지 20% additionally.<br>
-			Armor의 제련도 2당 변동 캐스팅 3%씩 감소.</td>
+			<td>[Lefthand Mastery] 스킬 레벨의 5배 만큼 FLEE 증가.<br>
+			[Venom Splasher] Damage increased by 20%.<br>
+			[클로킹] 사용 시, 60초간 [Venom Splasher] 데미지 20% additionally.<br>
+			Variable casting reduced by 3% every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044227_JgwS4kwq.bmp"><br/>
-        위저드의 정수Ⅱ 2Lv
+        Wizard's Essence II Lvl 2
 			</td>
-			<td>[로드 오브 버밀리온] 스킬 레벨의 3배만큼 변동 캐스팅 감소.<br>
-			[유피텔 선더] 데미지 20% 증가.<br>
-			[프로스트 노바] 사용 시, 60초간 [유피텔 선더] 데미지 20% 증가.<br>
-			Armor의 제련도 1당 MATK + 2.</td>
+			<td>[Lord of Vermilion] Decreased cast by 3x the skill level.<br>
+			[유피텔 선더] Damage increased by 20%.<br>
+			[프로스트 노바] 사용 시, 60초간 [유피텔 선더] Damage increased by 20%.<br>
+			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044251_CotYhNl7.bmp"><br/>
-        프리스트의 정수Ⅱ 2Lv
+        Priest's Essence II Lvl 2
 			</td>
-			<td>[메이스 수련] 스킬 레벨의 5배만큼 ATK 증가.<br>
-			크리티컬 데미지 15% 증가.<br>
+			<td>[Mace Training] ATK increased by 5x the skill level.<br>
+			Critical damage increased by 15%..<br>
 			[리커버리] 사용 후, 60초간 일반 근접 물리 공격 시<br>
-			높은 확률로 [배쉬] 10레벨 발동.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			높은 확률로 [Bash] 10레벨 발동.<br>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044329_UfzGpWri.bmp"><br/>
-        헌터의 정수Ⅱ 2Lv
+        Hunter's Essence II Lvl 2
 			</td>
-			<td>[비스트 베인] 스킬 레벨의 5배만큼 ATK 증가.<br>
-			[더블 스트레이핑] 데미지 20% 증가.<br>
-			[디텍팅] 사용 시, 60초간 [더블 스트레이핑] 데미지 20% additionally.<br>
-			Armor의 제련도 2당 활 공격력 3%씩 증가.</td>
+			<td>[Beast Bane] ATK increased by 5x the skill level.<br>
+			[Double Strafe] Damage increased by 20%.<br>
+			[디텍팅] 사용 시, 60초간 [Double Strafe] 데미지 20% additionally.<br>
+			+3% bow damage for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044354_UiZ961Nr.bmp"><br/>
-        닌자의 정수Ⅱ 2Lv
+        Ninja's Essence II Lvl 2
 			</td>
-			<td>[인법 수련] 스킬 레벨의 5배만큼 MATK 증가.<br>
-			[폭염룡], [빙정락], [삭풍] 데미지 20% 증가.<br>
+			<td>[인법 수련] Increases MATK by 5x the skill level.<br>
+			[폭염룡], [빙정락], [삭풍] Damage increased by 20%.<br>
 			[매미허물 벗기] 사용 후, 60초간<br>
 			[폭염룡], [빙정락], [삭풍] 데미지 20% additionally.<br>
 			Armor의 제련도 2당 [홍염화], [빙섬창], [풍인] 변동 캐스팅 5%씩 감소.</td>
@@ -1834,62 +1821,62 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044052_ZyO2iTAh.bmp"><br/>
-        크루세이더의 정수Ⅱ 2Lv
+        Crusader's Essence II Lvl 2
 			</td>
-			<td>[믿음] 스킬 레벨의 5배만큼 MATK 증가.<br>
-			[그랜드 크로스] 데미지 20% 증가.<br>
+			<td>[Faith] Increases MATK by 5x the skill level.<br>
+			[그랜드 크로스] Damage increased by 20%.<br>
 			[인듀어] 사용 시, 60초간 받는 힐량 15% 증가.<br>
-			Armor의 제련도 1당 MATK + 2.</td>
+			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
-        알케미스트의 정수Ⅱ 2Lv
+        Alchemist's Essence II Lvl 2
 			</td>
-			<td>[파머시] 스킬 레벨의 5배만큼 ATK 증가.<br>
+			<td>[파머시] ATK increased by 5x the skill level.<br>
 			[매머나이트] 데미지 100% 증가.<br>
 			[포션 피쳐] 사용 후, 60초간 일반 근접 물리 공격 시<br>
-			높은 확률로 [배쉬] 10레벨 발동.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			높은 확률로 [Bash] 10레벨 발동.<br>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
-        로그의 정수Ⅱ 2Lv
+        Rogue's Essence II Lvl 2
 			</td>
 			<td>[스내쳐] 스킬 레벨의 2배만큼 HIT 증가.<br>
-			[백 스텝] 데미지 20% 증가.<br>
+			[백 스텝] Damage increased by 20%.<br>
 			[인베넘] 사용 시, 60초간 [백 스텝] 데미지 20% additionally.<br>
-			Armor의 제련도 1당 ATK + 2.</td>
+			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044227_JgwS4kwq.bmp"><br/>
-        세이지의 정수Ⅱ 2Lv
+        Sage's Essence II Lvl 2
 			</td>
-			<td>[어드밴스드 북] 스킬 레벨의 5배만큼 MATK 증가.<br>
-			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] 데미지 20% 증가.<br>
-			[어스 스파이크] 사용 후, 60초간<br>
+			<td>[어드밴스드 북] Increases MATK by 5x the skill level.<br>
+			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] Damage increased by 20%.<br>
+			[Earth Spike] 사용 후, 60초간<br>
 			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] 데미지 20% additionally.<br>
-			Armor의 제련도 1당 MATK + 2.</td>
+			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044251_CotYhNl7.bmp"><br/>
-        몽크의 정수Ⅱ 2Lv
+        Monk's Essence II Lvl 2
 			</td>
-			<td>[데몬 베인] 스킬 레벨의 5배만큼 [침투경]의 변동 캐스팅 감소.<br>
-			[침투경] 데미지 20% 증가.<br>
-			[블레싱] 사용 시, 60초간 [침투경] 사용 시 높은 확률로 [축기] 발동.<br>
+			<td>[Demon Bane] 스킬 레벨의 5배만큼 [침투경]의 변동 캐스팅 감소.<br>
+			[침투경] Damage increased by 20%.<br>
+			[블레싱] 사용 시, 60초간 [침투경] 사용 시 높은 확률로 [Summon Spirit Sphere] 발동.<br>
 			Armor의 제련도 2당 [침투경] 데미지 5%씩 증가.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044329_UfzGpWri.bmp"><br/>
-        바드 & 댄서의 정수Ⅱ 2Lv
+        Bard & Dancer's Essence II Lvl 2
 			</td>
-			<td>[악기 다루기] 또는 [춤 연습] 스킬 레벨의 5배만큼 ATK 증가.<br>
-			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] 데미지 20% 증가.<br>
+			<td>[Music Lessons] 또는 [Dance Lessons] ATK increased by 5x the skill level.<br>
+			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] Damage increased by 20%.<br>
 			[앵콜] 사용 후, 60초간<br>
 			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] 데미지 20% additionally.<br>
 			Armor의 제련도 2당 원거리 무기 물리 데미지 1% 씩 증가.</td>
@@ -1899,9 +1886,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 
 ---
 
-※ 홈페이지 정보는 게임의 업데이트에 따라 내용이 다소 변경 될 수 있습니다.
+※ The homepage information may change slightly depending on the update of the game.
 
-(Update. 2018.08.06) 
+(Last updated on kRO website: 2018.08.06) 
 
 ## Source
 
