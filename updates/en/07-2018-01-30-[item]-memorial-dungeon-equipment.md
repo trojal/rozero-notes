@@ -1089,9 +1089,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 * When you start an enchant, 100,000 zeny or 1 Gel Star is consumed.
 * When you start an enchant, your zeny is consumed and there is a 30% chance your equipment will be destroyed.
 * When you start an enchant with a Gel Star, there is 0% chance your equipment will be destroyed.
-* ‘메모리얼 던전 Armor 장비’에는 9제련 후 마지막 슬롯에 인챈트 시도 시, 랜덤한 직업군의 인챈트가 부여됩니다.
-  * ※ 각 직군에 맞는 Enchantment Staff 이용 시 일정한 확률로 직업군 정수 인챈트가 가능합니다.
-* 'Memorial Dungeon Equipment' has a fixed maximum number of enchantment slots.
+* After +9 on Memorial dungeon equipments the last slot enchant will get random class essence.
+  * ※ If you use specific class enchanter you will get suitable enchant of your class essense by chance.
+* Depending on the level of the Memorial Dungeon Equipment, the availability of class essence slot will be decided.
   * (4 slots : Subjugation (Grade 1) Armor, Expedition (Grade 2) Armor/Robe)
   * (3 slots : Dispatching (Grade 3) Chainmail/Clothes/Robe/Clothes)
   * (2 slots : Conquering (Grade 4) Chainmail/Clothes/Robe/Clothes)
@@ -1149,7 +1149,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 | Acolyte's Essence Lvl 1 | Merchant's Essence Lvl 1 | DEF + 15 |
 | Archer's Essence Lvl 1 | Thief's Essence Lvl 1 | MDEF + 2 |
 
-※ 제련도가 9 이상인 메모리얼 던전 Armor 장비의 마지막 슬롯에 인챈트 시도시에만 일정 확률로 직업군 정수가 인챈트됩니다.
+※ These enchants are only given for +9 or above Memorial Dungeon Equipment. The enchant occupies the last slot at a certain probability.
 
 ---
 
@@ -1167,7 +1167,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 | MaxHP + 100 | LUK + 1 | LUK + 2 |
 | MaxHP + 200 | | |
 
-※ 제련도가 9 이상인 Armor 장비의 마지막 슬롯에 직업군 정수가 인챈트됩니다.
+※ Enchantment is enchanted in the last slot of Armor Equipment with a smelting rating of 9 or higher.
 
 <table>
   <thead>
@@ -1516,7 +1516,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 			[Learning Potion] ATK increased by 5x the level.<br>
 			Increased attack speed by 10%.<br>
 			[Throw Potion] When in use, LUK +7, DEX +7, INT +7,<br/>
-			몬스터 처치 시 일정 확률로 식인식물병, 코팅약 드롭.<br>
+			몬스터 처치 시 일정 확률로 식인식물병, 코팅약 드롭. (Monsters have a chance to drop plant bottles and glistening coat bottles?)<br>
 			CRIT +5 every +2 armor smelting level.<br/>
 			</td>
 		</tr>
@@ -1662,7 +1662,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         Wizard's Essence II Lvl 1
 			</td>
 			<td>[Lord of Vermilion] Reduces variable cast time by 2x the skill level.<br>
-			[유피텔 선더] Damage increased by 20%.<br>
+			[Jupitel Thunder] Damage increased by 20%.<br>
 			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1671,7 +1671,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         Priest's Essence II Lvl 1
 			</td>
 			<td>[Mace Training] ATK increased by 3x the skill level.<br>
-			Critical damage increased by 15%..<br>
+			Critical damage increased by 15%.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1688,9 +1688,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044354_UiZ961Nr.bmp"><br/>
         Ninja's Essence II Lvl 1
 			</td>
-			<td>[인법 수련] Increases MATK by 3x the skill level.<br>
-			[폭염룡], [빙정락], [삭풍] Damage increased by 20%.<br>
-			Armor의 제련도 2당 [홍염화], [빙섬창], [풍인] 변동 캐스팅 5%씩 감소.</td>
+			<td>[Ninja Mastery] Increases MATK by 3x the skill level.<br>
+			[Exploding Dragon], [Snow Flake Drift], [First Wind] Damage increased by 20%.<br>
+			[Flaming Petals], [Freezing Spear], [Wind Blade] Variable cast reduced by 5% for each +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
@@ -1698,7 +1698,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         Crusader's Essence II Lvl 1
 			</td>
 			<td>[Faith] Increases MATK by 3x the skill level.<br>
-			[그랜드 크로스] Damage increased by 20%.<br>
+			[Grand Cross] Damage increased by 20%.<br>
 			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1706,8 +1706,8 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
         Alchemist's Essence II Lvl 1
 			</td>
-			<td>[파머시] ATK increased by 3x the skill level.<br>
-			[매머나이트] 데미지 100% 증가.<br>
+			<td>[Prepare Potion] ATK increased by 3x the skill level.<br>
+			[Mammonite] Damage increased by 100%.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1715,8 +1715,8 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
         Rogue's Essence II Lvl 1
 			</td>
-			<td>[스내쳐] 스킬 레벨만큼 HIT 증가.<br>
-			[백 스텝] Damage increased by 20%.<br>
+			<td>[Snatch] Increased HIT by skill level.<br>
+			[Back Stab] Damage increased by 20%.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1724,8 +1724,8 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044227_JgwS4kwq.bmp"><br/>
         Sage's Essence II Lvl 1
 			</td>
-			<td>[어드밴스드 북] Increases MATK by 3x the skill level.<br>
-			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] Damage increased by 20%.<br>
+			<td>[Study] Increases MATK by 3x the skill level.<br>
+			[Fire Bolt], [Cold Bolt], [Lightning Bolt] Damage increased by 20%.<br>
 			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1733,27 +1733,27 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044251_CotYhNl7.bmp"><br/>
         Monk's Essence II Lvl 1
 			</td>
-			<td>[Demon Bane] 스킬 레벨의 3배만큼 [침투경]의 변동 캐스팅 감소.<br>
-			[침투경] Damage increased by 20%.<br>
-			Armor의 제련도 2당 [침투경] 데미지 5%씩 증가.</td>
+			<td>[Demon Bane] Reduce variable cast of [Occult Impaction] by 3x the skill level.<br>
+			[Occult Impaction] Damage increased by 20%.<br>
+			[Occult Impaction] Damage increased by 5% for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044329_UfzGpWri.bmp"><br/>
         Bard & Dancer's Essence II Lvl 1
 			</td>
-			<td>[Music Lessons] 또는 [Dance Lessons] ATK increased by 3x the skill level.<br>
-			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] Damage increased by 20%.<br>
-			Armor의 제련도 2당 원거리 무기 물리 데미지 1% 씩 증가.</td>
+			<td>[Music Lessons] or [Dance Lessons] ATK increased by 3x the skill level.<br>
+			[Melody Strike] or [Slinging Arrow] Damage increased by 20%.<br>
+			Increased ranged weapon physical damage by 1% for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044052_ZyO2iTAh.bmp"><br/>
         Knight's Essence II Lvl 2
 			</td>
-			<td>[Spear Mastery] 스킬 레벨의 2배 만큼 HIT 증가.<br>
+			<td>[Spear Mastery] HIT increased by 2x the skill level.<br>
 			[Pierce] Damage increased by 20%.<br>
-			[Pierce] 사용 시, 60초간 [브랜디쉬 스피어] Damage increased by 40%.<br>
+			[Pierce] When in use, for 60 seconds [Brandish Spear] damage increased by 40%.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1761,9 +1761,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
         Blacksmith's Essence II Lvl 2
 			</td>
-			<td>[Skin Tempering] 스킬 레벨의 2배 만큼 LUK 증가.<br>
+			<td>[Skin Tempering] LUK increased by 2x the skill level.<br>
 			DEX + 10.<br>
-			[아드레날린 러쉬] 사용 시, 60초간 DEX, LUK + 10.<br>
+			[Adrenaline Rush] When in use, for 60 seconds DEX & LUK + 10.<br>
 			LUK +1 every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1771,9 +1771,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
         Assassin's Essence II Lvl 2
 			</td>
-			<td>[Lefthand Mastery] 스킬 레벨의 5배 만큼 FLEE 증가.<br>
+			<td>[Lefthand Mastery] FLEE increased by 5x the skill level.<br>
 			[Venom Splasher] Damage increased by 20%.<br>
-			[클로킹] 사용 시, 60초간 [Venom Splasher] 데미지 20% additionally.<br>
+			[Cloaking] When in use, for 60 seconds [Venom Splasher] 20% additional damage.<br>
 			Variable casting reduced by 3% every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1782,8 +1782,8 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         Wizard's Essence II Lvl 2
 			</td>
 			<td>[Lord of Vermilion] Decreased cast by 3x the skill level.<br>
-			[유피텔 선더] Damage increased by 20%.<br>
-			[프로스트 노바] 사용 시, 60초간 [유피텔 선더] Damage increased by 20%.<br>
+			[Jupitel Thunder] Damage increased by 20%.<br>
+			[Frost Nova] When in use, for 60 seconds [Jupitel Thunder] damage increased by 20%.<br>
 			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1792,9 +1792,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         Priest's Essence II Lvl 2
 			</td>
 			<td>[Mace Training] ATK increased by 5x the skill level.<br>
-			Critical damage increased by 15%..<br>
-			[리커버리] 사용 후, 60초간 일반 근접 물리 공격 시<br>
-			높은 확률로 [Bash] 10레벨 발동.<br>
+			Critical damage increased by 15%.<br>
+			[Status Recovery] After use, for 60 seconds during normal close physical attack<br>
+			[Bash] level 10 has high probability of activating.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1804,7 +1804,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 			</td>
 			<td>[Beast Bane] ATK increased by 5x the skill level.<br>
 			[Double Strafe] Damage increased by 20%.<br>
-			[디텍팅] 사용 시, 60초간 [Double Strafe] 데미지 20% additionally.<br>
+			[Detect] When in use, for 60 seconds [Double Strafe] 20% additional damage.<br>
 			+3% bow damage for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1812,11 +1812,11 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044354_UiZ961Nr.bmp"><br/>
         Ninja's Essence II Lvl 2
 			</td>
-			<td>[인법 수련] Increases MATK by 5x the skill level.<br>
-			[폭염룡], [빙정락], [삭풍] Damage increased by 20%.<br>
-			[매미허물 벗기] 사용 후, 60초간<br>
-			[폭염룡], [빙정락], [삭풍] 데미지 20% additionally.<br>
-			Armor의 제련도 2당 [홍염화], [빙섬창], [풍인] 변동 캐스팅 5%씩 감소.</td>
+			<td>[Ninja Mastery] Increases MATK by 5x the skill level.<br>
+			[Exploding Dragon], [Snow Flake Drift], [First Wind] Damage increased by 20%.<br>
+			[Cicada Skin Shed] After use, for 60 seconds<br>
+			[Exploding Dragon], [Snow Flake Drift], [First Wind] 20% additional damage.<br>
+			[Flaming Petals], [Freezing Spear], [Wind Blade] Variable cast reduced by 5% for each +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
@@ -1824,8 +1824,8 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         Crusader's Essence II Lvl 2
 			</td>
 			<td>[Faith] Increases MATK by 5x the skill level.<br>
-			[그랜드 크로스] Damage increased by 20%.<br>
-			[인듀어] 사용 시, 60초간 받는 힐량 15% 증가.<br>
+			[Grand Cross] Damage increased by 20%.<br>
+			[Endure] When in use, for 60 seconds increased healing by 15%.<br>
 			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1833,10 +1833,10 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044129_yeBL9Sdb.bmp"><br/>
         Alchemist's Essence II Lvl 2
 			</td>
-			<td>[파머시] ATK increased by 5x the skill level.<br>
-			[매머나이트] 데미지 100% 증가.<br>
-			[포션 피쳐] 사용 후, 60초간 일반 근접 물리 공격 시<br>
-			높은 확률로 [Bash] 10레벨 발동.<br>
+			<td>[Prepare Potion] ATK increased by 5x the skill level.<br>
+			[Mammonite] Damage increased by 100%.<br>
+			[Aid Potion] After use, for 60 seconds during normal close physical attack<br>
+			[Bash] level 10 has high probability of activating.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1844,9 +1844,9 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044153_dq2SnrNW.bmp"><br/>
         Rogue's Essence II Lvl 2
 			</td>
-			<td>[스내쳐] 스킬 레벨의 2배만큼 HIT 증가.<br>
-			[백 스텝] Damage increased by 20%.<br>
-			[인베넘] 사용 시, 60초간 [백 스텝] 데미지 20% additionally.<br>
+			<td>[Snatch] HIT increased by 2x the skill level.<br>
+			[Back Stab] Damage increased by 20%.<br>
+			[Envenom] When in use, for 60 seconds [Back Stab] 20% additional damage.<br>
 			ATK +2 every +1 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1854,10 +1854,10 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044227_JgwS4kwq.bmp"><br/>
         Sage's Essence II Lvl 2
 			</td>
-			<td>[어드밴스드 북] Increases MATK by 5x the skill level.<br>
-			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] Damage increased by 20%.<br>
-			[Earth Spike] 사용 후, 60초간<br>
-			[화이어 볼트], [콜드 볼트], [라이트닝 볼트] 데미지 20% additionally.<br>
+			<td>[Study] Increases MATK by 5x the skill level.<br>
+			[Fire Bolt], [Cold Bolt], [Lightning Bolt] Damage increased by 20%.<br>
+			[Earth Spike] After use, for 60 seconds<br>
+			[Fire Bolt], [Cold Bolt], [Lightning Bolt] 20% additional damage.<br>
 			MATK +2 for every +2 armor smelting level.</td>
 		</tr>
 		<tr>
@@ -1865,21 +1865,21 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044251_CotYhNl7.bmp"><br/>
         Monk's Essence II Lvl 2
 			</td>
-			<td>[Demon Bane] 스킬 레벨의 5배만큼 [침투경]의 변동 캐스팅 감소.<br>
-			[침투경] Damage increased by 20%.<br>
-			[블레싱] 사용 시, 60초간 [침투경] 사용 시 높은 확률로 [Summon Spirit Sphere] 발동.<br>
-			Armor의 제련도 2당 [침투경] 데미지 5%씩 증가.</td>
+			<td>[Demon Bane] Reduces variable cast of [Occult Impaction] by 5x skill level.<br>
+			[Occult Impaction] Damage increased by 20%.<br>
+			[블레싱] When in use, for 60 seconds [Occult Impaction] has a high chance of activating [Summon Spirit Sphere].<br>
+			[Occult Impaction] damage increased by 5% for every +2 smelting level.</td>
 		</tr>
 		<tr>
 			<td>
         <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/06/27/044329_UfzGpWri.bmp"><br/>
         Bard & Dancer's Essence II Lvl 2
 			</td>
-			<td>[Music Lessons] 또는 [Dance Lessons] ATK increased by 5x the skill level.<br>
-			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] Damage increased by 20%.<br>
-			[앵콜] 사용 후, 60초간<br>
-			[뮤지컬 스트라이크] 또는 [화살 감아 던지기] 데미지 20% additionally.<br>
-			Armor의 제련도 2당 원거리 무기 물리 데미지 1% 씩 증가.</td>
+			<td>[Music Lessons] or [Dance Lessons] ATK increased by 5x the skill level.<br>
+			[Melody Strike] or [Slinging Arrow] Damage increased by 20%.<br>
+			[Encore] After use, for 60 seconds<br>
+			[Melody Strike] or [Slinging Arrow] 20% additional damage.<br>
+			Increased ranged weapon physical damage by 1% for every +2 armor smelting level.</td>
 		</tr>
 	</tbody>
 </table>
