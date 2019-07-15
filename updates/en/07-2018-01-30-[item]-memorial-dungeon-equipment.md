@@ -1100,7 +1100,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 
 ### Enchantable Slot List
 
-| 4 slots      | 3, 4 slots   | 2, 3, 4 slots |
+| Gets 1 essence enchant   | Gets 1 stats enchant & 1 essence enchant   | Gets 2 stats enchants & 1 essence enchant |
 |-----------|-----------|------------|
 | Expedition (Grade 2) Armor   | Dispatching (Grade 3) Chainmail   | Conquering (Grade 4) Chainmail    |
 | Expedition (Grade 2) Mantle   | Dispatching (Grade 3) Mantle   | Conquering (Grade 4) Mantle    |
