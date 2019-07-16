@@ -433,7 +433,7 @@
 			</td>
 			<td>
         HP Recovery +15%, SP Recovery +7%.<br/>
-        When smelting +5, 힐 회복량 2% 증가.<br/>
+        When smelting +5, Heal effectiveness increased by 2%.<br/>
         ----------------<br/>
         Category: Shoes<br/>
         DEF: 15<br/>
@@ -719,8 +719,8 @@
 			</td>
 			<td>
         HP Recovery +17%, SP Recovery +10%.<br/>
-        When smelting +5, 힐 회복량 2% 증가.<br/>
-        When smelting +7, 힐 회복량 4% additionally.<br/>
+        When smelting +5, Heal effectiveness increased by 2%.<br/>
+        When smelting +7, Heal effectiveness increased by an additional 4%.<br/>
         ----------------<br/>
         Category: Shoes<br/>
         DEF: 17<br/>
@@ -761,7 +761,7 @@
 			When wearing Conquering (Grade 4) Cape, Conquering (Grade 4) Magic Shoes, & Conquering (Grade 4) Necklace,<br/>
 			MATK + 30,<br/>
 			If total smelting is more than 27,<br/>
-			힐 회복량 4% 증가, variable casting reduced by 10%, fixed casting reduced by 15%.<br/>
+			Heal effectiveness increased by 4%, variable casting reduced by 10%, fixed casting reduced by 15%.<br/>
       ----------------<br/>
 			Category: Armor<br/>
       DEF: 65<br/>

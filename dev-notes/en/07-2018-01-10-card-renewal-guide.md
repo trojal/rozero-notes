@@ -34,9 +34,7 @@ For this card, the HP / SP absorption option has been removed.
  
 ![cards](http://imgc.gnjoy.com/ufile/common/2018/01/10/060711_1PvEOM76.jpg)
  
-위 카드는 마법 계열의 직업을 완전히 무력화시키거나 문제가 되었던 카드입니다.
-
-황금 도둑벌레카드와 마야 카드는 변경이 완료되어 제로 서버에 정상 적용된 상태입니다.
+Golden Thief Bug & Maya cards are ingame, and unchanged at this time.
 
 Thank you for your interest.
 
