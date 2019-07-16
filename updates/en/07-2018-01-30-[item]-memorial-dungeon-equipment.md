@@ -1090,11 +1090,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 * When you start an enchant, your zeny is consumed and there is a 30% chance your equipment will be destroyed.
 * When you start an enchant with a Gel Star, there is 0% chance your equipment will be destroyed.
 * After +9 on Memorial dungeon equipments the last slot enchant will get random class essence.
-  * ※ If you use specific class enchanter you will get suitable enchant of your class essense by chance.
-* Depending on the level of the Memorial Dungeon Equipment, the availability of class essence slot will be decided.
-  * (4 slots : Subjugation (Grade 1) Armor, Expedition (Grade 2) Armor/Robe)
-  * (3 slots : Dispatching (Grade 3) Chainmail/Clothes/Robe/Clothes)
-  * (2 slots : Conquering (Grade 4) Chainmail/Clothes/Robe/Clothes)
+  * ※ If you use specific class enchanter you are more likely to get your class' essence.
 
 ---
 
@@ -1400,7 +1396,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 			</td>
 			<td>[Weapon Perfection] When in use, CRIT + 10 for 60 seconds.<br>
 			[Maximum Power] Increases CRIT 5x the skill level.<br>
-			[무기 연구] 1레벨당 크리티컬 데미지 1% 증가.<br>
+			[Weapon Research] Increases critical damage by 1% per level.<br>
 			Increased attack rate per armor smelting (-1% after attack delay).</td>
 		</tr>
 		<tr>
@@ -1516,7 +1512,7 @@ Location: Inside the building at Prontera 9 o'clock (prontera 50 227)
 			[Learning Potion] ATK increased by 5x the level.<br>
 			Increased attack speed by 10%.<br>
 			[Throw Potion] When in use, LUK +7, DEX +7, INT +7,<br/>
-			몬스터 처치 시 일정 확률로 식인식물병, 코팅약 드롭. (Monsters have a chance to drop plant bottles and glistening coat bottles?)<br>
+			Monsters have a chance of dropping Plant Bottle & Glistening Coat.<br>
 			CRIT +5 every +2 armor smelting level.<br/>
 			</td>
 		</tr>
