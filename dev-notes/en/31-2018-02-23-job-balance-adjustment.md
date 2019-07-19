@@ -36,11 +36,11 @@ Also, there are discussions on the Adrenaline Rush skill that will help you get 
 
 ### Alchemist (알케미스트)
 
-알케미스트는 기본적으로 포션을 제작하고, “투척”이라는 컨셉을 가진 직업군입니다. 포션 피쳐의 경우 값 비싼 포션을 던지는 대신 확실한 회복력을 가진 스킬로 추가 조정은 없을 예정입니다.
+Alchemist class basically crafts potions and has "toss" concept. As for potion pitcher, skill wont be using high priced potions but instead will be high healing skill and no further changes will be made.
 
-데몬 스트레이션과 애시드 테러의 경우, 대인전에서 장비 파괴를 통한 위협적인 역할 및 이를 보호하기 위해 케미컬 프로텍션을 이끌어내는 효과가 있으므로, 해당 스킬들에 대해서도 추가적인 조정은 없을 예정입니다.
+As for Demonstration and acid terror, it has a part of destorying enemy equipments in PvP and chemical protection to prevent getting broken. Same as above there will be no more changes.
 
-다만 이번 조정을 통하여 바이오 캐니벌라이즈와 스피어 마인 등의 스킬에 대한 부분이 개선될 예정입니다.
+But on this patch we will have bio cannibalism and sphere mine skills changed.
 
 ## Thief series (도둑 계열)
 
