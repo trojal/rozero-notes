@@ -54,7 +54,7 @@ The dev team judges that the play direction of Rogues is more towards stealing t
 
 However, I think that it is necessary to cultivate Rogue skills themselves, except for the bow-related ones.
 
-As a result, we are improving Backstab and surprise skills (?) for future adjustments. (이에 따라 백스텝과 기습 스킬의 개선을 추후 조정에 준비하고 있으며, 동시에 도작 스킬 자체 습득레벨에 따라 추가되는 효능을 부여하여 다른 스킬을 훔쳐 사용하지 않더라도 어느 수준의 효과를 받을 수 있도록 개선할 계획입니다.)
+As a result, we are improving Backstab for future adjustments.
 
 In this adjustment, we will mitigate the decrease in attack speed when Rogues equip a shield.
 

@@ -102,9 +102,7 @@ Mao says he is preparing to reform the world so it will be a better place. "You 
 
 If you go to the dragon with this dragon stone, you can change it into a dragon weapon, which is a special weapon of the castle. You can give special power to the dragon weapon with the dragon stone.
 
-조지룡을 통해 지룡석 20개로 임의의 지룡무기 1개로 교환받을 수 있으며, 인챈트 협회 직원에게 지룡석 10개로 지룡무기에 특별한 능력을 인챈트할 수 있습니다.
-
-It can be exchanged for a random special weapon with 20 "woligongs" through "Chojyongryong" (NPC?), and you can enchant the weapon with a special ability with 10 "woligongs" via the Enchantment association staff.
+It can be exchanged for a random special weapon with 20 "woligongs" through "Chojyongryong" (NPC?), and you can enchant the weapon with a special ability with 10 "woligongs" via the Enchantment association staff. (조지룡을 통해 지룡석 20개로 임의의 지룡무기 1개로 교환받을 수 있으며, 인챈트 협회 직원에게 지룡석 10개로 지룡무기에 특별한 능력을 인챈트할 수 있습니다.)
 
 ![image](http://imgc.gnjoy.com/ufile/common/2018/03/12/013612_K5KEdirp.jpg)
 
