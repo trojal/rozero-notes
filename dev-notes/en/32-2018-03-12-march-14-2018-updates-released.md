@@ -16,8 +16,6 @@ Global Project 1 Louyang, crafted after the Chinese region, is added.
 
 “In Alberta, on the southern end of the Midgardian continent, people with different outfits have appeared. They speak of a place where they live, and want people to go and visit. The people who went there speak of an exotic country, different from that of the Midgard continent. The adventurers' interest in the new continent grew deeper.”
 
-항구도시 알베르타(alberta 246 40)에 위치한 “용지성 홍보대사”에게 10,000 제니를 지불하면 용지성으로 향하는 배를 탈 수 있습니다.
-
 If you pay 10,000 zeny to the "Ambassador of Publicity" (“용지성 홍보대사”) (alberta 246 40), you can go to Louyang.
 
 Please note that all quests in the castle work for characters with a base level of 70 or higher.
@@ -36,7 +34,7 @@ Please note that all quests in the castle work for characters with a base level 
 
 The king of the army tries to visit the royal tomb, but he can't at this time. I hear this story from the soldiers and suddenly get the invitation to go into the tomb.
 
-※ Are the quest is completed, you can enter the royal tomb
+※ After the quest is completed, you can enter the royal tomb
 
 ※ 5 kinds of daily quests are available
 
@@ -102,14 +100,16 @@ Mao says he is preparing to reform the world so it will be a better place. "You 
 
 ![image of html table](http://imgc.gnjoy.com/ufile/common/2018/03/12/013539_9c3DALEJ.png)
 
-이 지룡석을 가지고 조지룡에게 가면 용지성의 특산 무기인 지룡 무기로 바꿀 수 있으며, 지룡석으로 지룡 무기에 특별한 힘을 부여할 수 있습니다.
+If you go to the dragon with this dragon stone, you can change it into a dragon weapon, which is a special weapon of the castle. You can give special power to the dragon weapon with the dragon stone.
 
 조지룡을 통해 지룡석 20개로 임의의 지룡무기 1개로 교환받을 수 있으며, 인챈트 협회 직원에게 지룡석 10개로 지룡무기에 특별한 능력을 인챈트할 수 있습니다.
 
+It can be exchanged for a random special weapon with 20 "woligongs" through "Chojyongryong" (NPC?), and you can enchant the weapon with a special ability with 10 "woligongs" via the Enchantment association staff.
+
 ![image](http://imgc.gnjoy.com/ufile/common/2018/03/12/013612_K5KEdirp.jpg)
 
-<지룡 무기는 임의로 지급됩니다. 자신에게 필요없는 장비는 다른 분과 교환해보세요.>+
-<조지룡, 인챈트 협회 직원 (louyang 199 113)>
+< Weapons are random. Please exchange weapons you don't want with others. >+
+< JojoRyung, enchantment association staff (louyang 199 113)>
 
 ![weapons 1](http://imgc.gnjoy.com/ufile/common/2018/03/12/013706_ZVZW4aBe.png)
 
@@ -121,82 +121,93 @@ Mao says he is preparing to reform the world so it will be a better place. "You 
 
 ---
 
-### 용지성의 조합 투구
+### Louyang helms
 
-탑 근처를 서성이며 고민하고 있는 소천. 소천은 언니와 더 이상 함께 할 수 없을 것 같다며 편지를 전해주기를 부탁합니다. 자매의 사연을 들어 보고 특별한 모자도 만들어 봅시다.
+Talk to Tsing who is standing near the tower to make a special hat.
 
 ![landmark](http://imgc.gnjoy.com/ufile/common/2018/03/12/013912_BMn4UGru.jpg)
 
-<소천 (louyang 186 54)>
+< Tsing (소천) (louyang 186 54)>
 
-※ 왕릉 요괴 토벌대를 완료 후 진행할 수 있습니다.
+※ You can proceed to completion after completing the Royal Tomb Entrance Quest.
 
-### 조합 투구
+### Combination helms
 
 ![items](http://imgc.gnjoy.com/ufile/common/2018/03/12/014018_1SaNGGzb.png)
 
-### 조합 재료
+### Combination material
  
-* 백소진 인형 모자[1]
-  투명한 천조각 500개, 미스릴 원석 30개, 하얀 뱀의 눈물 50개, 보라색 염료 5개, 하얀색 염료 5개, 지룡석 300개
-  ※ 미스릴 원석은 젤스타로 대체할 수 없습니다.
-* 청이의 머리포자기[1]
-  머리포자기 1개, 파랗게 빛나는 비늘 500개, 미스릴 원석 20개, 하얀색 염료 10개, 창포 50개, 빨간색 염료 3개, 지룡석 100개
-  ※ 미스릴 원석은 젤스타로 대체할 수 없습니다.
+* Doll Hat [1] (백소진 인형 모자[1])
+  * 500 pieces of transparent cloth (투명한 천조각 500개)
+  * 30 pieces of Mithril ore (미스릴 원석 30개)
+  * 50 tears of white serpent (하얀 뱀의 눈물 50개)
+  * 5 purple dye (보라색 염료 5개)
+  * 5 white dye (하얀색 염료 5개)
+  * 300 pieces of firefly (지룡석 300개)
+  * ※ Mithril ore can not be replaced with Gel Stars.
+* Cheng Yi's Hair For Porcelain [1] (청이의 머리포자기[1])
+  * 1 hairpin (머리포자기 1개)
+  * 500 blue scales (파랗게 빛나는 비늘 500개)
+  * 20 Mithril ore (미스릴 원석 20개)
+  * 10 white dye (하얀색 염료 10개)
+  * 50 irises (창포 50개)
+  * 3 red dye (빨간색 염료 3개)
+  * 100 dead rocks (지룡석 100개)
+  * ※ Mithril ore can not be replaced with Gel Stars.
 
 ---
 
-## 직업군 밸런스 조절
+## Job balance adjustment
 
-이번 조정 이후에도 밸런스 조정 업데이트는 계속될 예정이며, 업데이트 전 개발자 노트 등을 통해 안내해드리도록 하겠습니다.
+After this adjustment, the balance adjustment updates will continue, and we will guide you through the dev notes before the update.
 
-### 나이트
+### Knight (나이트)
 
-양손검 장착 시 기본 공격 속도가 상향 조정됩니다.
+When equipping a Two-Handed sword, the base ASPD is increased.
 
 ![knight equipment and stat windows](http://imgc.gnjoy.com/ufile/common/2018/03/12/014158_MY8mm3OR.png)
 
-### 로그
+### Rogue (로그)
 
-방패 장착 시 기본 공격 속도가 상향 조정 됩니다.
+When equipping a shield, the base ASPD is increased.
 
 ![rogue equipment and stat windows](http://imgc.gnjoy.com/ufile/common/2018/03/12/014218_vp1OAU3E.png)
 
-### 세이지
+### Sage
 
-랜드 프로텍터/볼케이노/바이어런스 게일/델류즈 캐스팅이 수정됩니다.
+Magnetic Earth (Land Protector), Volcano, Deluge, Violent Gale casting is now fixed.
 
-고정 캐스팅 : 1초 -> 0.5초
+Fixed casting:: 1 second -> 0.5 seconds
 
-변동 캐스팅 : 4초 -> 3초
+Variable Casting : 4 seconds -> 3 seconds
 
-### 헌터
+### Hunter
 
-랜드 마인/블래스트 마인/크레모어 트랩 캐스팅이 변경됩니다.
+Land Mine / Blast Mine / Claymore Trap casting will change.
 
-고정 캐스팅 : 0.5초 -> 0초
+Fixed casting: : 0.5 seconds -> 0 seconds
 
-변동 캐스팅 : 0초 -> 0.5초
+Variable Casting : 0 seconds -> 0.5 seconds
 
-설치용 트랩 상자가 추가됩니다.
+A trap box is added.
 
 ![item description](http://imgc.gnjoy.com/ufile/common/2018/03/12/014254_UST2MtuR.png)
 
 ---
 
-지금까지 2018년 3월 14일 라그나로크 제로 업데이트에 대한 내용이었습니다.
+Those were the updates for March 14, 2018.
 
-추가로 이번 업데이트 내용은 아니지만 3월 내 블랙 스미스의 제조 가능 무기 리스트에 [단검/한손검/양손검/너클/한손도끼/양손도끼/둔기/한손창/양손창] 아이템이 1종씩 추가될 예정입니다.
+The possible manufacturing weapons for the Blacksmith have been updated to the following list: Dagger, One-Handed Sword, Two-Handed Sword, Knuckle, One-Handed Axe, Two-Handed Axe, Mace, One-Handed Spear, and Two-Handed Spear.
 
-물론, 이번 무기 리스트가 추가되면서 랭킹에 따라 부여되는 랜덤 옵션의 종류 및 수치도 함께 개편될 예정입니다.
+Of course, with the addition of this weapon list, the types and numbers of random options that are awarded according to the rankings will also be revised.
 
 ![weapons](http://imgc.gnjoy.com/ufile/common/2018/03/12/014343_6MtMxw6b.png)
 
-<새로운 제조 무기와 새로운 랜덤 옵션 리스트로 찾아뵙겠습니다>
+< We will look for new manufacturing weapons and new random options list >
 
-더 자세한 내용은 추후 업데이트 시, 홈페이지의 공지사항을 참고해주시기 바랍니다.
+For further information, please refer to the notice on the homepage.
 
-감사합니다.
+Thank you.
 
 ## Source
 http://roz.gnjoy.com/news/devnote/View.asp?category=3&seq=742&curpage=2
