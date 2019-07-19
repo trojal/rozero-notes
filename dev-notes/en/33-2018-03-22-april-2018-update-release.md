@@ -62,7 +62,7 @@ Jewelry items are added to Thor's Flame mineral exchange list, to make it easier
 
 Weapons that can only be acquired by Blacksmith production are updated.
 
-제작에 필요한 재료 입수 난이도는 다소 높은 대신, 랜덤 옵션을 떠나서 아이템 자체적으로도 어느정도 수준의 자체 옵션을 부여하였습니다.
+Instead of the random option, the item itself has a certain level of self-selection (제작에 필요한 재료 입수 난이도는 다소 높은 대신, 랜덤 옵션을 떠나서 아이템 자체적으로도 어느정도 수준의 자체 옵션을 부여하였습니다).
 
 ※ Why is there no card slot in the refined weapon?
 
@@ -104,7 +104,11 @@ Next let's talk about the Rogue's Steal Coin skill problem.
 
 Zeny production from Steal Coin is not at risk. However, we will add a skill cooldown to control the skill's efficiency.
 
-현재 개발팀에서 진행중인 직업 밸런스 조정에 대해서 알려드렸는데요. 실제적으로 위에서 언급된 직업군 외에도 다양한 직업군의 조정을 진행하고 있습니다. 다만, 업데이트 일정에 대해서 시일이 걸리더라도 더 많은 직업군의 조정을 함께 가야할지, 우선 적용 가능한 조정 내역부터 업데이트를 진행할 것인지에 대해 확정되지 않았기 때문에 추후 일정이 확정되는대로 개발자 노트를 통해 세부 내용을 알려드리도록 하겠습니다. 추가로 월광검의 옵션에 대해서도 많은 문의를 주시고 계십니다.
+In addition to the above-mentioned job groups, various other jobs are being adjusted.
+
+다만, 업데이트 일정에 대해서 시일이 걸리더라도 더 많은 직업군의 조정을 함께 가야할지, 우선 적용 가능한 조정 내역부터 업데이트를 진행할 것인지에 대해 확정되지 않았기 때문에 추후 일정이 확정되는대로 개발자 노트를 통해 세부 내용을 알려드리도록 하겠습니다.
+
+추가로 월광검의 옵션에 대해서도 많은 문의를 주시고 계십니다.
 
 라그나로크 제로에서는 일정 확률로 준 데미지의 일정 퍼센트만큼 SP/HP를 흡수하는 옵션이 없을 것이다라고 발표한 부분에 대해서 월광검과 같은 매 타격시 SP 회복 옵션은 흡수 옵션이 아닌가요? 라는 문의가 대부분 입니다.
 
