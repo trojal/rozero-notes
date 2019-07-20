@@ -18,3 +18,10 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 바이오 캐니벌라이즈의 | Bio Cannibalize / Summon Flora |
 | 백스텝 | Backstab |
 | 볼링 배쉬 | Bowling Bash |
+| 공격 후 딜레이 감소 | Decrease after attack delay |
+| 습득조건 | Prerequisites |
+| 동빙 | Frozen |
+| 완전회피 | Perfect dodge |
+| 스킬 후 딜레이 | Skill after delay |
+| 혼란 | Confusion |
+| 수면 | Sleep |
