@@ -546,81 +546,75 @@ Prerequisites: 브라기의 시(행운의 키스) 10
 Type: Active
 Type: Ensemble Skill
 Target: You + 31 x 31 cells (yourself and the party members within range)
-Contents: 60초 동안 31 X 31 셀 범위 내 파티원들의 지/ 수/ 화/ 풍 내성이 스킬 레벨에 따라 increase하며.
-암흑, 석화, 동빙, 스턴, 저주, 수면, 침묵, 혼란의 내성 수치가 increase한다.
+Contents: Increases earth / water / fire / wind resistance of you and party members within range for 60 seconds. Resistance to blind, petrified, frozen, stun, curse, sleep, silence, and confusion increases.
 It does not overlap with other Ensemble Skills and is only available when a caster has an instrument or whip equipped. The ensemble skill is activated only when the bard and dancer in the party are within 9 x 9 cells of each other. For 30 seconds while using the Ensemble Skill, skills can not be used, movement speed is decreased and ASPD is decreased.
 
-[Lv 1] : 속성 내성 + 3%, 상태 이상 내성 + 5%
-[Lv 2] : 속성 내성 + 6%, 상태 이상 내성 + 10%
-[Lv 3] : 속성 내성 + 9%, 상태 이상 내성 + 15%
-[Lv 4] : 속성 내성 + 12%, 상태 이상 내성 + 20%
-[Lv 5] : 속성 내성 + 15%, 상태 이상 내성 + 25%
+[Lv 1] : Property resistance + 3%, Abnormal state resistance + 5%
+[Lv 2] : Property resistance + 6%, Abnormal state resistance + 10%
+[Lv 3] : Property resistance + 9%, Abnormal state resistance + 15%
+[Lv 4] : Property resistance + 12%, Abnormal state resistance + 20%
+[Lv 5] : Property resistance + 15%, Abnormal state resistance + 25%
 ```
 
-※ 바드&댄서 스킬의 캐스팅/쿨타임에 대해서
+※ Bard & dancer skill casting / cool down
 
-위 스킬 설명에는 표기되어 있지 않지만 각 스킬 별로 캐스팅 및 스킬 쿨타임이 설정되어있습니다.
-예를 들면, 썰렁한 농담, 비명 지르기의 경우 공성전에서 매우 큰 효과를 발휘하는 스킬이기 때문에
-
-약 10초정도의 스킬 쿨타임이 설정되어있습니다.
+Although not shown in the descriptions above, casting and skill cooldowns are set for each skill. For example, in the case of screeching jokes and screaming, it is a skill that has a very large effect during WoE, so the skill cooldown is set for about 10 seconds.
 
 ---
 
-### 2) 바드&댄서의 정수 업데이트
+### 2) Bard & Dancer Essences Update
 
-바드&댄서 업데이트와 동시에, 메모리얼 던전 갑옷의 인챈트 리스트에 '바드&댄서의 정수'가 추가됩니다.
+At the same time as Bard & Dancer are added, their essences are also added to the enchantment list of the Memorial Dungeon armor.
 
 ![item description](http://imgc.gnjoy.com/ufile/common/2018/04/03/021259_UksPcy4f.png)
 
-<새로운 궁수 계열 직업 정수 인챈트가 추가됩니다!>
+< New Archer-based occupation enchantment is added! >
 
 ---
 
-### 3) 악기와 채찍 계열 신규 장비 업데이트
+### 3) Added new instruments and whips
 
-신규 장비로 악기와 채찍이 2종씩 업데이트됩니다.
+Two new instruments and whips will be added with new equipment.
 
 ![bard and dancer weapons](http://imgc.gnjoy.com/ufile/common/2018/04/03/021342_RESbgQep.png)
 
-<신규 드랍 장비와 지룡 무기가 1종씩 업데이트됩니다!>
+< New equipment and weapons will be added! >
 
 ---
 
-## 2. 용지성 개선
+## 2. Improving usability
 
-### 1) 지룡무기 개선
+### 1) Jiryong weapon improvement
 
-지룡 무기는 협소한 범위이지만 속성과 종족 두 가지 조건을 동시에 만족하면 시너지를 낼 수 있도록 제작하였습니다. 앞으로도 로컬라이징에서 교환하여 얻는 장비는 지룡 무기 같이 특정 속성과 종족에게 데미지 increase 옵션을 가질 것입니다. 일례로 아마쯔 지역에서는 악마형 몬스터 및 화속성 적에게 주는 데미지가 increase하는 장비가 추가될 예정입니다.
+Jiryong weapons have a narrow range, but are designed to produce synergy if both attributes and race conditions are met at the same time. In the future, the localized equipment will be given a certain property (element) and race damage increase options. For example, in the Amatsu area, there will be additional equipment to increase the damage to demon monsters and melee enemies.
 
-다만, 성능을 보다 자유롭게 상승시킬 수 있도록 인챈트 부여 기능을 삭제하고 랜덤 옵션을 부여하거나 부여된 랜덤 옵션을 갱신하는 아이템이 추가되며, 해당 아이템은 지룡석으로 교환할 수 있게 됩니다.
+We've added an NPC that will delete the enchant, gives a random option, or updates a random option that is given, and the item can be exchanged with "a queen". (다만, 성능을 보다 자유롭게 상승시킬 수 있도록 인챈트 부여 기능을 삭제하고 랜덤 옵션을 부여하거나 부여된 랜덤 옵션을 갱신하는 아이템이 추가되며, 해당 아이템은 지룡석으로 교환할 수 있게 됩니다.)
 
-※ 단, 이미 인챈트되어있는 장비는 랜덤 옵션 부여가 불가능하므로 4월간 용지성 안에 인챈트를 무료로 제거해주는 NPC가 제공될 예정입니다.
+※ However, since the equipment that has already been enchanted can not be given a random option, NPC will be provided to remove the enchant free of charge for 4 months.
 
 ![katar magic gif](http://imgc.gnjoy.com/ufile/common/2018/04/03/021417_Nfnwabbq.gif)
 
-<지룡 무기에 랜덤 옵션 부여가 가능해집니다! 제련도 및 장착 카드는 사라지지 않으니 걱정마세요.>
+< Random options can be given to the Jiryong (Louyang) weapons! Do not worry, the smelting and socketed cards will not disappear. >
 
 ![html table](http://imgc.gnjoy.com/ufile/common/2018/04/03/021442_4vz6f8ZM.png)
 
-<랜덤 옵션은 최소 1개에서 최대 2개까지 부여됩니다>
+< One to two random options are given >
 
 ![special weapons](http://imgc.gnjoy.com/ufile/common/2018/04/03/021507_z6NE6a6I.png)
 
-<인챈트 기능이 제거되고, 랜덤 옵션 부여 시스템이 추가됩니다.>
+< The enchant function is removed, and a random option granting system is added >
 
 ---
 
-### 2) 용지성 조합 투구 재료 완화
+### 2) Louyang helm material change
 
-용지성 조합 투구인 '백소진 인형 모자'와 '청이의 머리포자기'의 조합 재료가 변경됩니다. 비교적 입수 난이도가 어려운 재료의 요구량은 감소되며, 일부 재료는 용지성에서 획득 가능한 아이템으로 변경됩니다.
+The materials needed for the Louyang helms have changed and are no longer as difficult to obtain.
 
 ![headgear html table](http://imgc.gnjoy.com/ufile/common/2018/04/03/035729_WAK5BH13.png)
 
-<특히 백소진 인형 모자의 입수난이도가 조정됩니다!>
+Ragnarok Zero will be updated on April 11th. For further information, please refer to the notice on the homepage.
 
-지금까지 라그나로크 제로에 4월 11일 업데이트 예정인 내용들에 대해 소개해드렸습니다. 더 자세한 내용은 추후 업데이트 시, 홈페이지의 공지사항을 참고해주시기 바랍니다.
-
-감사합니다.
+Thank you.
 
 ## Source
 http://roz.gnjoy.com/news/devnote/View.asp?category=3&seq=757&curpage=1

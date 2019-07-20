@@ -20,8 +20,18 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 볼링 배쉬 | Bowling Bash |
 | 공격 후 딜레이 감소 | Decrease after attack delay |
 | 습득조건 | Prerequisites |
-| 동빙 | Frozen |
 | 완전회피 | Perfect dodge |
 | 스킬 후 딜레이 | Skill after delay |
+| 동빙 | Frozen |
 | 혼란 | Confusion |
 | 수면 | Sleep |
+| 저주 | Curse |
+| 침묵 | Silence |
+| 석화 | Petrified |
+| 암흑 | Blind |
+| 스턴 | Stun |
+| 속성 | Property / Element |
+| 지 | Earth |
+| 수 | Water |
+| 화 | Fire |
+| 풍 | Wind |

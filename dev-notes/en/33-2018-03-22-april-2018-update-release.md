@@ -62,11 +62,11 @@ Jewelry items are added to Thor's Flame mineral exchange list, to make it easier
 
 Weapons that can only be acquired by Blacksmith production are updated.
 
-Instead of the random option, the item itself has a certain level of self-selection (제작에 필요한 재료 입수 난이도는 다소 높은 대신, 랜덤 옵션을 떠나서 아이템 자체적으로도 어느정도 수준의 자체 옵션을 부여하였습니다).
+Materials required for forging gathering is difficult, but other than random options the equipment itself has certain options added.
 
 ※ Why is there no card slot in the refined weapon?
 
-제작으로 획득되는 무기가 가진 카드 슬롯 공간은 제작과 관련된 모든 정보들이 저장되는 공간으로 활용됩니다. 속성 부여, 무지 쎈 등의 데이터가 저장되는 공간으로 할당되어 사용되기 때문에 카드 슬롯을 부여할 수 없으며, 이러한 부분을 보완하기 위하여 랜덤 옵션을 지원하는 것입니다.
+Instead of card slots, random options are placed there.
 
 ![weapons 1](http://imgc.gnjoy.com/ufile/common/2018/03/22/033623_joNfH2zi.png)
 
