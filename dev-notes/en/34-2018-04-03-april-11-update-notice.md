@@ -556,7 +556,6 @@ It does not overlap with other Ensemble Skills and is only available when a cast
 [Lv 4] : 속성 내성 + 12%, 상태 이상 내성 + 20%
 [Lv 5] : 속성 내성 + 15%, 상태 이상 내성 + 25%
 ```
- 
 
 ※ 바드&댄서 스킬의 캐스팅/쿨타임에 대해서
 
