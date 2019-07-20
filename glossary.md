@@ -57,3 +57,4 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 오토 스펠 | Auto Spell / Hindsight |
 | 연환전신장 | Raging Quadruple Blow |
 | 맹룡과강 | Raging Thrust |
+| 블릿츠 비트 | Blitz Beat |
