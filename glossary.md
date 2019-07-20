@@ -35,3 +35,4 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 수 | Water |
 | 화 | Fire |
 | 풍 | Wind |
+| 용지성 | Louyang |
