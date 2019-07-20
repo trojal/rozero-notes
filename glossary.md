@@ -2,6 +2,8 @@
 
 To keep track of words and phrases that I continuously see, to prevent me from having to re-translate them / get lost in translation.
 
+## Places
+
 | Korean | English |
 | --- | --- |
 | 고성 | Glast Heim |
@@ -10,6 +12,12 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 시계탑 | Clock Tower |
 | 용지성 | Louyang |
 | 브리토리아 | Britoniah |
+| 용지성 | Louyang |
+
+## Classes 
+
+| Korean | English |
+| --- | --- |
 | 블랙스미스 | Blacksmith |
 | 헌터 | Hunter |
 | 위저드 | Wizard |
@@ -22,10 +30,21 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 알케미스트 | Alchemist |
 | 프리스트 | Priest |
 | 몽크 | Monk |
+
+## Etc 
+
+| Korean | English |
+| --- | --- |
 | 공격 후 딜레이 감소 | Decrease after attack delay |
 | 습득조건 | Prerequisites |
 | 완전회피 | Perfect dodge |
 | 스킬 후 딜레이 | Skill after delay |
+| 큐펫 | Pet |
+
+## Statuses
+
+| Korean | English |
+| --- | --- |
 | 동빙 | Frozen |
 | 혼란 | Confusion |
 | 수면 | Sleep |
@@ -34,13 +53,21 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 석화 | Petrified |
 | 암흑 | Blind |
 | 스턴 | Stun |
+
+## Elements / properties 
+
+| Korean | English |
+| --- | --- |
 | 속성 | Property / Element |
 | 지 | Earth |
 | 수 | Water |
 | 화 | Fire |
 | 풍 | Wind |
-| 용지성 | Louyang |
-| 큐펫 | Pet |
+
+## Skills
+
+| Korean | English |
+| --- | --- |
 | 힐 | Heal |
 | 볼링배쉬 | Bowling Bash |
 | 브랜디쉬 스피어 | Brandish Spear |
