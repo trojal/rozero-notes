@@ -30,6 +30,11 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 알케미스트 | Alchemist |
 | 프리스트 | Priest |
 | 몽크 | Monk |
+| 검사 계열 | Swordman series |
+| 상인 계열 | Merchant series |
+| 도둑 계열 | Thief series |
+| 마법사 계열 | Mage series |
+| 복사 계열 | Acolyte series |
 
 ## Etc 
 
@@ -75,6 +80,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 쉴드 부메랑 | Shield Boomerang |
 | 아드레날린 러쉬 | Adrenaline Rush |
 | 바이오 캐니벌라이즈의 | Bio Cannibalize / Summon Flora |
+| 베넘 스플래셔 | Venom Splasher |
 | 백스텝 | Backstab |
 | 기습 | Sightless Mind |
 | 도작 | Intimidate |
