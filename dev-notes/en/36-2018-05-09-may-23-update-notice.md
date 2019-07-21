@@ -11,12 +11,16 @@ Hi Ragnarok Zero users, it is Ragnarok Zero team of RO1 studio. Today, we will i
 #### Bowling Bash
 
 Deals 2x - 4x damage to targets within a 5x5 range around the target. When attacking with a Two-Handed Sword, the number of attacks increases with the number of surrounding enemies, up to 4 times. An additional 2 second skill cooldown is added.
+
+![Bowling Bash](http://imgc.gnjoy.com/ufile/common/2018/05/09/025824_NpHVMsrg.gif)
 　　
 < Bowling Bash is more effective with Two-Handed Sword, damage will increase depending on number of targets >
  
 #### Brandish Spear
 
 Brandish Spear casting time is slightly shorter, making it faster to attack.
+
+![Brandish Spear](http://imgc.gnjoy.com/ufile/common/2018/05/09/025904_9eht4P6D.gif)
 
 < You will be able to respond a little faster. >
 
@@ -193,47 +197,47 @@ Damage increases. (540% -> 800% based on 5th level)
 
 #### Basic Ability (기본 능력)
  
-방패 장착 시, 기본 공격 속도가 2정도 증가합니다.
+When equipped with a shield, base attack speed increases by 2.
 
-## 6. 궁수 계열
+## 6. Archer series
 
-### 1) 헌터
+### 1) Hunter
 
-#### 블릿츠 비트
+#### Blitz Beat
 
-AGI과 DEX에 따라 데미지가 증가되도록 공식이 변경됩니다.
+Formulas are changed to increase damage according to AGI and DEX.
 
 ![blitz beat gif](http://imgc.gnjoy.com/ufile/common/2018/05/09/030502_XvXRZtsf.gif)
 
-<블릿츠 비트의 데미지 공식이 변경되어 데미지가 증가합니다>
+< Blitz Beat's damage formula is changed to increase damage >
  
 #### Basic Ability (기본 능력)
  
-활 장착 시, 기본 공격 속도가 약 1정도 증가됩니다.
+When equipped with a bow, the base attack speed is increased by about 1.
 
 ![aspd-change](http://imgc.gnjoy.com/ufile/common/2018/05/09/030526_CBbjHlui.png)
 
-<활 장착 시 기본 공격속도가 증가됩니다.>
+< Increases the base attack speed when equipped with bow. >
 
-### 2) 바드&댄서
+### 2) Bard & Dancer
 
 #### Basic Ability (기본 능력)
 
-방패 장착 시, 기본 공격 속도가 약 2정도 증가됩니다.
+When equipped with a shield, base attack speed is increased by about two.
 
-## 7. 확장 직업 : 닌자(Ninja) 업데이트
+## 7. Extended Job: Ninja Update
 
-라그나로크 제로에서 가장 처음으로 선보이는 확장 직업군, 닌자가 업데이트 됩니다. 스킬이 일부 조정되었으며, 닌자가 사용하는 소모품의 가격이 조정되었습니다.
+Ragnarok Zero's first ever extended career group, Ninja, is updated. Some of the skills have been adjusted, and the consumables used by Ninja have been adjusted.
 
 ![ninja gif](http://imgc.gnjoy.com/ufile/common/2018/05/09/030628_1PniiaDZ.gif)
 
-### 비도 수련
+### Dagger Throwing Practice (비도 수련)
 
 ```
 MAX Lv : 10
 계열 : 패시브
 내용 : 닌자의 수리검 계열 공격력을 증가시킨다.
-수리검 던지기, 쿠나이 던지기, 풍마수리검 던지기 스킬 사용 시, 스킬 레벨당 데미지 증가량만큼 가산된다.
+Throw Shuriken (수리검 던지기), Throw Kunai (쿠나이 던지기), Throw Huuma Shuriken (풍마수리검 던지기) 스킬 사용 시, 스킬 레벨당 데미지 증가량만큼 가산된다.
 [Lv 1] : 데미지 증가량 +3
 [Lv 2] : 데미지 증가량 +6
 [Lv 3] : 데미지 증가량 +9
@@ -246,11 +250,11 @@ MAX Lv : 10
 [Lv10] : 데미지 증가량 +30
 ```
 
-### 수리검 던지기
+### Throw Shuriken (수리검 던지기)
 
 ```
 MAX Lv : 10
-습득조건 : 비도 수련 1
+습득조건 : Dagger Throwing Practice (비도 수련) 1
 계열 : 액티브
 타입 : 원거리 물리
 대상 : 대상 1체
@@ -268,11 +272,11 @@ MAX Lv : 10
 [Lv10] : ATK 150%
 ```
 
-### 쿠나이 던지기
+### Throw Kunai (쿠나이 던지기)
 
 ```
 MAX Lv : 5
-습득조건 : 수리검 던지기 5
+습득조건 : Throw Shuriken (수리검 던지기) 5
 계열 : 액티브
 타입 : 원거리 물리
 대상 : 대상 1체
@@ -285,11 +289,11 @@ MAX Lv : 5
 [Lv 5] : ATK 500%
 ```
 
-### 풍마수리검 던지기
+### Throw Huuma Shuriken (풍마수리검 던지기)
 
 ```
 MAX Lv : 5
-습득조건 : 비도 수련 5, 쿠나이 던지기 5
+습득조건 : Dagger Throwing Practice (비도 수련) 5, Throw Kunai (쿠나이 던지기) 5
 계열 : 액티브
 타입 : 원거리 물리
 대상 : 대상 1체
@@ -302,11 +306,11 @@ MAX Lv : 5
 [Lv 5] : ATK1200% / 범위: 5 X 5
 ```
 
-### 돈 던지기
+### Throw Coins (돈 던지기)
 
 ```
 MAX Lv : 10
-습득조건 : 비도 수련 10, 풍마수리검 던지기 5
+습득조건 : Dagger Throwing Practice (비도 수련) 10, Throw Huuma Shuriken (풍마수리검 던지기) 5
 계열 : 액티브
 타입 : 특수 공격(원거리)
 대상 : 대상 1체
@@ -324,7 +328,7 @@ MAX Lv : 10
 [Lv10] : 소모금액 5000~10000zeny
 ```
 
-### 다다미 뒤집기
+### Flip Tatami (다다미 뒤집기)
 
 ```
 MAX Lv : 5
@@ -340,11 +344,11 @@ MAX Lv : 5
 [Lv 5] : 공격범위 3칸, ATK 150%
 ```
 
-### 안개 베기
+### Haze Slasher (안개 베기)
 
 ```
 MAX Lv : 10
-습득조건 : 그림자 도약 1
+습득조건 : Shadow Leap (그림자 도약) 1
 계열 : 액티브
 타입 : 근접 물리
 대상 : 대상 1체
@@ -362,10 +366,10 @@ MAX Lv : 10
 [Lv10] : ATK 300%
 ```
 
-### 그림자 도약
+### Shadow Leap (그림자 도약)
 
 ```
-습득조건 : 다다미 뒤집기 1
+습득조건 : Flip Tatami (다다미 뒤집기) 1
 MAX Lv : 5
 계열 : 액티브
 타입 : 보조
@@ -380,16 +384,16 @@ MAX Lv : 5
 [Lv 5] : 이동거리 : 9셀
 ```
 
-### 그림자 베기
+### Shadow Slash (그림자 베기)
 
 ```
 MAX Lv : 5
-습득조건 : 안개 베기 5
+습득조건 : Haze Slasher (안개 베기) 5
 계열 : 액티브
 타입 : 근접 물리
 대상 : 대상 1체
 내용 : 하이딩 상태에서 사용 가능.
-그림자 도약이 가능한 범위내에 대상에게 순간적으로 접근하여 데미지를 준다.
+Shadow Leap (그림자 도약)이 가능한 범위내에 대상에게 순간적으로 접근하여 데미지를 준다.
 사용과 동시에 하이딩 상태는 해제되며, 스킬 고유의 확률에 따라 크리티컬 데미지가 적용된다.
 [Lv 1] : ATK 200%, 크리티컬 발동 확률 30%
 [Lv 2] : ATK 350%, 크리티컬 발동 확률 35%
@@ -398,15 +402,15 @@ MAX Lv : 5
 [Lv 5] : ATK 800%, 크리티컬 발동 확률 50%
 ```
 
-### 매미허물 벗기
+### Cicada Skin Shed (매미허물 벗기)
 
 ```
 MAX Lv : 5
-습득조건 : 그림자 도약 5
+습득조건 : Shadow Leap (그림자 도약) 5
 계열 : 액티브
 타입 : 보조
 대상 : 자기 자신
-내용 : 스킬을 사용하면 [매미허물 벗기] 상태가 되며, 해당 상태에서 일반적인 공격을 당하면 자동으로 회피하면서 6셀 뒤로 이동한다.
+내용 : 스킬을 사용하면 [Cicada Skin Shed (매미허물 벗기)] 상태가 되며, 해당 상태에서 일반적인 공격을 당하면 자동으로 회피하면서 6셀 뒤로 이동한다.
 지정된 횟수만큼 공격당하면 상태가 해제된다.
 [Lv 1] : 지속시간 20초, 횟수 1회
 [Lv 2] : 지속시간 30초, 횟수 1회
@@ -419,7 +423,7 @@ MAX Lv : 5
 
 ```
 MAX Lv : 10
-습득조건 : 그림자 베기 3, 염 1, 매미허물 벗기 4
+습득조건 : Shadow Slash (그림자 베기) 3, 염 1, Cicada Skin Shed (매미허물 벗기) 4
 계열 : 액티브
 타입 : 보조
 대상 : 자기 자신
@@ -659,7 +663,7 @@ MAX Lv : 5
 
 ```
 MAX Lv : 10
-습득조건 : 비도수련 7, 그림자 베기 5, 염 1
+습득조건 : 비도수련 7, Shadow Slash (그림자 베기) 5, 염 1
 계열 : 액티브
 타입 : 특수 공격(원거리)
 대상 : 대상 1체

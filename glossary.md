@@ -35,6 +35,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 도둑 계열 | Thief series |
 | 마법사 계열 | Mage series |
 | 복사 계열 | Acolyte series |
+| 궁수 계열 | Archer series |
 
 ## Etc 
 
@@ -91,3 +92,13 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 연환전신장 | Raging Quadruple Blow |
 | 맹룡과강 | Raging Thrust |
 | 블릿츠 비트 | Blitz Beat |
+| 비도 수련 | Dagger Throwing Practice |
+| 수리검 던지기 | Throw Shuriken |
+| 쿠나이 던지기 | Throw Kunai |
+| 풍마수리검 던지기 | Throw Huuma Shuriken |
+| 돈 던지기 | Throw Coins |
+| 다다미 뒤집기 | Flip Tatami |
+| 안개 베기 | Haze Slasher |
+| 그림자 도약 | Shadow Leap |
+| 그림자 베기 | Shadow Slash |
+| 매미허물 벗기 | Cicada Skin Shed |
