@@ -46,6 +46,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 완전회피 | Perfect dodge |
 | 스킬 후 딜레이 | Skill after delay |
 | 큐펫 | Pet |
+| 보조 | Assistive |
 
 ## Statuses
 
@@ -102,3 +103,15 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 그림자 도약 | Shadow Leap |
 | 그림자 베기 | Shadow Slash |
 | 매미허물 벗기 | Cicada Skin Shed |
+| 환영분신 | Mirror Image |
+| 인법 수련 | Ninja Mastery |
+| 홍염화 | Flaming Petals |
+| 화염진 | Blaze Shield |
+| 폭염룡 | Exploding Dragon |
+| 빙섬창 | Freezing Spear |
+| 수둔 | Watery Evasion |
+| 빙정락 | Snow Flake Drift |
+| 풍인 | Wind Blade |
+| 뇌격쇄 | Lightning Jolt |
+| 삭풍 | First Wind |
+| 염(念) | Ninja Aura |

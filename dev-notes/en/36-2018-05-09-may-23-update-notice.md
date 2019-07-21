@@ -234,32 +234,31 @@ Ragnarok Zero's first ever extended career group, Ninja, is updated. Some of the
 ### Dagger Throwing Practice (비도 수련)
 
 ```
-MAX Lv : 10
-계열 : 패시브
-내용 : 닌자의 수리검 계열 공격력을 증가시킨다.
-Throw Shuriken (수리검 던지기), Throw Kunai (쿠나이 던지기), Throw Huuma Shuriken (풍마수리검 던지기) 스킬 사용 시, 스킬 레벨당 데미지 증가량만큼 가산된다.
-[Lv 1] : 데미지 증가량 +3
-[Lv 2] : 데미지 증가량 +6
-[Lv 3] : 데미지 증가량 +9
-[Lv 4] : 데미지 증가량 +12
-[Lv 5] : 데미지 증가량 +15
-[Lv 6] : 데미지 증가량 +18
-[Lv 7] : 데미지 증가량 +21
-[Lv 8] : 데미지 증가량 +24
-[Lv 9] : 데미지 증가량 +27
-[Lv10] : 데미지 증가량 +30
+Max Level: 10
+Type: Passive
+Contents: Increases the Ninja's Shuriken attack power.
+Increases the damage per skill level of Throw Shuriken (수리검 던지기), Throw Kunai (쿠나이 던지기), Throw Huuma Shuriken (풍마수리검 던지기).
+[Lv 1] : Damage increase +3
+[Lv 2] : Damage increase +6
+[Lv 3] : Damage increase +9
+[Lv 4] : Damage increase +12
+[Lv 5] : Damage increase +15
+[Lv 6] : Damage increase +18
+[Lv 7] : Damage increase +21
+[Lv 8] : Damage increase +24
+[Lv 9] : Damage increase +27
+[Lv10] : Damage increase +30
 ```
 
 ### Throw Shuriken (수리검 던지기)
 
 ```
-MAX Lv : 10
-습득조건 : Dagger Throwing Practice (비도 수련) 1
-계열 : 액티브
-타입 : 원거리 물리
-대상 : 대상 1체
-내용 : 장착한 수리검 1개를 대상에게 던져 데미지를 가한다.
-장착한 수리검 1개가 소모되며, 기본 사정 거리는 9셀이다.
+Max Level: 10
+Prerequisites: Dagger Throwing Practice (비도 수련) 1
+Type: Active
+Type: Ranged
+Target: One object
+Contents: Throw a Shuriken at the target. One is consumed, and the default range is 9 cells.
 [Lv 1] : ATK 105%
 [Lv 2] : ATK 110%
 [Lv 3] : ATK 115%
@@ -275,13 +274,12 @@ MAX Lv : 10
 ### Throw Kunai (쿠나이 던지기)
 
 ```
-MAX Lv : 5
-습득조건 : Throw Shuriken (수리검 던지기) 5
-계열 : 액티브
-타입 : 원거리 물리
-대상 : 대상 1체
-내용 : 장착한 쿠나이 1개를 대상에게 던져 데미지를 가한다.
-장착한 쿠나이 1개가 소모되며, 쿠나이의 속성이 적용된다.
+Max Level: 5
+Prerequisites: Throw Shuriken (수리검 던지기) 5
+Type: Active
+Type: Ranged
+Target: One object
+Contents: Throw one equipped Kunai at the target to damage it. One kunai is consumed.
 [Lv 1] : ATK 100%
 [Lv 2] : ATK 200%
 [Lv 3] : ATK 300%
@@ -292,68 +290,64 @@ MAX Lv : 5
 ### Throw Huuma Shuriken (풍마수리검 던지기)
 
 ```
-MAX Lv : 5
-습득조건 : Dagger Throwing Practice (비도 수련) 5, Throw Kunai (쿠나이 던지기) 5
-계열 : 액티브
-타입 : 원거리 물리
-대상 : 대상 1체
-내용 : 거대한 수리검을 던져 대상과 그 주변을 공격한다.
-스킬 레벨에 따라 효과 범위가 증가되며, 캐스팅중 공격을 받아도 취소되지 않는다.
-[Lv 1] : ATK 200% / 범위: 3 X 3
-[Lv 2] : ATK 450% / 범위: 3 X 3
-[Lv 3] : ATK 700% / 범위: 3 X 3
-[Lv 4] : ATK 950% / 범위: 5 X 5
-[Lv 5] : ATK1200% / 범위: 5 X 5
+Max Level: 5
+Prerequisites: Dagger Throwing Practice (비도 수련) 5, Throw Kunai (쿠나이 던지기) 5
+Type: Active
+Type: Ranged
+Target: One object
+Contents: Throw a Huuma Shuriken to strike a target and any surrounding targets in a 3 x 3 to 5 x 5 cell range.
+[Lv 1] : ATK 200% / Range: 3 X 3
+[Lv 2] : ATK 450% / Range: 3 X 3
+[Lv 3] : ATK 700% / Range: 3 X 3
+[Lv 4] : ATK 950% / Range: 5 X 5
+[Lv 5] : ATK 1200% / Range: 5 X 5
 ```
 
 ### Throw Coins (돈 던지기)
 
 ```
-MAX Lv : 10
-습득조건 : Dagger Throwing Practice (비도 수련) 10, Throw Huuma Shuriken (풍마수리검 던지기) 5
-계열 : 액티브
-타입 : 특수 공격(원거리)
-대상 : 대상 1체
-내용 : 돈을 던져 그 액수와 같은 수치만큼 상대방에게 방어력 무시 데미지를 가한다.
-단, 플레이어에게는 1/3만큼, 보스에게는 절반만큼 피해가 감소된다.
-[Lv 1] : 소모금액 500~1000zeny
-[Lv 2] : 소모금액 1000~2000zeny
-[Lv 3] : 소모금액 1500~3000zeny
-[Lv 4] : 소모금액 2000~4000zeny
-[Lv 5] : 소모금액 2500~5000zeny
-[Lv 6] : 소모금액 3000~6000zeny
-[Lv 7] : 소모금액 3500~7000zeny
-[Lv 8] : 소모금액 4000~8000zeny
-[Lv 9] : 소모금액 4500~9000zeny
-[Lv10] : 소모금액 5000~10000zeny
+Max Level: 10
+Prerequisites: Dagger Throwing Practice (비도 수련) 10, Throw Huuma Shuriken (풍마수리검 던지기) 5
+Type: Active
+Type: Special attack (ranged)
+Target: One object
+Contents: Throw money and deal damage equal to that amount. However, the damage is reduced by 1 / 3 against players and 1 / 2 against bosses.
+[Lv 1] : Amount spent: 500~1000 zeny
+[Lv 2] : Amount spent: 1000~2000 zeny
+[Lv 3] : Amount spent: 1500~3000 zeny
+[Lv 4] : Amount spent: 2000~4000 zeny
+[Lv 5] : Amount spent: 2500~5000 zeny
+[Lv 6] : Amount spent: 3000~6000 zeny
+[Lv 7] : Amount spent: 3500~7000 zeny
+[Lv 8] : Amount spent: 4000~8000 zeny
+[Lv 9] : Amount spent: 4500~9000 zeny
+[Lv10] : Amount spent: 5000~10000 zeny
 ```
 
 ### Flip Tatami (다다미 뒤집기)
 
 ```
-MAX Lv : 5
-계열 : 액티브
-타입 : 근접 물리
-대상 : 즉시 시전
-내용 : 자신의 주변 4방향의 다다미를 뒤집어 적을 공격한다.
-다다미에 맞은 적은 5칸 넉 백되며, 3초간 시전한 위치에 흐뉴마 효과가 발동된다.
-[Lv 1] : 공격범위 1칸, ATK 110%
-[Lv 2] : 공격범위 2칸, ATK 120%
-[Lv 3] : 공격범위 2칸, ATK 130%
-[Lv 4] : 공격범위 3칸, ATK 140%
-[Lv 5] : 공격범위 3칸, ATK 150%
+Max Level: 5
+Type: Active
+Type: Physical close-range
+Target: Instant cast
+Contents: Attacks enemies by flipping tatamis in a cross-shaped area around the user. The Pneuma effect will be activated for 3 seconds.
+[Lv 1] : Cross radius 1 cell, ATK 110%
+[Lv 2] : Cross radius 2 cells, ATK 120%
+[Lv 3] : Cross radius 2 cells, ATK 130%
+[Lv 4] : Cross radius 3 cells, ATK 140%
+[Lv 5] : Cross radius 3 cells, ATK 150%
 ```
 
 ### Haze Slasher (안개 베기)
 
 ```
-MAX Lv : 10
-습득조건 : Shadow Leap (그림자 도약) 1
-계열 : 액티브
-타입 : 근접 물리
-대상 : 대상 1체
-내용 : 대상을 공격하면서 공격을 명중시켰을 경우 즉시 하이딩 상태가 된다.
-하이딩 상태에서는 일정 시간마다 SP를 지속적으로 소모한다.
+Max Level: 10
+Prerequisites: Shadow Leap (그림자 도약) 1
+Type: Active
+Type: Physical close-range
+Target: One object
+Contents: Hits a single target to inflict physical damage and hide the user at the same time.
 [Lv 1] : ATK 120%
 [Lv 2] : ATK 140%
 [Lv 3] : ATK 160%
@@ -369,154 +363,141 @@ MAX Lv : 10
 ### Shadow Leap (그림자 도약)
 
 ```
-습득조건 : Flip Tatami (다다미 뒤집기) 1
-MAX Lv : 5
-계열 : 액티브
-타입 : 보조
-대상 : 지면 1셀
-내용 : 하이딩 상태에서 사용 가능.
-지정한 셀까지 순간적으로 이동한다. 이동 시, 하이딩 상태는 해제된다.
-이동은 할 수 없지만 수리검, 화살 등 원거리 공격이 가능한 셀을 넘어선 셀로도 이동할 수 있다.
-[Lv 1] : 이동거리 : 5셀
-[Lv 2] : 이동거리 : 6셀
-[Lv 3] : 이동거리 : 7셀
-[Lv 4] : 이동거리 : 8셀
-[Lv 5] : 이동거리 : 9셀
+Prerequisites: Flip Tatami (다다미 뒤집기) 1
+Max Level: 5
+Type: Active
+Type: Assistive
+Target: Floor 1 cell
+Contents: Available while hiding. Moves to the specified cell. When moving, the hiding state is released. 
+[Lv 1] : Travel distance : 5 cells
+[Lv 2] : Travel distance : 6 cells
+[Lv 3] : Travel distance : 7 cells
+[Lv 4] : Travel distance : 8 cells
+[Lv 5] : Travel distance : 9 cells
 ```
 
 ### Shadow Slash (그림자 베기)
 
 ```
-MAX Lv : 5
-습득조건 : Haze Slasher (안개 베기) 5
-계열 : 액티브
-타입 : 근접 물리
-대상 : 대상 1체
-내용 : 하이딩 상태에서 사용 가능.
-Shadow Leap (그림자 도약)이 가능한 범위내에 대상에게 순간적으로 접근하여 데미지를 준다.
-사용과 동시에 하이딩 상태는 해제되며, 스킬 고유의 확률에 따라 크리티컬 데미지가 적용된다.
-[Lv 1] : ATK 200%, 크리티컬 발동 확률 30%
-[Lv 2] : ATK 350%, 크리티컬 발동 확률 35%
-[Lv 3] : ATK 500%, 크리티컬 발동 확률 40%
-[Lv 4] : ATK 650%, 크리티컬 발동 확률 45%
-[Lv 5] : ATK 800%, 크리티컬 발동 확률 50%
+Max Level: 5
+Prerequisites: Haze Slasher (안개 베기) 5
+Type: Active
+Type: Physical close-range
+Target: One object
+Contents: Available in hiding. Leaps from hiding and damages the target. Hiding state is canceled, and the critical damage is applied according to the skill's probability.
+[Lv 1] : ATK 200%, Critical chance 30%
+[Lv 2] : ATK 350%, Critical chance 35%
+[Lv 3] : ATK 500%, Critical chance 40%
+[Lv 4] : ATK 650%, Critical chance 45%
+[Lv 5] : ATK 800%, Critical chance 50%
 ```
 
 ### Cicada Skin Shed (매미허물 벗기)
 
 ```
-MAX Lv : 5
-습득조건 : Shadow Leap (그림자 도약) 5
-계열 : 액티브
-타입 : 보조
-대상 : 자기 자신
-내용 : 스킬을 사용하면 [Cicada Skin Shed (매미허물 벗기)] 상태가 되며, 해당 상태에서 일반적인 공격을 당하면 자동으로 회피하면서 6셀 뒤로 이동한다.
-지정된 횟수만큼 공격당하면 상태가 해제된다.
-[Lv 1] : 지속시간 20초, 횟수 1회
-[Lv 2] : 지속시간 30초, 횟수 1회
-[Lv 3] : 지속시간 40초, 횟수 2회
-[Lv 4] : 지속시간 50초, 횟수 2회
-[Lv 5] : 지속시간 60초, 횟수 3회
+Max Level: 5
+Prerequisites: Shadow Leap (그림자 도약) 5
+Type: Active
+Type: Assistive
+Target: Self
+Contents: 스킬을 사용하면 [Cicada Skin Shed (매미허물 벗기)] 상태가 되며, 해당 상태에서 일반적인 공격을 당하면 자동으로 회피하면서 6 cells 뒤로 이동한다. 지정된 횟수만큼 공격당하면 상태가 해제된다.
+[Lv 1] : Duration 20 seconds, 1 hit blocked
+[Lv 2] : Duration 30 seconds, 1 hit blocked
+[Lv 3] : Duration 40 seconds, 2 hits blocked
+[Lv 4] : Duration 50 seconds, 2 hits blocked
+[Lv 5] : Duration 60 seconds, 3 hits blocked
 ```
 
-### 환영분신
+### Mirror Image (환영분신)
 
 ```
-MAX Lv : 10
-습득조건 : Shadow Slash (그림자 베기) 3, 염 1, Cicada Skin Shed (매미허물 벗기) 4
-계열 : 액티브
-타입 : 보조
-대상 : 자기 자신
-내용 : [염(念)] 상태에서만 사용할 수 있다.
-환구 1개를 소모하여 자신의 분신을 만들어낸다.
-분신을 통해 일정 횟수만큼 일반적인 공격을 회피할 수 있지만 마법 공격은 회피할 수 없다.
-[Lv 1] : 회피 횟수 2회, 지속시간 60초
-[Lv 2] : 회피 횟수 2회, 지속시간 80초
-[Lv 3] : 회피 횟수 3회, 지속시간 100초
-[Lv 4] : 회피 횟수 3회, 지속시간 120초
-[Lv 5] : 회피 횟수 4회, 지속시간 140초
-[Lv 6] : 회피 횟수 4회, 지속시간 160초
-[Lv 7] : 회피 횟수 5회, 지속시간 180초
-[Lv 8] : 회피 횟수 5회, 지속시간 200초
-[Lv 9] : 회피 횟수 6회, 지속시간 220초
-[Lv10] : 회피 횟수 6회, 지속시간 240초
+Max Level: 10
+Prerequisites: Shadow Slash (그림자 베기) 3, 염 1, Cicada Skin Shed (매미허물 벗기) 4
+Type: Active
+Type: Assistive
+Target: Self
+Contents: Can only be used in the Ninja Aura state. Each cast consumes a Shadow Orb. You can avoid common attacks a certain number of times, but magic attacks can not be avoided.
+[Lv 1] : 2 hits blocked, Duration 60 seconds
+[Lv 2] : 2 hits blocked, Duration 80 seconds
+[Lv 3] : 3 hits blocked, Duration 100 seconds
+[Lv 4] : 3 hits blocked, Duration 120 seconds
+[Lv 5] : 4 hits blocked, Duration 140 seconds
+[Lv 6] : 4 hits blocked, Duration 160 seconds
+[Lv 7] : 5 hits blocked, Duration 180 seconds
+[Lv 8] : 5 hits blocked, Duration 200 seconds
+[Lv 9] : 6 hits blocked, Duration 220 seconds
+[Lv10] : 6 hits blocked, Duration 240 seconds
 ```
 
-### 인법 수련
+### Ninja Mastery (인법 수련)
 
 ```
-MAX Lv : 10
-계열 : 패시브
-내용 : 인법 수련을 통해 멈춰 있을 때, 10초당 SP를 추가로 회복한다. MaxSP에 의해서 일정 비율만큼 기본수치에 추가된다.
-이동 중이거나 소지량에 의한 HP/SP 회복 불가 패널티가 부여된 경우 회복되지 않는다.
-[Lv 1] : 10초당 SP + (3 + MSP의 0.2%)
-[Lv 2] : 10초당 SP + (6 + MSP의 0.4%)
-[Lv 3] : 10초당 SP + (9 + MSP의 0.6%)
-[Lv 4] : 10초당 SP +(12 + MSP의 0.8%)
-[Lv 5] : 10초당 SP +(15 + MSP의 1.0%)
-[Lv 6] : 10초당 SP +(18 + MSP의 1.2%)
-[Lv 7] : 10초당 SP +(21 + MSP의 1.4%)
-[Lv 8] : 10초당 SP +(24 + MSP의 1.6%)
-[Lv 9] : 10초당 SP +(27 + MSP의 1.8%)
-[Lv10] : 10초당 SP +(30 + MSP의 2.0%)
+Max Level: 10
+Type: Passive
+Contents: When you stop moving, you'll regain additional SP every 10 seconds that you remain immobile. The SP regained is a base number + a percentage of your Max SP.
+[Lv 1] : Every 10 seconds SP + (3 + 0.2% of Max SP)
+[Lv 2] : Every 10 seconds SP + (6 + 0.4% of Max SP)
+[Lv 3] : Every 10 seconds SP + (9 + 0.6% of Max SP)
+[Lv 4] : Every 10 seconds SP +(12 + 0.8% of Max SP)
+[Lv 5] : Every 10 seconds SP +(15 + 1.0% of Max SP)
+[Lv 6] : Every 10 seconds SP +(18 + 1.2% of Max SP)
+[Lv 7] : Every 10 seconds SP +(21 + 1.4% of Max SP)
+[Lv 8] : Every 10 seconds SP +(24 + 1.6% of Max SP)
+[Lv 9] : Every 10 seconds SP +(27 + 1.8% of Max SP)
+[Lv10] : Every 10 seconds SP +(30 + 2.0% of Max SP)
 ```
 
-### 홍염화(紅炎華)
+### Flaming Petals (홍염화)
 
 ```
-MAX Lv : 10
-습득조건 : 인법 수련 1
-계열 : 액티브
-타입 : 마법
-대상 : 대상 1체
-내용 : 불꽃의 꽃잎으로 대상에게 MATK 90% 만큼의 화속성 마법 데미지를 가한다.
-[Lv 1] : 1회 공격
-[Lv 2] : 2회 공격
-[Lv 3] : 3회 공격
-[Lv 4] : 4회 공격
-[Lv 5] : 5회 공격
-[Lv 6] : 6회 공격
-[Lv 7] : 7회 공격
-[Lv 8] : 8회 공격
-[Lv 9] : 9회 공격
-[Lv10] : 10회 공격
+Max Level: 10
+Prerequisites: Ninja Mastery (인법 수련) 1
+Type: Active
+Type: Magic
+Target: One object
+Contents: Damages the target with fire petals, where each petal will inflict 90% Fire property magic damage.
+[Lv 1] : 1 attack
+[Lv 2] : 2 attacks
+[Lv 3] : 3 attacks
+[Lv 4] : 4 attacks
+[Lv 5] : 5 attacks
+[Lv 6] : 6 attacks
+[Lv 7] : 7 attacks
+[Lv 8] : 8 attacks
+[Lv 9] : 9 attacks
+[Lv10] : 10 attacks
 ```
 
-### 화염진(火炎陣)
+### Blaze Shield (화염진)
 
 ```
-MAX Lv : 10
-습득조건 : 홍염화 5
-계열 : 액티브
-타입 : 마법
-대상 : 즉시 시전
-내용 : 열화석 1개를 소모하여, 자신의 주변 5X5 범위에 불꽃의 폭풍을 일으켜 범위내의 대상에게 MATK 50%만큼의
-
-화속성 마법 데미지를 연속으로 가한다.
-
-스킬의 지속시간은 20초이며, 최대 타격 횟수만큼 타격 후 사라진다.
-단, 시전 위치의 셀에는 불꽃이 발생하지 않는다.
-[Lv 1] : 1셀당 5회 타격
-[Lv 2] : 1셀당 5회 타격
-[Lv 3] : 1셀당 6회 타격
-[Lv 4] : 1셀당 6회 타격
-[Lv 5] : 1셀당 7회 타격
-[Lv 6] : 1셀당 7회 타격
-[Lv 7] : 1셀당 8회 타격
-[Lv 8] : 1셀당 8회 타격
-[Lv 9] : 1셀당 9회 타격
-[Lv10] : 1셀당 9회 타격
+Max Level: 10
+Prerequisites: Flaming Petals (홍염화) 5
+Type: Active
+Type: Magic
+Target: Instant cast
+Contents: Consumes a Flame Stone. Inflicts 50% Fire property magic damage in a 5 x 5 range of where it's cast. Skill lasts 20 seconds. Each cell lasts either 20 seconds or the maximum number of hits, and then disappears.
+[Lv 1] :  5 hits max
+[Lv 2] :  5 hits max
+[Lv 3] :  6 hits max
+[Lv 4] :  6 hits max
+[Lv 5] :  7 hits max
+[Lv 6] :  7 hits max
+[Lv 7] :  8 hits max
+[Lv 8] :  8 hits max
+[Lv 9] :  9 hits max
+[Lv10] :  9 hits max
 ```
 
-### 폭염룡(爆炎龍)
+### Exploding Dragon (폭염룡)
 
 ```
-MAX Lv : 5
-습득조건 : 인법 수련 10, 화염진 7
-계열 : 액티브
-타입 : 마법
-대상 : 대상 1체
-내용 : 열화석 1개를 소모하여, 대상 및 주변 5X5 범위에 화속성 마법 데미지를 준다.
+Max Level: 5
+Prerequisites: Ninja Mastery (인법 수련) 10, Blaze Shield (화염진) 7
+Type: Active
+Type: Magic
+Target: One object
+Contents: Consumes 1 Flame Stone and gives fire magic damage to the target who those around the target in a 5 x 5 cell radius.
 [Lv 1] : MATK 300%
 [Lv 2] : MATK 450%
 [Lv 3] : MATK 600%
@@ -524,158 +505,147 @@ MAX Lv : 5
 [Lv 5] : MATK 900%
 ```
 
-### 빙섬창(氷閃槍)
+### Freezing Spear (빙섬창)
 
 ```
-MAX Lv : 10
-습득조건 : 인법 수련 1
-계열 : 액티브
-타입 : 마법
-대상 : 대상 1체
-내용 : 지면으로부터 얼음으로 된 창을 만들어 내어 공격해 대상에게 MATK 70% 만큼의 수속성 마법 데미지를 준다.
-[Lv 1] : 3회 공격
-[Lv 2] : 4회 공격
-[Lv 3] : 5회 공격
-[Lv 4] : 6회 공격
-[Lv 5] : 7회 공격
-[Lv 6] : 8회 공격
-[Lv 7] : 9회 공격
-[Lv 8] : 10회 공격
-[Lv 9] : 11회 공격
-[Lv10] : 12회 공격
+Max Level: 10
+Prerequisites: Ninja Mastery (인법 수련) 1
+Type: Active
+Type: Magic
+Target: One object
+Contents: Inflicts 70% ice magic damage on each attack.
+[Lv 1] : 3 attacks
+[Lv 2] : 4 attacks
+[Lv 3] : 5 attacks
+[Lv 4] : 6 attacks
+[Lv 5] : 7 attacks
+[Lv 6] : 8 attacks
+[Lv 7] : 9 attacks
+[Lv 8] : 10 attacks
+[Lv 9] : 11 attacks
+[Lv10] : 12 attacks
 ```
 
-### 수둔(水遁)
+### Watery Evasion (수둔)
 
 ```
-MAX Lv : 10
-습득조건 : 빙섬창 5
-계열 : 액티브
-타입 : 마법
-대상 : 즉시 시전
-내용 : 빙섬석 1개를 소모하여, 바닥에 물 웅덩이를 만든다.
-범위내에 들어온 대상의 이동속도를 절반으로 낮추고, AGI수치를 낮춘다.
-효과 범위내에서 워터볼과 아쿠아 베네딕타 스킬의 사용이 가능하며 사용 시, 해당 범위만큼 수둔의 효과 범위가 줄어든다.
-효과 범위내에 있는 대상에게 빙섬창을 사용한 경우 데미지가 증가한다.
-시전자 및 다른 닌자는 이 범위내에서 이동속도와 AGI가 감소하지 않는다.
-[Lv 1] : 효과범위:3X3, 지속시간:15초, AGI-0
-[Lv 2] : 효과범위:3X3, 지속시간:20초, AGI-3
-[Lv 3] : 효과범위:3X3, 지속시간:25초, AGI-3
-[Lv 4] : 효과범위:5X5, 지속시간:30초, AGI-3
-[Lv 5] : 효과범위:5X5, 지속시간:35초, AGI-5
-[Lv 6] : 효과범위:5X5, 지속시간:40초, AGI-5
-[Lv 7] : 효과범위:7X7, 지속시간:45초, AGI-5
-[Lv 8] : 효과범위:7X7, 지속시간:50초, AGI-8
-[Lv 9] : 효과범위:7X7, 지속시간:55초, AGI-8
-[Lv10] : 효과범위:9X9, 지속시간:60초, AGI-8
+Max Level: 10
+Prerequisites: Freezing Spear (빙섬창) 5
+Type: Active
+Type: Magic
+Target: Instant cast
+Contents: Consumes 1 Ice Stone. Reduces the movement speed of objects in range by half and lowers their AGI value. Waterball and Aqua Benedicta skills can be used within the effect range. Increases damage of Freezing Spear when object is in effect range. Ninjas are unaffected by the movement speed slow down and AGI reduction while in range.
+[Lv 1] : Effect Range: 3X3, Duration: 15 seconds, AGI -0
+[Lv 2] : Effect Range: 3X3, Duration: 20 seconds, AGI -3
+[Lv 3] : Effect Range: 3X3, Duration: 25 seconds, AGI -3
+[Lv 4] : Effect Range: 5X5, Duration: 30 seconds, AGI -3
+[Lv 5] : Effect Range: 5X5, Duration: 35 seconds, AGI -5
+[Lv 6] : Effect Range: 5X5, Duration: 40 seconds, AGI -5
+[Lv 7] : Effect Range: 7X7, Duration: 45 seconds, AGI -5
+[Lv 8] : Effect Range: 7X7, Duration: 50 seconds, AGI -8
+[Lv 9] : Effect Range: 7X7, Duration: 55 seconds, AGI -8
+[Lv10] : Effect Range: 9X9, Duration: 60 seconds, AGI -8
 ```
 
-### 빙정락(氷晶落)
+### Snow Flake Drift (빙정락)
 
 ```
-MAX Lv : 5
-습득조건 : 인법 수련 10, 수둔 7
-계열 : 액티브
-타입 : 마법
-대상 : 즉시 시전
-내용 : 빙섬석 1개를 소모하여, 하늘에서 거대한 얼음덩어리를 떨어트린다.
-시전자 주변의 7X7범위의 대상에게 수속성 마법 데미지를 주고 [상태이상 : 동빙]효과를 부여한다.
-동빙 확률과 동빙 시간은 대상의 레벨, 마법 방어력, LUK에 의해 변경된다.
-[Lv 1] : MATK 300%, 동빙확률: 20%
-[Lv 2] : MATK 450%, 동빙확률: 30%
-[Lv 3] : MATK 600%, 동빙확률: 40%
-[Lv 4] : MATK 750%, 동빙확률: 50%
-[Lv 5] : MATK 900%, 동빙확률: 60%
+Max Level: 5
+Prerequisites: Ninja Mastery (인법 수련) 10, Watery Evasion (수둔) 7
+Type: Active
+Type: Magic
+Target: Instant cast
+Contents: Consumes 1 Ice Stone and drops a mass of ice from the sky. Inflicts ice magic damage in a 7x7 cell range around the caster. Has a chance to freeze enemies. Chance to freeze and freezing duration are affected by the target's level, magic defense and LUK.
+[Lv 1] : MATK 300%, Chance to freeze: 20%
+[Lv 2] : MATK 450%, Chance to freeze: 30%
+[Lv 3] : MATK 600%, Chance to freeze: 40%
+[Lv 4] : MATK 750%, Chance to freeze: 50%
+[Lv 5] : MATK 900%, Chance to freeze: 60%
 ```
 
-### 풍인(風刃)
+### Wind Blade (풍인)
 
 ```
-MAX Lv : 10
-습득조건 : 인법 수련 1
-계열 : 액티브
-타입 : 마법
-대상 : 대상 1체
-내용 : 진공의 칼날을 날려 대상에게 MATK 150%만큼의 풍속성 마법 데미지를 준다.
-[Lv 1] : 1회 타격
-[Lv 2] : 2회 타격
-[Lv 3] : 2회 타격
-[Lv 4] : 3회 타격
-[Lv 5] : 3회 타격
-[Lv 6] : 4회 타격
-[Lv 7] : 4회 타격
-[Lv 8] : 5회 타격
-[Lv 9] : 5회 타격
-[Lv10] : 6회 타격
+Max Level: 10
+Prerequisites: Ninja Mastery (인법 수련) 1
+Type: Active
+Type: Magic
+Target: One object
+Contents: Inflicts 150% Wind property magic damage per hit.
+[Lv 1] : 1 hits max
+[Lv 2] : 2 hits max
+[Lv 3] : 2 hits max
+[Lv 4] : 3 hits max
+[Lv 5] : 3 hits max
+[Lv 6] : 4 hits max
+[Lv 7] : 4 hits max
+[Lv 8] : 5 hits max
+[Lv 9] : 5 hits max
+[Lv10] : 6 hits max
 ```
 
-### 뇌격쇄(雷擊碎)
+### Lightning Jolt (뇌격쇄)
 
 ```
-MAX Lv : 5
-습득조건 : 풍인 5
-계열 : 액티브
-타입 : 마법
-대상 : 지면 1셀
-내용 : 풍령석 1개를 소모하여, 지정 셀에 벼락을 떨어트려 주변에 풍속성 마법 데미지를 준다.
-[Lv 1] : MATK 200%, 효과 범위: 5X5
-[Lv 2] : MATK 300%, 효과 범위: 5X5
-[Lv 3] : MATK 400%, 효과 범위: 7X7
-[Lv 4] : MATK 500%, 효과 범위: 7X7
-[Lv 5] : MATK 600%, 효과 범위: 9X9
+Max Level: 5
+Prerequisites: Wind Blade (풍인) 5
+Type: Active
+Type: Magic
+Target: Floor 1 cell
+Contents: Consumes 1 Wind Stone. Inflicts Wind property magic damage to all enemies within the area of effect.
+[Lv 1] : MATK 200%, Effect range:: 5X5
+[Lv 2] : MATK 300%, Effect range:: 5X5
+[Lv 3] : MATK 400%, Effect range:: 7X7
+[Lv 4] : MATK 500%, Effect range:: 7X7
+[Lv 5] : MATK 600%, Effect range:: 9X9
 ```
 
-### 삭풍(朔風) - 카마이타치
+### First Wind (삭풍)
 
 ```
-MAX Lv : 5
-습득조건 : 인법 수련 10, 뇌격새 5
-계열 : 액티브
-타입 : 마법
-대상 : 대상 1체
-내용 : 풍령석 1개를 소모하여, 바람의 칼날을 소환하여 자신의 위치에서 대상 방향으로 일직선상 대상들에게 풍속성 마법 데미지를 준다.
-[Lv 1] : MATK 200%, 사정거리: 5셀
-[Lv 2] : MATK 300%, 사정거리: 6셀
-[Lv 3] : MATK 400%, 사정거리: 7셀
-[Lv 4] : MATK 500%, 사정거리: 8셀
-[Lv 5] : MATK 600%, 사정거리: 9셀
+Max Level: 5
+Prerequisites: Ninja Mastery (인법 수련) 10, Lightning Jolt (뇌격쇄) 5
+Type: Active
+Type: Magic
+Target: One object
+Contents: Consumes 1 Wind Stone. Inflicts Wind property magic damage to all enemies between the caster and the target.
+[Lv 1] : MATK 200%, Range: 5 cells
+[Lv 2] : MATK 300%, Range: 6 cells
+[Lv 3] : MATK 400%, Range: 7 cells
+[Lv 4] : MATK 500%, Range: 8 cells
+[Lv 5] : MATK 600%, Range: 9 cells
 ```
 
-### 염(念)
+### Ninja Aura (염(念))
 
 ```
-MAX Lv : 5
-습득조건 : 인법 수련 5
-계열 : 액티브
-타입 : 보조
-대상 : 자기 자신
-내용 : 염을 모아 붉게 변한다. 염(念)상태에서는 INT과 STR이 증가한다.
-사용 시 MHP의 5%가 소모된다.
-환영분신이나 일섬을 사용하기 위해서는 반드시 염(念)상태여야 한다. 환영분신이나 일섬을 사용하면 상태가 해제된다.
-[Lv 1] : STR, INT +1, 지속시간: 30초
-[Lv 2] : STR, INT +2, 지속시간: 45초
-[Lv 3] : STR, INT +3, 지속시간: 60초
-[Lv 4] : STR, INT +4, 지속시간: 75초
-[Lv 5] : STR, INT +5, 지속시간: 90초
+Max Level: 5
+Prerequisites: Ninja Mastery (인법 수련) 5
+Type: Active
+Type: Assistive
+Target: Self
+Contents: Increases INT and STR while in this state. When used, 5% of Max HP is consumed. To use Mirror Image or Killing Stroke skills, you must be in Ninja Aura. If you use Mirror Image or Killing Stroke, the Ninja Aura status is canceled.
+[Lv 1] : STR, INT +1, Duration: 30 seconds
+[Lv 2] : STR, INT +2, Duration: 45 seconds
+[Lv 3] : STR, INT +3, Duration: 60 seconds
+[Lv 4] : STR, INT +4, Duration: 75 seconds
+[Lv 5] : STR, INT +5, Duration: 90 seconds
 ```
 
-### 일섬
+### Killing Stroke (일섬)
 
 ```
-MAX Lv : 10
-습득조건 : 비도수련 7, Shadow Slash (그림자 베기) 5, 염 1
-계열 : 액티브
-타입 : 특수 공격(원거리)
-대상 : 대상 1체
-내용 : 염(念)상태에서만 사용할 수 있다.
-자신의 남은 HP를 소모하여 일격에 특수한 원거리 물리 데미지를 입힌다.
-현재 남아있는 HP가 높을 수록 더욱 높은 데미지를 가할 수 있으며, 스킬 사용 시 자신의 HP가 1%가 된다.
-환영분신 상태라면 분신의 숫자에 따라 히트수와 데미지가 증가한다.
+Max Level: 10
+Prerequisites: Dagger Throwing Practice (비도 수련) 7, Shadow Slash (그림자 베기) 5, Ninja Aura (염(念)) 1
+Type: Active
+Type: Special attack (ranged)
+Target: One object
+Contents: Only available in Ninja Aura state. It consumes your remaining HP, causing a special ranged damage blow to your target. The higher HP you have left, the more damage you can do. After using the skill, your HP is 1%. If you are in the Mirror Image state, the number of hits and damage will increase depending on the number of your foes.
 ```
 
-지금까지 2018년 5월 23일 업데이트될 예정 내용 중 캐릭터 관련 내용이었습니다. 더 자세한 내용은 업데이트 시 공식 홈페이지를 통해 전달 드리도록 하겠습니다.
+This was the character-related content to be updated on May 23, 2018 so far. For more details, visit the homepage.
 
-감사합니다.
+Thank you.
 
 # Source
 http://roz.gnjoy.com/news/devnote/View.asp?category=3&seq=772&curpage=1
