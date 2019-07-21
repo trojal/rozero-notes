@@ -91,7 +91,7 @@ The experience gained from the Marine Sphere killing monsters transfer to the Al
 
 #### Venom Splasher
 
-No only costs a Red Gemstone. Loses area of effect. Damage is slightly increased. The higher the skill level, the lower the cooldown.
+No longer costs a Red Gemstone. Loses area of effect. Damage is slightly increased. The higher the skill level, the lower the cooldown.
 
 | Level | ATK | Cooldown |
 |---|---|---|
