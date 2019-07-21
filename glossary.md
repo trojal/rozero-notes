@@ -115,3 +115,4 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 뇌격쇄 | Lightning Jolt |
 | 삭풍 | First Wind |
 | 염(念) | Ninja Aura |
+| 일섬 | Killing Stroke |
