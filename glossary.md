@@ -13,6 +13,8 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 용지성 | Louyang |
 | 브리토리아 | Britoniah |
 | 용지성 | Louyang |
+| 노그로드 | Magma (dungeon) |
+| 유페로스 | Juperos |
 
 ## Classes 
 
@@ -116,3 +118,5 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 삭풍 | First Wind |
 | 염(念) | Ninja Aura |
 | 일섬 | Killing Stroke |
+| 세이프티 월 | Safety Wall |
+| 흐뉴마 | Pneuma |
