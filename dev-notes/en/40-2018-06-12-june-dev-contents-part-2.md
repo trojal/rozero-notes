@@ -38,13 +38,15 @@ In the runis of the ancient, forgotten civilization Juperos, various mechanical 
 
 ## 4. [Safety Wall] and [Pneuma]
 
-There are inconsistencies with how [Pneuma] and [Safety Wall] blocked attacks and skills in PVE & PVP. This is a bug and will be fixed to be more consistent.
+There are cases that ranged attack or ranged skill attack damage blocked by safety wall rather than pneuma.
 
-(Note: The above is a summary of the Korean, as Google Translate struggled with the Korean a bit. Korean included below.)
+Current skills were inspected and the results in PvP are safety wall and pneuma works normally.
 
-몬스터의 원거리 물리 공격 또는 원거리 물리 스킬이 [Pneuma]가 아닌 [Safety Wall]에 차단되는 현상이 있었습니다. 해당 내용을 면밀히 검토한 결과 PVP에서는 [Safety Wall]과 [Pneuma]가 각 공격의 판정에 맞게 적용되지만, PVE에서는 해당 사항이 케이스 별로 다르게 적용되고 있는 점이 발견되었습니다.
+But in PvE we found the effects works differently
 
-이에 대해 [Safety Wall]과 [Pneuma]의 정의를 확정하고 해당 정의에 벗어나는 경우는 버그로 간주하여 지난 정기점검 시 수정 적용하였으며, 이후 추가로 발견되는 내용에 대해서도 수정할 계획입니다.
+As following safety wall and pneuma's error in blocking certain attack will be counted as bug.
+
+We fixed it on last patch but if there are more error in the future it will be patched as well.
 
 The effects of [Safety Wall] and [Pneuma] are shown below.
 
