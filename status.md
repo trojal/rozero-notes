@@ -56,12 +56,10 @@
 * Each 1 point of Agi gives:
   * +1 Flee
   * Reduces chance and duration of being affected by: Sleep, Bleeding
+  * Increases ASPD
 
 * Each 5 points of Agi gives:
   * +1 Status Def
-
-* Each 6 points of Agi gives, with bare hands:
-  * +1 Aspd (Note: After 12 AGI, next +1 ASPD occurs at 17 AGI. After 17 AGI, the pattern of +6 resumes, so the next +1 ASPD occurs at 17 + 6 = 23 AGI.)
 
 ### Int
 
