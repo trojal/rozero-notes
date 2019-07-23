@@ -2,87 +2,85 @@
 
 [ 2018.06.19 ]
 
-안녕하세요. 라그나로크 제로 유저 여러분, RO1스튜디오의 라그나로크 제로팀 입니다. 오늘은 지난 6월 개발내용 안내 2부에 이어 마지막 3부에 대해 소개해드리겠습니다.
+Hi Ragnarok Zero Users, it is the Ragnarok Zero team of RO1 studio. Today, we will introduce you to the last part of the development contents guide for June.
 
-## 1. 신규 방어구 업데이트
+## 1. Armor update
  
-슈발츠발드 공화국 업데이트에 맞춰 신규 피버 방어구 시리즈 “용암” 시리즈가 업데이트 됩니다. 이번에는 갑옷과 신발에 이어 걸칠 것까지 포함되어 각 부위에 랜덤 옵션이 부여되며, 시리즈에 맞는 부위를 모두 착용하고 제련도를 충족하면 보너스 옵션까지 추가됩니다. 추가로 이번 용암 방어구는 전 직업이 장착 가능하여 모든 직업군이 필요에 맞는 방어구를 선택할 수 있게 됩니다.
+The new Fever armor series, "Lava" (“용암”), will be updated in response to the Schwartzwald Republic update. This time, you will be given a random option in each piece, including armor and shoes, and you will be given bonus options if you wear all the parts that fit the set and you meet the degree of smelting. In addition, "Lava" equipment can be worn by all occupations.
 
 ![equipment images](http://imgc.gnjoy.com/ufile/common/2018/06/19/021956_VKnWhhlu.png)
 
-<새로운 피버 지역 방어구가 업데이트 됩니다!>
+< New Fever area armor is updated! >
 
-## 2. 신규 직업 정수 인챈트 업데이트
+## 2. Enchantment essence update
 
-9제련 이상 제련된 원정대, 파병대, 정복자의 갑옷 시리즈에 인챈트 가능한 정수가 추가됩니다. 기존 정수 인챈트와는 다른 방향의 옵션으로 구성되어있으며, 이를 통해 그 동안 플레이 스타일과 맞는 정수가 없어 아쉬웠던 부분을 조금이나마 보완할 예정입니다.
+Class-specific essence enchantments will be updated according to the below table.
 
-![dolls accessory images](http://imgc.gnjoy.com/ufile/common/2018/06/19/022011_CiSLlRAQ.png)
+![essence images](http://imgc.gnjoy.com/ufile/common/2018/06/19/022011_CiSLlRAQ.png)
 
-![dolls descriptions](http://imgc.gnjoy.com/ufile/common/2018/06/19/031844_zyMjd58O.png)
+![essence update table](http://imgc.gnjoy.com/ufile/common/2018/06/19/031844_zyMjd58O.png)
 
-<새로운 직업 정수 인챈트가 업데이트 됩니다!>
+< Occupation enchantments are updated! >
 
-## 3. 기존 일부 직업 정수 인챈트 옵션 변경
+## 3. Change some existing occupational enchantment options
 
-신규 직업 정수 인챈트의 업데이트에 따라 일부 직업 정수 인챈트의 옵션을 신규 정수 인챈트와 차별성을 두고 기존 옵션을 보완하기 위해 기존 직업 정수 인챈트 중 일부의 옵션이 변경될 예정입니다.
+Some existing class essence enchantments have been altered. See table below.
 
 ![html table](http://imgc.gnjoy.com/ufile/common/2018/06/19/022027_HXT48WkX.png)
 
-<기존 일부 직업 정수 인챈트의 옵션이 변경됩니다!>
+< Some existing occupational enchantment options will be changed! >
 
-## 4. 2차 직업군 및 확장 직업군 직업 정수 전용 인챈트 NPC 추가
+## 4. Enchantment NPC for secondary and extended jobs
 
-신규 직업 정수 인챈트가 추가됨에 따라 기존 인챈트 NPC가 통합적으로 부여하던 정수 인챈트 방식이 변경됩니다. 이제 기존 인챈트 NPC는 더 이상 2차 직업군과 확장 직업군의 정수를 부여해주지 않으며, 새로운 “중급 인챈트 협회 직원” NPC를 통해 2차 직업군과 확장 직업군의 정수를 부여할 수 있게 됩니다.
+As the new classes enchantments are added, the enchants given by the existing enchant NPCs is changed. Now, the existing Enchant NPC no longer gives the enchants for the secondary and extended occupation groups, but a new NPC "Intermediate Enchantment Association Staff" (“중급 인챈트 협회 직원”) does.
 
-중급 인챈트 협회 직원은 9제련 이상 제련된 원정대, 파병대, 정복자 갑옷류 방어구에 오로지 직업 정수만 부여해주는 NPC이며,
-기존 인챈트 NPC는 정수 인챈트를 부여하기 직전까지의 인챈트 및 1차 직업군 인챈트만 부여해주게 됩니다.
+Intermediate Enchantment Association Staff is an NPC that only gives job essence enchants to +9 Expedition, Dispatching, and Conquering Memorial Dungeon equipment.
 
-중급 인챈트 협회 직원의 인챈트 비용은 고액의 제니 혹은 일정 수량의 젤스타 중 선택할 수 있으며, 제니를 통해 인챈트를 할 경우 젤스타를 사용한 것보다 높은 확률로 2Lv의 정수를 부여할 수 있습니다.
+Enchantment costs for intermediate enchantment can either be high Zeny or a fixed number of Gel Star. If you enchant with Zeny, there's a higher probability of getting a level 2 essence than if you enchant with Gel Star.
 
-
-단, 갑옷의 등급에 따라 비용의 차이가 존재하며 등급에 따라 직업 정수가 인챈트될 수 있는 슬롯 전까지 인챈트를 모두 마친 상태여야 합니다.
-
-예를 들어 +9 정복자의 메일[1]에 중급 인챈트 협회 직원로부터 직업 정수 인챈트를 받고자 한다면 기존 인챈트 NPC를 통해 4슬롯과 3슬롯에 인챈트를 받은 상태여야 합니다.
+However, there is a difference in cost depending on the armor level, and depending on the rank, the stats-based enchants must be completed in all slots before you can attempt a class-based essence enchant.
 
 ![npc](http://imgc.gnjoy.com/ufile/common/2018/06/19/022042_3CcywsDw.png)
 
-<중급 인챈트 협회 직원을 통해 직업 정수들만 인챈트할 수 있게 됩니다.>
+< Intermediate Enchantment Association Staff will be able to do the secondary and extended class enchants. >
 
 ![dialog](http://imgc.gnjoy.com/ufile/common/2018/06/19/022048_Ca9QdoPz.png)
 
-<인챈트 비용은 제니와 젤스타 중에서 선택할 수 있으며 2Lv이 부여될 확률은 제니가 더 높습니다!>
+< You can choose between enchanting with Zeny or Gel Star, and Zeny is more likely to be awarded with Lvl 2 essence enchant! >
 
 ![enchanted equip](http://imgc.gnjoy.com/ufile/common/2018/06/19/022210_BfoG61da.png)
 
-<젤스타를 사용하면 제니를 아낄 수 있지만 1Lv이 붙을 확률이 높습니다.>
+< You can save Zeny by using Gel Star, but there is a high probability of getting a Lvl 1 enchant >
 
-## 5. 로컬라이징 기념 무기 랜덤 옵션 부여 주문서 판매 방식 변경
+## 5. Localization-specific weapon random option granted
 
-로컬라이징의 기념 무기에 랜덤 옵션을 부여해주는 주문서(지룡비전서, 음양마전서 등)의 판매 방식이 기존 특산 아이템(지룡석, 마령석)에서 150,000 제니로 변경되어, 랜덤 옵션을 보다 쉽게 부여할 수 있게 됩니다.
+It will now cost 150,000 Zeny to add a random option to a localization-specific (Louyang, Amatsu, etc.) weapon instead of requiring item collection.
 
 ![npc dialog](http://imgc.gnjoy.com/ufile/common/2018/06/19/022252_FMgIurVU.png)
 
-<이제 특산 아이템이 아닌 제니로 손쉽게 주문서를 구입할 수 있게 됩니다!>
+< Now you can easily purchase orders with Zeny instead of special items! >
 
-## 6. 신규 드랍 장비 아이템 업데이트
+## 6. New equipment drops update
 
-슈발츠발드 공화국 업데이트로 추가되는 지역에 출몰하는 다양한 몬스터들에게서 새로운 장비 아이템들을 획득할 수 있게 됩니다. 투구 아이템에 이어 닌자 무기 장비 등 다양한 드랍 장비 아이템들이 업데이트 됩니다. 새로운 장비들의 옵션은 추후 업데이트 시, 공식 홈페이지를 통하여 소개해드리도록 하겠습니다.
+You will be able to acquire new equipment from various monsters in the area added by the Schwartwald Republic update. For example, various Ninja weapons are added. New equipment options will be introduced on the official website at a later date.
 
 ![equipment](http://imgc.gnjoy.com/ufile/common/2018/06/19/022304_rKDx9y9k.png)
  
-<새로 업데이트되는 지역에서 획득 가능한 장비들이 업데이트 됩니다!>
+< Equipment available in the newly added areas are available! >
 
-## 7. 미스릴 획득 방법 추가
+## 7. Add Mithril acquisition method
 
-피버 지역인 노그로드 3층 던전에서는 기존 드랍 형식의 미스릴 획득법 이외에 새로운 획득 방법이 추가됩니다. 바로 “용암 원석 추출기”와 “의문의 광석”을 통해 획득하는 방법입니다. 용암 원석 추출기와 의문의 광석 모두 노그 로드 3층 몬스터를 통해 획득할 수 있으며, 의문의 광석을 모아 미스릴 원석 획득에 사용할 수 있습니다.
+In the 3rd floor Nogg Road Fever area, a new Mithril acquisition method will be added. Monsters will drop "Lava Stone Extractor" (“용암 원석 추출기”) and "Question Ore" (“의문의 광석”), which can contain Mithril Ore.
 
-물론 노그 로드 3층에서도 기존 지역과 마찬가지로 미스릴 원석이 드랍됩니다.
+Of course, Mithril Ore will also drop regularly there as well.
 
 ![item descriptions](http://imgc.gnjoy.com/ufile/common/2018/06/19/022315_2UeIlkBs.png)
  
-< “용암 원석 추출기”와 “의문의 광석”는 노그로드 3층 몬스터에게서 획득할 수 있습니다.>
+< "Lava Stone Extractor" and "Mysterious Ore" can be obtained from Nogg Road 3F monsters. >
 
-## 8. 시계탑 던전 중보스 소환 변경
+## 8. Clock Tower Dungeon Update
+
+(NOTE: Google Translate couldn't do a lot of the below translation, so leaving it in Korean for now.)
 
 시계탑 던전의 중보스 소환 방식은 해당 던전에 추가된 아이템을 조합하기 위해 중보스가 드랍하는 아이템 수집을 해야하며 그에 따라 관련 던전에서 다분한 노력을 기해야한다는 컨셉으로 설계된 구조였습니다.
 
@@ -98,9 +96,9 @@
 
 ![dead knight gif](http://imgc.gnjoy.com/ufile/common/2018/06/26/101859_dcPO1Vfz.gif)
 
-지금까지 6월 개발 내용에 대해 총 3부작으로 안내해드렸습니다. 지금까지 소개드린 6월 개발내용에 대한 모든 내용들은 오는 6월 27일 정기점검 시 업데이트될 예정이며, 일부 내용에 대해서는 변경될 수 있으니 추후 업데이트 시 공식 홈페이지의 공지사항을 참조해주시기 바랍니다.
+That's it for the three parts of the June update. These will go into effect on June 27th. Some content may be changed before then, so please refer to the announcement on the official homepage.
 
-감사합니다.
+Thank you.
 
 ## Source
 
