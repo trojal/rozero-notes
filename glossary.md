@@ -23,6 +23,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 아인베흐 | Einbech |
 | 리히타르젠 | Lighthalzen |
 | 레켄베르 | Rekenber Corporation |
+| 생체 실험 연구소 던전 | Biological Laboratory Research Dungeon / Biolabs |
 
 ## Classes 
 
@@ -115,6 +116,20 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 정복자 | Conquering (Grade IV) |
 
 ## Skills
+
+### Guild Skills
+
+| Korean | English |
+| --- | --- |
+| 긴급 이동 | Emergency Move |
+| 돌격 함성의 깃발 | Charge Shout Flag |
+| 돌격 함성의 울림 | Charge Shout Beating |
+| 리스토어 | Restoration |
+| 리제네레이션 | Regeneration |
+| 전투명령 하달 | Battle Orders |
+| 긴급호출 | Emergency Call |
+
+### Class Skills
 
 | Korean | English |
 | --- | --- |
