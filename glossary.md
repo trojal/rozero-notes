@@ -75,6 +75,21 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 화 | Fire |
 | 풍 | Wind |
 
+## Races
+
+| Korean | English |
+| --- | --- |
+| 악마형 | Demon |
+| 불사형 | Undead |
+
+## Items
+
+| 바다신의 결정 | Sea God's Decision |
+| 인디고 포인트 | Indigo Point |
+| 옐로우위시 포인트 | Yellow Wish Point |
+| 라임그린 포인트 | Lime Green Point |
+| 스칼렛 포인트 | Scarlet Point |
+
 ## Equipment
 
 | Korean | English |
@@ -100,7 +115,10 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 쉴드 부메랑 | Shield Boomerang |
 | 아드레날린 러쉬 | Adrenaline Rush |
 | 바이오 캐니벌라이즈의 | Bio Cannibalize / Summon Flora |
+| 데몬 스트레이션 | Bomb / Demonstration |
+| 러닝 포션의 | Potion Research |
 | 베넘 스플래셔 | Venom Splasher |
+| 소닉 블로우 | Sonic Blow |
 | 백스텝 | Backstab |
 | 기습 | Sightless Mind |
 | 도작 | Intimidate |
@@ -108,8 +126,17 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 델류즈 | Deluge |
 | 볼케이노 | Volcano |
 | 오토 스펠 | Auto Spell / Hindsight |
+| 프로스트 웨폰 | Endow Tsunami |
+| 라이트닝 로더 | Endow Tornado |
+| 사이즈믹 웨폰 | Endow Quake |
+| 프레임 런쳐 | Endow Blaze |
+| 육합권 | Raging Trifecta Blow |
 | 연환전신장 | Raging Quadruple Blow |
 | 맹룡과강 | Raging Thrust |
+| 진검백파도 | Root |
+| 탄지신통 | Throw Spirit Sphere |
+| 침투경 | Occult Impaction |
+| 아수라 패황권 | Asura Strike / Guillotine Fist |
 | 블릿츠 비트 | Blitz Beat |
 | 비도 수련 | Dagger Throwing Practice |
 | 수리검 던지기 | Throw Shuriken |
