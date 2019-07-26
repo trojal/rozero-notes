@@ -41,6 +41,8 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 알케미스트 | Alchemist |
 | 프리스트 | Priest |
 | 몽크 | Monk |
+| 카게로우 | Kagerou |
+| 오보로 | Oborou |
 | 검사 계열 | Swordman series |
 | 상인 계열 | Merchant series |
 | 도둑 계열 | Thief series |
@@ -189,6 +191,62 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 세이프티 월 | Safety Wall |
 | 흐뉴마 | Pneuma |
 | 죽은척하기 | Play Dead |
+| 오러 블레이드 | Aura Blade |
+| 패링 | Parry |
+| 컨센트레이션 | Spear Dynamo |
+| 텐션 릴렉스 | Relax |
+| 버서크 | Frenzy |
+| 스파이럴 피어스 | Clashing Spiral |
+| 헤드 크러쉬 | Traumatic Blow |
+| 조인트 비트 | Vital Strike |
+| 프레셔 | Gloria Domini |
+| 새크리파이스 | Martyr's Reckoning |
+| 가스펠 | Battle Chant |
+| 쉴드 체인 | Rapid Smiting |
+| 멜트 다운 | Shattering Strike |
+| 카트 부스트 | Cart Boost |
+| 카트 터미네이션 | High Speed Cart Ram |
+| 오버트러스트 맥스 | Maximum Power-Thrust |
+| 슬림 피쳐 | Aid Condensed Potion |
+| 풀 케미칼 프로텍션 | Full Chemical Protection |
+| 애시드 데몬스트레이션 | Acid Bomb |
+| 치명적인 독 부여 | Enchant Deadly Poison |
+| 기공포 | Soul Destroyer |
+| 메테오 어절트 | Meteor Assault |
+| 치명적인 독 생산 | Create Deadly Poison |
+| 간반테인 | Ganbantein |
+| 그라비테이션 필드 | Gravitational Field |
+| 매직 크러셔 | Stave Crasher |
+| 마법력 증폭 | Mystical Amplification |
+| 네이팜 발칸 | Napalm Vulcan |
+| 마인드 브레이커 | Mind Breaker |
+| 메모라이즈 | Foresight |
+| 월 오브 포그 | Blinding Mist |
+| 스파이더 웹 | Fiber Lock |
+| 더블 캐스팅 | Double Bolt |
+| 라이프 치환 | Indulge |
+| 소울 체인지 | Soul Exhale |
+| 소울 번 | Soul Siphon |
+| 트루사이트 | Falcon Eyes |
+| 팔콘 어절트 | Falcon Assault |
+| 샤프 슈팅 | Focused Arrow Strike |
+| 윈드 워크 | Wind Walker |
+| 애로우 발칸 | Arrow Vulcan |
+| 달빛 물레방앗간에 떨어지는 꽃잎 | Sheltering Bliss |
+| 마리오네트 컨트롤 | Marionette Control |
+| 헤르모드의 지팡이 | Hermode's Rod |
+| 운명의 타로 카드 | Tarot Card of Fate |
+| 전문 음악인의 노련함 | Longing for Freedom |
+| 아숨프티오 | Assumptio |
+| 바실리카 | Basilica |
+| 복호권 | Glacier Fist |
+| 연주붕격 | Chain Crush Combo |
+| 광축기 | Zen |
+| 맹호경파산 | Raging Palm Strike |
+| 체이스 워크 | Stealth |
+| 소드 리젝트 | Counter Instinct |
+| 프리저브 | Preserve |
+| 풀 스트립 | Full Divestment |
 
 
 ## Monsters
