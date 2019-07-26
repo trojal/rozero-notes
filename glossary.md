@@ -16,6 +16,13 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 노그로드 | Magma (dungeon) |
 | 유페로스 | Juperos |
 | 말랑도 | Malangdo |
+| 휘겔 | Hugel |
+| 오딘 신전 | Odin Temple |
+| 어비스 레이크 | Abyss Lake |
+| 아인브로크 | Einbroch |
+| 아인베흐 | Einbech |
+| 리히타르젠 | Lighthalzen |
+| 레켄베르 | Rekenber Corporation |
 
 ## Classes 
 
@@ -51,6 +58,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 큐펫 | Pet |
 | 보조 | Assistive |
 | 정수 | Essence |
+| 전승 시스템 | Transcendant System |
 
 ## Statuses
 
