@@ -53,19 +53,16 @@ As a result, a middle enchantment slot has been added so that you can get an ess
 Here's how it's changed.
 
 1) First Job Essence Enchant NPC
-　
   * Enchantment NPC with a probability of adding first job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
   * ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor (Grade IV) 2nd slot
   * ※ Enchanting method is the same as the existing enchantment method
 
 2) Second Job Essence Enchant NPC
-　
   * Enchantment NPC with a probability of adding secondary job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
   * ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor 2nd slot
   * ※ Enchanting method is the same as the existing enchantment method
 
 3) Ninja Essence Enchant NPC
-
   * Enchantment NPC with a probability of adding secondary job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
   * ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor 2nd slot
   * ※ Enchanting method is the same as the existing enchantment method
