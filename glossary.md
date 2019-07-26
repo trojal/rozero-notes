@@ -15,6 +15,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 용지성 | Louyang |
 | 노그로드 | Magma (dungeon) |
 | 유페로스 | Juperos |
+| 말랑도 | Malangdo |
 
 ## Classes 
 
@@ -74,7 +75,13 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 화 | Fire |
 | 풍 | Wind |
 
-## Memorial Dungeon Equipment
+## Equipment
+
+| Korean | English |
+| --- | --- |
+| 슬레이프니르 | Sleipnir |
+
+### Memorial Dungeon Equipment
 
 | Korean | English |
 | --- | --- |
@@ -130,3 +137,15 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 세이프티 월 | Safety Wall |
 | 흐뉴마 | Pneuma |
 | 죽은척하기 | Play Dead |
+
+
+## Monsters
+
+| Korean | English |
+| --- | --- |
+| 데비루치에 | Deviruchi |
+| 디아볼릭 | Diabolic |
+| 쁘띠에 | Petite |
+| 딜리터 | Deleter |
+| 페코페코 | Peco Peco |
+| 그랜드 페코 | Grand Peco |
