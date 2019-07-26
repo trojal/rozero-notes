@@ -17,7 +17,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 유페로스 | Juperos |
 | 말랑도 | Malangdo |
 | 휘겔 | Hugel |
-| 오딘 신전 | Odin Temple |
+| 오딘 신전 | Odin Temple / Odin Shrine |
 | 어비스 레이크 | Abyss Lake |
 | 아인브로크 | Einbroch |
 | 아인베흐 | Einbech |
