@@ -50,25 +50,25 @@ As a result, a middle enchantment slot has been added so that you can get an ess
 
 기존 인챈트 방식에 비해 확정적으로 정수 인챈트가 부여되면서 가격도 그보다 저렴하도록 설정하였고(기존 인챈트 방식에서 모든 인챈트가 동일한 확률을 가지고 있지 않으며, 정수의 경우 확률이 낮게 설정 되어있었습니다.) 200만 ~ 600만 제니의 가격이 설정되었으며, 제니가 부족하지만 정수 인챈트를 원하시는 경우를 위해 젤스타를 통해 인챈트를 시도해볼 수 있도록 하였습니다. 그러나 유저 여러분의 문의를 확인한 결과, 한번에 소모되는 비용이 부담되기 때문에 해당 인챈트 방식을 수정하기로 결정하였습니다.
 
-Here's how it's fixed.
+Here's how it's changed.
 
 1) First Job Essence Enchant NPC
 　
-* Enchantment NPC with a probability of adding first job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
-* ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor (Grade IV) 2nd slot
-* ※ Enchanting method is the same as the existing enchantment method
+  * Enchantment NPC with a probability of adding first job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
+  * ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor (Grade IV) 2nd slot
+  * ※ Enchanting method is the same as the existing enchantment method
 
 2) Second Job Essence Enchant NPC
 　
-* Enchantment NPC with a probability of adding secondary job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
-* ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor 2nd slot
-* ※ Enchanting method is the same as the existing enchantment method
+  * Enchantment NPC with a probability of adding secondary job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
+  * ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor 2nd slot
+  * ※ Enchanting method is the same as the existing enchantment method
 
 3) Ninja Essence Enchant NPC
 
-* Enchantment NPC with a probability of adding secondary job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
-* ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor 2nd slot
-* ※ Enchanting method is the same as the existing enchantment method
+  * Enchantment NPC with a probability of adding secondary job essence enchant (1st - 2nd Lvl Essence) to +9 or higher armor (cost per enchant: 100,000 zeny)
+  * ※ Expedition Armor (Grade II) 4th slot / Dispatching Armor (Grade III) 3rd slot / Conquering Armor 2nd slot
+  * ※ Enchanting method is the same as the existing enchantment method
 
 추가로 NPC별로 직업군 정수의 숫자의 차이가 존재하기 때문에 인챈트 리스트에 정수의 숫자가 많을수록 정수 인챈트 자체가 붙을 확률은 높아지며, 종류가 적을수록 정수이외의 인챈트가 부여될 확률이 높아지게 됩니다. ex) 2차 정수 인챈트 NPC의 경우 기존 인챈트 협회 직원의 정수 인챈트 확률보다 높은 확률로 정수 인챈트가 부여됩니다.
 
