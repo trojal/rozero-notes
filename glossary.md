@@ -97,6 +97,8 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 옐로우위시 포인트 | Yellow Wish Point |
 | 라임그린 포인트 | Lime Green Point |
 | 스칼렛 포인트 | Scarlet Point |
+| 휘겔 상품권 | Hugel Gift Certificate |
+| 휘겔 토큰 | Hugel Token |
 
 ## Equipment
 
