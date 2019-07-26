@@ -49,6 +49,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 스킬 후 딜레이 | Skill after delay |
 | 큐펫 | Pet |
 | 보조 | Assistive |
+| 정수 | Essence |
 
 ## Statuses
 
@@ -72,6 +73,14 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 수 | Water |
 | 화 | Fire |
 | 풍 | Wind |
+
+## Memorial Dungeon Equipment
+
+| Korean | English |
+| --- | --- |
+| 원정대 | Expedition (Grade II) |
+| 파병대 | Dispatching (Grade III) |
+| 정복자 | Conquering (Grade IV) |
 
 ## Skills
 
@@ -120,3 +129,4 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 일섬 | Killing Stroke |
 | 세이프티 월 | Safety Wall |
 | 흐뉴마 | Pneuma |
+| 죽은척하기 | Play Dead |
