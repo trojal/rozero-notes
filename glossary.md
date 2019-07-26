@@ -25,6 +25,8 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 레켄베르 | Rekenber Corporation |
 | 생체 실험 연구소 던전 | Biological Laboratory Research Dungeon / Biolabs |
 | 쿤룬 | Kunlun |
+| 알데바란 | Aldeberan |
+| 루이나 | Luina |
 
 ## Classes 
 
