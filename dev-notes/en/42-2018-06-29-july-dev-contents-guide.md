@@ -28,7 +28,7 @@ Hi. Ragnarok Zero users. Ragnarok Zero team of RO1 studio. Today, we will show y
 　　
 < Even if the battle is disabled, you can see other nearby characters. >
 
-## 2. Play Dead 사양 변경
+## 2. Play Dead mechanics change
 
 "Play Dead" skill is not considered combat status, so you will still be able to see nearby monsters. However, Play Dead mechanics have changed to the below:
 
