@@ -44,7 +44,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
     </tr>
     <tr>
       <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군어깨띠.png" /><br/>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군복.png" /><br/>
         Subjugation Armor
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
