@@ -53,7 +53,8 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
       <td>
         MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
         -----------<br/>
-        When wearing Subjugation Set: ATK +15, MATK +15<br/>
+        When wearing Subjugation Sash, Boots & Ring:<br/>
+        ATK +15, MATK +15<br/>
         -----------<br/>
         If total Set is refined higher than +17:<br/>
         Increased ASPD (-3% after attack delay),<br/>
@@ -61,6 +62,18 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
       </td>
       <td>46</td>
       <td>30</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군화.png" /><br/>
+        Subjugation Boots
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053144_HG6H9loa.bmp" /></td>
+      <td>Prontera Culvert</td>
+      <td>Shoes</td>
+      <td>+5% HP Recovery,<br/>+3% SP Recovery</td>
+      <td>12</td>
+      <td>25</td>
     </tr>
   </tbody>
 </table>
