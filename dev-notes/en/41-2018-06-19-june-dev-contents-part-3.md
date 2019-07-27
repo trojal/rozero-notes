@@ -80,19 +80,9 @@ Of course, Mithril Ore will also drop regularly there as well.
 
 ## 8. Clock Tower Dungeon Update
 
-(NOTE: Google Translate couldn't do a lot of the below translation, so leaving it in Korean for now.)
+The Clock Tower miniboss mob spawn has changed. Before it was a random area spawn after a specific mob kill count, but now it's the same as a champion mob.
 
-시계탑 던전의 중보스 소환 방식은 해당 던전에 추가된 아이템을 조합하기 위해 중보스가 드랍하는 아이템 수집을 해야하며 그에 따라 관련 던전에서 다분한 노력을 기해야한다는 컨셉으로 설계된 구조였습니다.
-
-다만 맵내 랜덤한 위치에 등장하는 것으로 인해 다분한 노력에 비해 중보스와의 대면이 쉽게 이루어지지 못하는 부분과 노력 없이 랜덤한 위치에 소환된 중보스를 특정 행위를 통해 쉽게 찾아내어 처치하는 부분에 의해 현재의 구조가 해당 던전에서 중보스를 소환하기 위해 노력하는 유저분들에게 불합리한 구조가 되었습니다.
-
-이러한 부분을 개선하고자 시계탑 던전의 중보스 소환 방식을 랜덤 방식이 아닌 조건 최종 완료자의 위치에 소환되도록 조정될 예정입니다.
-
-다만, 중보스 소환 진행 안내 방송은 중보스를 상대하는 것이 목적이 아닌 유저분들이 갑작스러운 중보스 등장에 대해 충분히 대응할 준비를 할 수 있도록 하는 기능과 동시에 중보스를 상대하는 것이 목적인 유저분들이 중보스가 자신의 위치에 소환될 수 있도록 더욱 집중할 수 있게 만드는 기능을 포함하고 있으므로 소환 진행 안내 방송은 현 상태로 유지됩니다.
-
-이번 조정은 시계탑 조합 재료의 가치 유지와 더불어 노력하는 유저분들의 불합리한 피해를 최소화 하고자 하는 조정으로서 추후에도 특정 행위를 통해 노력하는 유저분들께서 불합리한 피해가 발생하고 이로 인해 추가적인 조정이 필요하다고 판단될 경우 개발자 노트를 통해 조정 사항에 대해 안내해드리도록 하겠습니다.
-
-추가로 이번 업데이트에는 적용되지 않지만 전투불능 상태가 될 경우, 주변 몬스터 및 맵내 안내 방송 등이 보이지 않는 기능을 개발하는 중이며, 개발이 완료될 경우 세부 내용에 대해 알려드리도록 하겠습니다.
+Also, a new mechanic is added where if you die you just get a gray screen where you can't see other players, monsters, chat, announcements -- anything really.
 
 ![dead knight gif](http://imgc.gnjoy.com/ufile/common/2018/06/26/101859_dcPO1Vfz.gif)
 
