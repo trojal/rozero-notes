@@ -13,7 +13,35 @@ Memorial Dungeon equipment is broken up into four grades (Grade IV being the low
 
 All Memorial Dungeon equipment can be worn by all classes, and each piece of equipment has one card slot.
 
-## Subjugation Equipment (Grade IV)
+### Crafting Higher Grades
+
+Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. These pieces of equipment found in this set are the only ones dropped by monsters ingame. Otherwise, to create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next level.
+
+To craft higher grades of equipment, head to the building at `prontera 50 227`.
+
+#### Crafting Expedition Equipment (Grade III)
+
+<table>
+  <thead>
+    <tr>
+      <th>Start with</th>
+      <th>Combine with</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Subjugation Armor [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal<br/>
+        + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png2" /> 2 Red Lotus Jello Stone
+      </td>
+      <td>Expedition Armor [1]</td>
+    </tr>
+  </tbody>
+</table>
+
+### Subjugation Equipment (Grade IV)
 
 The lowest grade of Memorial Dungeon equipment. Your character must be **base level 60** to wear this grade of equipment.
 
@@ -48,7 +76,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
         Subjugation Armor
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
-      <td>Orc's Memory</td>
+      <td>Orc's Memory (Normal Mode)</td>
       <td>Armor</td>
       <td>
         MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
