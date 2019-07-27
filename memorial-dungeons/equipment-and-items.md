@@ -52,9 +52,9 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
       <td>Armor</td>
       <td>
         MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
-        <hr/>
+        -----------<br/>
         When wearing Subjugation Set: ATK +15, MATK +15<br/>
-        <hr/>
+        -----------<br/>
         If total Set is refined higher than +17:<br/>
         Increased ASPD (-3% after attack delay),<br/>
         -5% variable casting
