@@ -36,7 +36,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
         Subjugation Sash
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053110_ZntfRoWc.bmp" /></td>
-      <td>Orc's Memory</td>
+      <td>Orc's Memory (Normal Mode)</td>
       <td>Garment</td>
       <td>+7% Neutral resistance,<br/>FLEE +10</td>
       <td>12</td>
@@ -69,11 +69,23 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
         Subjugation Boots
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053144_HG6H9loa.bmp" /></td>
-      <td>Prontera Culvert</td>
+      <td>Prontera Culvert (Normal Mode)</td>
       <td>Shoes</td>
       <td>+5% HP Recovery,<br/>+3% SP Recovery</td>
       <td>12</td>
       <td>25</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/은반지.png" /><br/>
+        Subjugation Ring
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053135_gHkeBgYE.bmp" /></td>
+      <td>Prontera Culvert (Normal Mode)</td>
+      <td>Accessory</td>
+      <td>STR +2, INT +2</td>
+      <td>0</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
