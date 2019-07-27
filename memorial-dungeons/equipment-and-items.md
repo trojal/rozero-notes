@@ -13,6 +13,8 @@ Memorial Dungeon equipment is broken up into four grades (Grade IV being the low
 
 All Memorial Dungeon equipment can be worn by all classes, and each piece of equipment has one card slot.
 
+---
+
 ### Crafting Higher Grades
 
 Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. These pieces of equipment found in this set are the only ones dropped by monsters ingame. Otherwise, to create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next level.
@@ -39,6 +41,8 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
     </tr>
   </tbody>
 </table>
+
+---
 
 ### Subjugation Equipment (Grade IV)
 
