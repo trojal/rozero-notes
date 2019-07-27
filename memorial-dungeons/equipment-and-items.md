@@ -31,7 +31,10 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
   </thead>
   <tbody>
     <tr>
-      <td>Subjugation Sash</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군어깨띠.png" /><br/>
+        Subjugation Sash
+      </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053110_ZntfRoWc.bmp" /></td>
       <td>Orc's Memory</td>
       <td>Garment</td>
