@@ -34,7 +34,7 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
       <td>Subjugation Armor [1]</td>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal<br/>
-        + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png2" /> 2 Red Lotus Jello Stone
+        + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 2 Red Lotus Jello Stone
       </td>
       <td>Expedition Armor [1]</td>
     </tr>
