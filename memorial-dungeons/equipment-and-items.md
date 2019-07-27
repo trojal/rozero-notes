@@ -30,6 +30,15 @@ The lowest grade of Memorial Dungeon equipment. Your character must be *base lev
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Subjugation Sash</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053110_ZntfRoWc.bmp" /></td>
+      <td>Orc's Memory</td>
+      <td>Garment</td>
+      <td>+7% Neutral resistance, FLEE +10</td>
+      <td>12</td>
+      <td>20</td>
+    </tr>
   </tbody>
 </table>
 
