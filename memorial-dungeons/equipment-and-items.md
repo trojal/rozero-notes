@@ -15,7 +15,7 @@ All Memorial Dungeon equipment can be worn by all classes, and each piece of equ
 
 ## Subjugation Equipment (Grade IV)
 
-The lowest grade of Memorial Dungeon equipment. Your character must be *base level 60* to wear this grade of equipment.
+The lowest grade of Memorial Dungeon equipment. Your character must be **base level 60** to wear this grade of equipment.
 
 <table>
   <thead>
@@ -35,7 +35,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be *base lev
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053110_ZntfRoWc.bmp" /></td>
       <td>Orc's Memory</td>
       <td>Garment</td>
-      <td>+7% Neutral resistance, FLEE +10</td>
+      <td>+7% Neutral resistance,<br/>FLEE +10</td>
       <td>12</td>
       <td>20</td>
     </tr>
