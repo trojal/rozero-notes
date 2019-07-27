@@ -42,6 +42,26 @@ The lowest grade of Memorial Dungeon equipment. Your character must be **base le
       <td>12</td>
       <td>20</td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군어깨띠.png" /><br/>
+        Subjugation Armor
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
+      <td>Orc's Memory</td>
+      <td>Armor</td>
+      <td>
+        MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
+        <hr/>
+        When wearing Subjugation Set: ATK +15, MATK +15<br/>
+        <hr/>
+        If total Set is refined higher than +17:<br/>
+        Increased ASPD (-3% after attack delay),<br/>
+        -5% variable casting
+      </td>
+      <td>46</td>
+      <td>30</td>
+    </tr>
   </tbody>
 </table>
 
