@@ -849,6 +849,8 @@ The first and final grade of Memorial Dungeon equipment. Your character must be 
   </tbody>
 </table>
 
+---
+
 ### Hard Mode Accessories
 
 These accessories are obtained by crafting materials found through doing the Hard Mode of the Memorial Dungeons. More information about the crafting recipes can be found in `equipment-crafting.md`.
