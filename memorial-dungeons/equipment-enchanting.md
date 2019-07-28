@@ -218,7 +218,7 @@ Here is a list of all the class-based essence enchants, broken up my first class
 
 ### Swordman Essence Series
 
-### [](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법사의혼.png) Mage Essence Series
+### ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법사의혼.png) Mage Essence Series
 
 ### Merchant Essence Series
 
