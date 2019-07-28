@@ -30,7 +30,7 @@ Besides the equipment, you also need different crafting materials to craft the n
 * Crafted out of Jello Fragments, which come from the Poring Village Memorial Dungeon.
 * One Jello Stone is made from 5 Jello Fragments (recipes below).
 * You must be base level 30 or higher to craft Jello Fragments into Jello Stones.
-* It takes 3 days to make one Jello Stone. Can be made immediatly if you have 5 Gel Star.
+* It takes 3 days to make one Jello Stone. Can be made immediately if you have ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/젤스타.png) 5 Gel Star.
 * You can only create one Jello Stone at a time.
 
 <table>
