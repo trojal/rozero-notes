@@ -129,3 +129,83 @@ The lowest grade of Memorial Dungeon equipment. Your character must be at least 
     </tr>
   </tbody>
 </table>
+
+### Expedition Equipment (Grade III)
+
+The second grade of Memorial Dungeon equipment. Your character must be at least **base level 70** to wear this grade of equipment.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Artwork</th>
+      <th>Where Can Get</th>
+      <th>Category</th>
+      <th>Description</th>
+      <th>DEF</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/심판의슈즈.png" /><br/>
+        Expedition Shoes
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053325_6RLfCkKN.bmp" /></td>
+      <td>Crafting Subjugation Boots</td>
+      <td>Shoes</td>
+      <td>
+        +10% HP Recovery, +7% SP Recovery<br/>
+        When +3 or higher, VIT +1.
+      </td>
+      <td>14</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군복.png" /><br/>
+        Subjugation Armor
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
+      <td>Orc's Memory (Normal Mode)</td>
+      <td>Armor</td>
+      <td>
+        MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
+        -----------<br/>
+        When wearing Subjugation Sash, Boots & Ring:<br/>
+        ATK +15, MATK +15<br/>
+        -----------<br/>
+        If total Set is refined higher than +17:<br/>
+        Increased ASPD (-3% after attack delay),<br/>
+        -5% variable casting
+      </td>
+      <td>46</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군화.png" /><br/>
+        Subjugation Boots
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053144_HG6H9loa.bmp" /></td>
+      <td>Prontera Culvert (Normal Mode)</td>
+      <td>Shoes</td>
+      <td>+5% HP Recovery,<br/>+3% SP Recovery</td>
+      <td>12</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/은반지.png" /><br/>
+        Subjugation Ring
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053135_gHkeBgYE.bmp" /></td>
+      <td>Prontera Culvert (Normal Mode)</td>
+      <td>Accessory</td>
+      <td>STR +2, INT +2</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>

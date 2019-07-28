@@ -116,6 +116,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 
 | Korean | English |
 | --- | --- |
+| 토벌단 | Subjugation (Grade IV) |
 | 원정대 | Expedition (Grade III) |
 | 파병대 | Dispatching (Grade II) |
 | 정복자 | Conquering (Grade I) |
