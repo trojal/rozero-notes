@@ -281,7 +281,7 @@ The third grade of Memorial Dungeon equipment. Your character must be at least *
 
 ### Dispatching Equipment (Grade II)
 
-The second grade of Memorial Dungeon equipment. Your character must be at leats **base level 80** to wear this grade of equipment.
+The second grade of Memorial Dungeon equipment. Your character must be at least **base level 80** to wear this grade of equipment.
 
 <table>
   <thead>
@@ -561,7 +561,7 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
 
 ### Conquering Equipment (Grade I)
 
-The first and final grade of Memorial Dungeon equipment. Your character must be at leats **base level 90** to wear this grade of equipment.
+The first and final grade of Memorial Dungeon equipment. Your character must be at least **base level 90** to wear this grade of equipment.
 
 <table>
   <thead>
