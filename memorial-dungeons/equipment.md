@@ -848,3 +848,65 @@ The first and final grade of Memorial Dungeon equipment. Your character must be 
     </tr>
   </tbody>
 </table>
+
+### Hard Mode Accessories
+
+These accessories are obtained by crafting materials found through doing the Hard Mode of the Memorial Dungeons. More information about the crafting recipes can be found in `equipment-crafting.md`.
+
+* Equippable by all classes.
+* Must be at least **base level 50** to equip these accessories.
+* These accessories are **refinable** and also are equipped on a specific side (left vs. right side).
+* They all have a weight of 50, 3 DEF, and 1 slot.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Artwork</th>
+      <th>Equipped On</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/emerald_earring_z.png" /> Cursed Emerald Earrings [1]</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/02/12/052416_UwofBXbj.bmp" /></td>
+      <td>Right side</td>
+      <td>
+        DEX +2, AGI +2.<br/>
+        When +7 or higher, additional DEX +2 & AGI +2.<br/>
+        When +9 or higher, increases ASPD (-2% after attack delay) at every 25th base level.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/white_jewel_earring_z.png" /> Shiny Opal Earrings [1]</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/02/12/052424_Okqr3DRz.bmp" /></td>
+      <td>Right side</td>
+      <td>
+        INT +2, VIT +2.<br/>
+        When +7 or higher, additional INT +2 & VIT +2.<br/>
+        When +9 or higher, -2% variable casting at every 25th base level.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/blue_swear_ring_z.png" /> Ring of Blue Oath [1]</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/02/12/052432_Uus5bScZ.bmp" /></td>
+      <td>Left side</td>
+      <td>
+        INT +2, DEX +2.<br/>
+        When +7 or higher, additional INT +2 & DEX +2.<br/>
+        When +9 or higher, +1% magic damage at every 20th base level.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/red_promise_ring_z.png" /> Ring of the Red Covenent</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/02/12/052440_kdtWndKb.bmp" /></td>
+      <td>Left side</td>
+      <td>
+        LUK +2, AGI +2.<br/>
+        When +7 or higher, additional LUK +2 & AGI +2.<br/>
+        When +9 or higher, +1% CRIT damage at every 20th base level.
+      </td>
+    </tr>
+  </tbody>
+</table>

@@ -2,7 +2,11 @@
 
 Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. The equipment found in this set are the only ones that can be obtained from Memorial Dungeon Treasure Boxes. To create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next grade.
 
-To craft higher grades of equipment, head to the building at `prontera 50 227`.
+## Crafting NPCs
+
+* For crafting different grades of equipment, head to the building at `prontera 50 227`.
+* For crafting the Hard Mode Accessories, there is an NPC in Morroc.
+* For making Jello Stone, head to ...
 
 ## Crafting Materials
 
