@@ -73,7 +73,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군어깨띠.png" /><br/>
-        Subjugation Sash
+        Subjugation Sash [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053110_ZntfRoWc.bmp" /></td>
       <td>Orc's Memory (Normal Mode)</td>
@@ -85,7 +85,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군복.png" /><br/>
-        Subjugation Armor
+        Subjugation Armor [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
       <td>Orc's Memory (Normal Mode)</td>
@@ -106,7 +106,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군화.png" /><br/>
-        Subjugation Boots
+        Subjugation Boots [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053144_HG6H9loa.bmp" /></td>
       <td>Prontera Culvert (Normal Mode)</td>
@@ -118,7 +118,7 @@ The lowest grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/은반지.png" /><br/>
-        Subjugation Ring
+        Subjugation Ring [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053135_gHkeBgYE.bmp" /></td>
       <td>Prontera Culvert (Normal Mode)</td>
@@ -139,7 +139,7 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <th>Name</th>
       <th>Artwork</th>
-      <th>Where Can Get</th>
+      <th>Crafted From</th>
       <th>Category</th>
       <th>Description</th>
       <th>DEF</th>
@@ -150,10 +150,10 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/심판의슈즈.png" /><br/>
-        Expedition Shoes
+        Expedition Shoes [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053325_6RLfCkKN.bmp" /></td>
-      <td>Crafting Subjugation Boots</td>
+      <td>Subjugation Boots [1]</td>
       <td>Shoes</td>
       <td>
         +10% HP Recovery, +7% SP Recovery<br/>
@@ -165,10 +165,10 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/시즈부츠.png" /><br/>
-        Expedition Boots
+        Expedition Boots [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053344_9Jy6YSjR.bmp" /></td>
-      <td>Crafting Subjugation Boots</td>
+      <td>Subjugation Boots [1]</td>
       <td>Shoes</td>
       <td>
         +15% HP Recovery, +5% SP Recovery<br/>
@@ -180,10 +180,10 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/게브네이의갑옷.png" /><br/>
-        Expedition Armor
+        Expedition Armor [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053352_chAx6Lq1.bmp" /></td>
-      <td>Crafting Subjugation Armor</td>
+      <td>Subjugation Armor [1]</td>
       <td>Armor</td>
       <td>
         MaxHP +500, MaxSP +30, MDEF +5, DEF +30<br/>
@@ -201,10 +201,10 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     <tr>
       <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/캐스팅의로브.png" /><br/>
-        Expedition Robe
+        Expedition Robe [1]
       </td>
       <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053336_BSptHouj.bmp" /></td>
-      <td>Crafting Subjugation Armor</td>
+      <td>Subjugation Armor [1]</td>
       <td>Armor</td>
       <td>
         MaxHP +400, MaxSP +50, MDEF +5, DEF +30<br/>
@@ -220,25 +220,55 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     </tr>
     <tr>
       <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군화.png" /><br/>
-        Subjugation Boots
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/skin_of_marraco.png" /><br/>
+        Expedition Muffler [1]
       </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053144_HG6H9loa.bmp" /></td>
-      <td>Prontera Culvert (Normal Mode)</td>
-      <td>Shoes</td>
-      <td>+5% HP Recovery,<br/>+3% SP Recovery</td>
-      <td>12</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053406_2CuWhbaF.bmp" /></td>
+      <td>Subjugation Sash [1]</td>
+      <td>Garment</td>
+      <td>
+        +9% Neutral resistance, FLEE +12<br>
+        When +3 or higher, +1% additional Neutral resistance.
+      </td>
+      <td>13</td>
       <td>25</td>
     </tr>
     <tr>
       <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/은반지.png" /><br/>
-        Subjugation Ring
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/극한의상의.png" /><br/>
+        Expedition Mantle [1]
       </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053135_gHkeBgYE.bmp" /></td>
-      <td>Prontera Culvert (Normal Mode)</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053422_Dg2tMgDG.bmp" /></td>
+      <td>Subjugation Sash [1]</td>
+      <td>Garment</td>
+      <td>
+        +8% Neutral resistance, FLEE +15<br>
+        When +3 or higher, FLEE +3.
+      </td>
+      <td>14</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/파이어링.png" /><br/>
+        Expedition Magic Ring [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053358_sfcA9p1O.bmp" /></td>
+      <td>Subjugation Ring [1]</td>
       <td>Accessory</td>
-      <td>STR +2, INT +2</td>
+      <td>INT +3</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/파란반지.png" /><br/>
+        Expedition Ring [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053413_irc8A6Gi.bmp" /></td>
+      <td>Subjugation Ring [1]</td>
+      <td>Accessory</td>
+      <td>STR +3</td>
       <td>0</td>
       <td>10</td>
     </tr>
