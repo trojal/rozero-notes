@@ -164,6 +164,21 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     </tr>
     <tr>
       <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/시즈부츠.png" /><br/>
+        Expedition Boots
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053344_9Jy6YSjR.bmp" /></td>
+      <td>Crafting Subjugation Boots</td>
+      <td>Shoes</td>
+      <td>
+        +15% HP Recovery, +5% SP Recovery<br/>
+        When +3 or higher, AGI +1.
+      </td>
+      <td>16</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군복.png" /><br/>
         Subjugation Armor
       </td>
