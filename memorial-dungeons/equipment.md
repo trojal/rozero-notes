@@ -277,6 +277,8 @@ The third grade of Memorial Dungeon equipment. Your character must be at least *
   </tbody>
 </table>
 
+---
+
 ### Dispatching Equipment (Grade II)
 
 The second grade of Memorial Dungeon equipment. Your character must be at leats **base level 80** to wear this grade of equipment.
@@ -549,6 +551,298 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
       <td>Expedition Ring [1]</td>
       <td>Accessory</td>
       <td>STR +3, AGI +1</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Conquering Equipment (Grade I)
+
+The first and final grade of Memorial Dungeon equipment. Your character must be at leats **base level 90** to wear this grade of equipment.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Artwork</th>
+      <th>Crafted From</th>
+      <th>Category</th>
+      <th>Description</th>
+      <th>DEF</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/디바슈즈.png" /><br/>
+        Conquering Shoes [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054427_cg19O8SI.bmp" /></td>
+      <td>Dispatching Shoes [1]</td>
+      <td>Shoes</td>
+      <td>
+        +15% HP Recovery, +12% SP Recovery<br/>
+        When +5 or higher, INT +2.<br/>
+        When +7 or higher, MATK +20.
+      </td>
+      <td>18</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/미라쥬슈즈.png" /><br/>
+        Conquering Magic Shoes [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054352_EvhIoHrY.bmp" /></td>
+      <td>Dispatching Magic Shoes [1]</td>
+      <td>Shoes</td>
+      <td>
+        +17% HP Recovery, +10% SP Recovery<br/>
+        When +5 or higher, +2% Heal effectiveness.<br/>
+        When +7 or higher, +4% additional Heal effectiveness.
+      </td>
+      <td>17</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/검은가죽부츠.png" /><br/>
+        Conquering Boots [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054311_tB5CqhZr.bmp" /></td>
+      <td>Dispatching Boots [1]</td>
+      <td>Shoes</td>
+      <td>
+        +18% HP Recovery, +9% SP Recovery<br/>
+        When +5 or higher, DEX +2.<br/>
+        When +7 or higher, FLEE +20.
+      </td>
+      <td>22</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/게브네이의군화.png" /><br/>
+        Conquering Greaves [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054328_mHEjuzwV.bmp" /></td>
+      <td>Dispatching Greaves [1]</td>
+      <td>Shoes</td>
+      <td>
+        +20% HP Recovery, +7% SP Recovery<br/>
+        When +5 or higher, STR +2.<br/>
+        When +7 or higher, ATK +20.<br/>
+      </td>
+      <td>24</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/룬플레이트.png" /><br/>
+        Conquering Chain Mail [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054337_SN7iUb84.bmp" /></td>
+      <td>Dispatching Chain Mail [1]</td>
+      <td>Armor</td>
+      <td>
+        STR +2, AGI +2, MaxHP +900, MaxSP +60, MDEF +5, DEF +50<br/>
+        When +5 or higher, DEF +20, additional MaxHP +100<br/>
+        WHen +7 or higher, additional AGI +2.<br/>
+        -----------<br/>
+        When wearing Conquering Mantle, Greaves & Ring:<br/>
+        ATK +30<br/>
+        -----------<br/>
+        If total Set is refined higher than +27:<br/>
+        Increased ASPD (-10% after attack delay),<br/>
+        +4% CRIT damage,<br/>
+        -15% fixed casting
+      </td>
+      <td>76</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/디바로브.png" /><br/>
+        Conquering Robe [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054447_H3osSRY9.bmp" /></td>
+      <td>Dispatching Robe [1]</td>
+      <td>Armor</td>
+      <td>
+        INT +2, DEX +2, MaxHP +600, MaxSP +90, MDEF +5, DEF +50<br/>
+        When +5 or higher, DEF +15, additional MaxSP +20<br/>
+        When +7 or higher, DEX +2.<br>
+        -----------<br/>
+        When wearing Conquering Muffler, Shoes & Magic Ring:<br/>
+        MATK +30<br/>
+        -----------<br/>
+        If total Set is refined higher than +27:<br/>
+        MATK +4%,<br/>
+        -10% variable casting, -15% fixed casting
+      </td>
+      <td>66</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/미라쥬로브.png" /><br/>
+        Conquering Garment [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054409_hzsAIY7C.bmp" /></td>
+      <td>Dispatching Garment [1]</td>
+      <td>Armor</td>
+      <td>
+        INT +2, VIT +2, MaxHP +800, MaxSP +70, MDEF +5, DEF +50<br/>
+        When +5 or higher, DEF +15, additional MaxHP +100<br/>
+        When +7 or higher, additional VIT +2<br/>
+        -----------<br/>
+        When wearing Conquering Cape, Magic Shoes & Necklace:<br/>
+        MATK +30<br/>
+        -----------<br/>
+        If total Set is refined higher than +27:<br/>
+        +4% Heal effectiveness,<br/>
+        -10% variable casting, -15% fixed casting
+      </td>
+      <td>65</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/특수닌자슈츠.png" /><br/>
+        Conquering Cloth [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054319_G9EKB2fI.bmp" /></td>
+      <td>Dispatching Cloth [1]</td>
+      <td>Armor</td>
+      <td>
+        DEX +2, AGI +2, MaxHP +700, MaxSP +80, MDEF +5, DEF +50<br/>
+        When +5 or higher, DEF +20, additional MaxSP +20<br/>
+        When +7 or higher, additional DEX +2<br/>
+        -----------<br/>
+        When wearing Conquering Scouting Mantle, Boots & Glove:<br/>
+        ATK +30<br/>
+        -----------<br/>
+        If total Set is refined higher than +27:<br/>
+        Increased ASPD (-10% after attack delay),<br/>
+        +4% ranged physical damage,<br/>
+        -15% fixed casting
+      </td>
+      <td>71</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/미라쥬망토.png" /><br/>
+        Conquering Cape [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054400_6FShptdR.bmp" /></td>
+      <td>Dispatching Cape [1]</td>
+      <td>Garment</td>
+      <td>
+        -7% variable casting, FLEE +12<br>
+        When +5 or higher, +3% Neutral resistance.<br/>
+        When +7 or higher, +4% additional Neutral resistance.<br/>
+      </td>
+      <td>15</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/디바망토.png" /><br/>
+        Conquering Muffler [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054437_JbJnHjbd.bmp" /></td>
+      <td>Dispatching Muffler [1]</td>
+      <td>Garment</td>
+      <td>
+        -5% variable casting, FLEE +16<br>
+        When +5 or higher, -4% additional variable casting.<br/>
+        When +7 or higher, -3% additional variable casting.<br/>
+      </td>
+      <td>16</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/시즈망토.png" /><br/>
+        Conquering Mantle [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054302_ecaA18sF.bmp" /></td>
+      <td>Dispatching Mantle [1]</td>
+      <td>Garment</td>
+      <td>
+        Increased ASPD (-7% after attack delay), FLEE +18<br>
+        When +5 or higher, AGI +1.<br/>
+        When +7 or higher, +4% CRIT damage.<br/>
+      </td>
+      <td>20</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/원념의망토.png" /><br/>
+        Conquering Scouting Mantle [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054504_ZsXi276K.bmp" /></td>
+      <td>Dispatching Scouting Mantle [1]</td>
+      <td>Garment</td>
+      <td>
+        Increased ASPD (-5% after attack delay), FLEE +25<br>
+        When +5 or higher, additional increased ASPD (-2% after attack delay).<br/>
+        When +7 or higher, +3% ranged physical damage.<br/>
+      </td>
+      <td>18</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/알퀴엔의목걸이.png" /><br/>
+        Conquering Necklace [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054344_zBc1LShu.bmp" /></td>
+      <td>Dispatching Necklace [1]</td>
+      <td>Accessory</td>
+      <td>INT +3, VIT +2</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/윈드링.png" /><br/>
+        Conquering Magic Ring [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054419_zUjiISqz.bmp" /></td>
+      <td>Dispatching Magic Ring [1]</td>
+      <td>Accessory</td>
+      <td>INT +3, DEX +2</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/권투사의글러브.png" /><br/>
+        Conquering Glove [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054456_eJSo2lAb.bmp" /></td>
+      <td>Dispatching Glove [1]</td>
+      <td>Accessory</td>
+      <td>DEX +3, AGI +2</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/초록반지.png" /><br/>
+        Conquering Ring [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054512_Ws7sBiID.bmp" /></td>
+      <td>Dispatching Ring [1]</td>
+      <td>Accessory</td>
+      <td>STR +3, AGI +2</td>
       <td>0</td>
       <td>10</td>
     </tr>
