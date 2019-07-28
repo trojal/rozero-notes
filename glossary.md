@@ -116,9 +116,17 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 
 | Korean | English |
 | --- | --- |
-| 원정대 | Expedition (Grade II) |
-| 파병대 | Dispatching (Grade III) |
-| 정복자 | Conquering (Grade IV) |
+| 원정대 | Expedition (Grade III) |
+| 파병대 | Dispatching (Grade II) |
+| 정복자 | Conquering (Grade I) |
+| 저주받은 에메랄드 | Cursed Emerald |
+| 영롱한 오팔 | Shiny Opal |
+| 푸른 바다의 크리스탈 | Blue Sea Crystal |
+| 핏빛에 젖은 루비 | Bloody Ruby |
+| 저주받은 에메랄드 이어링 | Cursed Emerald Earrings |
+| 영롱한 빛의 오팔 귀걸이 | Shiny Opal Earrings |
+| 푸른 맹세의 반지 | Ring of Blue Oath |
+| 붉은 맹약의 반지 | Ring of the Red Covenent |
 
 ## Skills
 

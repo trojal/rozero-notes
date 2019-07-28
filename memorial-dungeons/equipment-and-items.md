@@ -74,9 +74,20 @@ Various crystals are needed to craft higher grades of Memorial Dungeon Equipment
 
 | Crystal | Found In |
 |---|---|
-| <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> Shimmering Crystal | Orc Memory, Prontera Culvert, Ant Hell 1F, Izlude 2F, Sunken Ship |
-| <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> Crystal of Blue Light | Ant Hell 1F, Sunken Ship |
-| <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> Crystal of Red Power | Izlude 2F, Sunken Ship |
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png) Shimmering Crystal | Orc Memory, Prontera Culvert, Ant Hell 1F, Izlude 2F, Sunken Ship |
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png) Crystal of Blue Light | Ant Hell 1F, Sunken Ship |
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png) Crystal of Red Power | Izlude 2F, Sunken Ship |
+
+##### Special Gems
+
+To craft the Hard Mode Accessories, you need various gemstones from the Memorial Dungeons.
+
+| Gem | Found In |
+|---|---|
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/cursed_emerald.png)  Cursed Emerald | Orc Memory |
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/shinee_opal.png) Shiny Opal | Prontera Culvert |
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/sea_sapphire.png) Blue Sea Crystal | Izlude 2F |
+| ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/bloody_ruby.png) Bloody Ruby | Ant Hell 1F, Sunken Ship |
 
 #### Crafting Recipes
 
@@ -417,6 +428,24 @@ Various crystals are needed to craft higher grades of Memorial Dungeon Equipment
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/cursed_emerald.png" /> 15 Cursed Emerald + <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/미스릴광석.png" /> 10 Mithril
       </td>
       <td>Cursed Emerald Earrings</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/shinee_opal.png" /> 15 Shiny Opal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/미스릴광석.png" /> 10 Mithril
+      </td>
+      <td>Shiny Opal Earrings</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/sea_sapphire.png" /> 15 Blue Sea Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/미스릴광석.png" /> 10 Mithril
+      </td>
+      <td>Ring of Blue Oath</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/bloody_ruby.png" /> 15 Bloody Ruby + <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/미스릴광석.png" /> 10 Mithril
+      </td>
+      <td>Ring of the Red Covenent</td>
     </tr>
   </tbody>
 </table>
