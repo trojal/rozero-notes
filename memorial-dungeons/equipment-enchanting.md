@@ -218,12 +218,167 @@ Here is a list of all the class-based essence enchants, broken up my first class
 
 ### Swordman Essence Series
 
-### ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법사의혼.png) Mage Essence Series
+<table>
+  <thead>
+    <tr>
+      <th>Essence</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
+        Swordman's Essence Lvl 1
+			</td>
+			<td>[Magnum Break] Reduced SP consumption by 10. [Bash] Increases attack speed per two levels (-1% after attack delay).</td>
+		</tr>
+		<tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084050_BcfDEuU4.bmp"><br/>
+        Swordman's Essence Lvl 2
+			</td>
+			<td>[Magnum Break] Reduced SP consumption by 10. [Bash] Increases attack speed per level (-1% after attack delay). [Magnum Break] Increases damage by 15% every +2 armor smelting.</td>
+		</tr>
+  </tbody>
+</table>
+
+### Mage Essence Series
+
+<table>
+  <thead>
+    <tr>
+      <th>Essence</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
+        Mage's Essence Lvl 1
+			</td>
+			<td>[Cold Bolt], [Fire Bolt], [Lightning Bolt] damage increased by 20%. [Firewall] Variable casting per level reduced by 1%.</td>
+		</tr>
+		<tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084013_Hw3wwOXZ.bmp"><br/>
+        Mage's Essence Lvl 2
+			</td>
+			<td>[Cold Bolt], [Fire Bolt], [Lightning Bolt] Damage increased by 20%. [Firewall] Variable casting per level reduced by 1%. Armor의 제련도 2당 MaxSP + 50씩 증가. +50 MaxSP every +2 armor smelting.</td>
+		</tr>
+  </tbody>
+</table>
 
 ### Merchant Essence Series
 
+<table>
+  <thead>
+    <tr>
+      <th>Essence</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
+        Merchant's Essence Lvl 1
+			</td>
+			<td>[Discount] ATK +2 per level.<br>
+			[Overcharge] Increases attack speed every 2 levels (-1% after attack delay).</td>
+		</tr>
+		<tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084113_q5poawXa.bmp"><br/>
+        Merchant's Essence Lvl 2
+			</td>
+			<td>[Discount] ATK +2 per level.<br>
+			[Overcharge] Increases attack speed every level (-1% after attack delay).<br>
+			MaxHP +100 every +2 armor smelting.</td>
+		</tr>
+  </tbody>
+</table>
+
 ### Acolyte Essence Series
+
+<table>
+  <thead>
+    <tr>
+      <th>Essence</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
+        Acolyte's Essence Lvl 1
+			</td>
+			<td>[Heal], [Increase Agility], [Blessing] Reduced SP cost by 15%. [Heal] Increases the healing rate by 1% per 2 levels.</td>
+		</tr>
+		<tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084025_fh8f6AZa.bmp"><br/>
+        Acolyte's Essence Lvl 2<br/>
+			</td>
+			<td>[Heal], [Increase Agility], [Blessing] Reduced SP cost by 15%. [Heal] Increases the healing rate by 1% per level. MaxHP +70 and MaxSP +30 every +2 armor smelting.
+		</tr>
+  </tbody>
+</table>
 
 ### Thief Essence Series
 
+<table>
+  <thead>
+    <tr>
+      <th>Essence</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
+        Thief's Essence Lvl 1<br/>
+			</td>
+			<td>[Steal] If successful, ATK + 30 for 60 seconds. [Steal] Increases attack speed every 2 levels (-1% after attack delay).</td>
+		</tr>
+		<tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084101_rRyEH4nL.bmp"><br/>
+        Thief's Essence Lvl 2
+			</td>
+			<td>[Steal] If successful, ATK + 30 for 60 seconds.<br>
+			[Steal] Increases attack speed every level (-1% after attack delay).<br>
+			FLEE + 10 every +2 armor smelting.</td>
+		</tr>
+  </tbody>
+</table>
+
 ### Archer Essence Series
+
+<table>
+  <thead>
+    <tr>
+      <th>Essence</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
+        Archer's Essence Lvl 1
+			</td>
+			<td>[Double Strafe] Reduced SP consumption by 5. [Eagle Eye] Increases bow damage per level by 1%.</td>
+		</tr>
+		<tr>
+			<td>
+        <img alt="" src="http://imgc.gnjoy.com/ufile/common/2018/01/30/084036_NlsTXFrz.bmp"><br/>
+        Archer's Essence Lvl 2
+			</td>
+			<td>[Double Strafe] Reduced SP consumption by 5. [Eagle Eye] Increases bow damage per level by 2%. [Arrow Shower] Increases damage by 5% every +2 armor smelting.</td>
+		</tr>
+  </tbody>
+</table>
