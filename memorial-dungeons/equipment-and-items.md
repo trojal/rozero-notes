@@ -91,6 +91,132 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
   </tbody>
 </table>
 
+#### Crafting Dispatching Equipment (Grade II)
+
+<table>
+  <thead>
+    <tr>
+      <th>Start with</th>
+      <th>Combine with</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Expedition Armor [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 4 Red Lotus Jello Stone
+      </td>
+      <td>Dispatching Chain Mail [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Armor [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 2 Red Lotus Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 2 Chaotic Jello Stone
+      </td>
+      <td>Dispatching Cloth [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Mantle [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 4 Chaotic Jello Stone
+      </td>
+      <td>Dispatching Mantle [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Mantle [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 2 Red Lotus Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 2 Chaotic Jello Stone
+      </td>
+      <td>Dispatching Scouting Mantle [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Boots [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 4 Red Lotus Jello Stone
+      </td>
+      <td>Dispatching Greaves [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Boots [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 2 Chaotic Jello Stone
+      </td>
+      <td>Dispatching Boots [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 6 Holy Jello Stone
+      </td>
+      <td>Dispatching Ring [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 6 Holy Jello Stone
+      </td>
+      <td>Dispatching Glove [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Robe [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 4 Breeze Jello Stone
+      </td>
+      <td>Dispatching Robe [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Robe [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 2 Breeze Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 2 Holy Jello Stone
+      </td>
+      <td>Dispatching Garment [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Muffler [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 2 Holy Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 2 Breeze Jello Stone
+      </td>
+      <td>Dispatching Muffler [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Muffler [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 2 Holy Jello Stone
+      </td>
+      <td>Dispatching Cape [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Shoes [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 4 Breeze Jello Stone
+      </td>
+      <td>Dispatching Shoes [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Shoes [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 4 Holy Jello Stone
+      </td>
+      <td>Dispatching Magic Shoes [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Magic Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 6 Holy Jello Stone
+      </td>
+      <td>Dispatching Magic Ring [1]</td>
+    </tr>
+    <tr>
+      <td>Expedition Magic Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> 50 Crystal of Blue Light + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 6 Holy Jello Stone
+      </td>
+      <td>Dispatching Necklace [1]</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ### Subjugation Equipment (Grade IV)
