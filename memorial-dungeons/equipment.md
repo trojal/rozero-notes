@@ -130,9 +130,11 @@ The lowest grade of Memorial Dungeon equipment. Your character must be at least 
   </tbody>
 </table>
 
+---
+
 ### Expedition Equipment (Grade III)
 
-The second grade of Memorial Dungeon equipment. Your character must be at least **base level 70** to wear this grade of equipment.
+The third grade of Memorial Dungeon equipment. Your character must be at least **base level 70** to wear this grade of equipment.
 
 <table>
   <thead>
@@ -271,6 +273,86 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
       <td>STR +3</td>
       <td>0</td>
       <td>10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Dispatching Equipment (Grade II)
+
+The second grade of Memorial Dungeon equipment. Your character must be at leats **base level 80** to wear this grade of equipment.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Artwork</th>
+      <th>Crafted From</th>
+      <th>Category</th>
+      <th>Description</th>
+      <th>DEF</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프레이야의장화.png" /><br/>
+        Dispatching Shoes [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053937_bkAJxTUK.bmp" /></td>
+      <td>Expedition Shoes [1]</td>
+      <td>Shoes</td>
+      <td>
+        +12% HP Recovery, +10% SP Recovery<br/>
+        When +5 or higher, INT +2.
+      </td>
+      <td>16</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/류미엘슈즈.png" /><br/>
+        Dispatching Magic Shoes [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054049_bziV6SsQ.bmp" /></td>
+      <td>Expedition Shoes [1]</td>
+      <td>Shoes</td>
+      <td>
+        +15% HP Recovery, +7% SP Recovery<br/>
+        When +5 or higher, +2% Heal effectiveness.
+      </td>
+      <td>15</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/군용부츠.png" /><br/>
+        Dispatching Boots [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053958_gVufg3RE.bmp" /></td>
+      <td>Expedition Boots [1]</td>
+      <td>Shoes</td>
+      <td>
+        +15% HP Recovery, +7% SP Recovery<br/>
+        When +5 or higher, DEX +2.
+      </td>
+      <td>18</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/안전화.png" /><br/>
+        Dispatching Greaves [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054026_Pih2pNDF.bmp" /></td>
+      <td>Expedition Boots [1]</td>
+      <td>Shoes</td>
+      <td>
+        +18% HP Recovery, +5% SP Recovery<br/>
+        When +5 or higher, STR +2.
+      </td>
+      <td>20</td>
+      <td>40</td>
     </tr>
   </tbody>
 </table>
