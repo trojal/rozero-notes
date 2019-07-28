@@ -21,7 +21,56 @@ Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dunge
 
 To craft higher grades of equipment, head to the building at `prontera 50 227`.
 
-#### Crafting Expedition Equipment (Grade III)
+### Crafting Materials
+
+Besides the equipment, you also need different crafting materials to craft the next grade of Memorial Dungeon Equipment.
+
+#### Jello Stones
+
+* Crafted out of Jello Fragments, which come from the Poring Village Memorial Dungeon.
+* One Jello Stone is made from 5 Jello Fragments (recipes below).
+* You must be base level 30 or higher to craft Jello Fragments into Jello Stones.
+* It takes 3 days to make one Jello Stone. Can be made immediatly if you have 5 Gel Star.
+* You can only create one Jello Stone at a time.
+
+<table>
+  <thead>
+    <tr>
+      <th>Recipes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마나의파편회복.png" /> 5 Poring Jello Fragment → <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 1 Red Lotus Jello Stone
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마나의파편백은.png" /> 5 Poporing Jello Fragment → <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 1 Breeze Jello Stone
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마나의파편서광.png" /> 5 Drops Jello Fragment → <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석지.png" /> 1 Dusk Jello Stone
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마나의파편혼돈.png" /> 5 Deviling Jello Fragment → <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 1 Chaotic Jello Stone
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마나의파편황혼.png" /> 5 Angeling Jello Fragment → <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 1 Holy Jello Stone
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Crafting Recipes
+
+##### Crafting Expedition Equipment (Grade III)
 
 <table>
   <thead>
@@ -91,7 +140,7 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
   </tbody>
 </table>
 
-#### Crafting Dispatching Equipment (Grade II)
+##### Crafting Dispatching Equipment (Grade II)
 
 <table>
   <thead>
@@ -217,7 +266,7 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
   </tbody>
 </table>
 
-#### Crafting Conquering Equipment (Grade I)
+##### Crafting Conquering Equipment (Grade I)
 
 <table>
   <thead>
