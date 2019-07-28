@@ -1,31 +1,14 @@
-# Memorial Dungeon Equipment & Items
-
-Here is all the equipment and items you can get from the Memorial Dungeons in kRO Zero.
-
-## Equipment
-
-Memorial Dungeon equipment is broken up into four grades (Grade IV being the lowest, Grade I being the highest). The grades are as follows:
-
-* Subjugation Equipment (Grade IV)
-* Expedition Equipment (Grade III)
-* Dispatching Equipment (Grade II)
-* Conquering Equipment (Grade I)
-
-All Memorial Dungeon equipment can be worn by all classes, and each piece of equipment has one card slot.
-
----
-
-### Crafting Higher Grades
+# Memorial Dungeon Equipment Crafting
 
 Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. The equipment found in this set are the only ones dropped by monsters ingame. To create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next grade.
 
 To craft higher grades of equipment, head to the building at `prontera 50 227`.
 
-#### Crafting Materials
+## Crafting Materials
 
 Besides the equipment, you also need different crafting materials to craft the next grade of Memorial Dungeon Equipment.
 
-##### Jello Stones
+### Jello Stones
 
 * Crafted out of Jello Fragments, which are found in Treasure Boxes in each of the Memorial Dungeons.
 * One Jello Stone is made from 5 Jello Fragments (recipes below).
@@ -68,7 +51,7 @@ Besides the equipment, you also need different crafting materials to craft the n
   </tbody>
 </table>
 
-##### Crystals
+### Crystals
 
 Various crystals are needed to craft higher grades of Memorial Dungeon Equipment. Each crystal is obtained from different Memorial Dungeons.
 
@@ -78,7 +61,7 @@ Various crystals are needed to craft higher grades of Memorial Dungeon Equipment
 | ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png) Crystal of Blue Light | Ant Hell 1F, Sunken Ship |
 | ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png) Crystal of Red Power | Izlude 2F, Sunken Ship |
 
-##### Special Gems
+### Special Gems
 
 To craft the Hard Mode Accessories, you need various gemstones from the Memorial Dungeons.
 
@@ -89,9 +72,9 @@ To craft the Hard Mode Accessories, you need various gemstones from the Memorial
 | ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/sea_sapphire.png) Blue Sea Crystal | Izlude 2F |
 | ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/bloody_ruby.png) Bloody Ruby | Ant Hell 1F, Sunken Ship |
 
-#### Crafting Recipes
+## Crafting Recipes
 
-##### Crafting Expedition Equipment (Grade III)
+### Crafting Expedition Equipment (Grade III)
 
 <table>
   <thead>
@@ -161,7 +144,7 @@ To craft the Hard Mode Accessories, you need various gemstones from the Memorial
   </tbody>
 </table>
 
-##### Crafting Dispatching Equipment (Grade II)
+### Crafting Dispatching Equipment (Grade II)
 
 <table>
   <thead>
@@ -287,7 +270,7 @@ To craft the Hard Mode Accessories, you need various gemstones from the Memorial
   </tbody>
 </table>
 
-##### Crafting Conquering Equipment (Grade I)
+### Crafting Conquering Equipment (Grade I)
 
 <table>
   <thead>
@@ -413,7 +396,7 @@ To craft the Hard Mode Accessories, you need various gemstones from the Memorial
   </tbody>
 <table>
 
-##### Crafting Hard Mode Accessories
+### Crafting Hard Mode Accessories
 
 <table>
   <thead>
@@ -449,84 +432,3 @@ To craft the Hard Mode Accessories, you need various gemstones from the Memorial
     </tr>
   </tbody>
 </table>
-
----
-
-### Subjugation Equipment (Grade IV)
-
-The lowest grade of Memorial Dungeon equipment. Your character must be **base level 60** to wear this grade of equipment.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Artwork</th>
-      <th>Where Can Get</th>
-      <th>Category</th>
-      <th>Description</th>
-      <th>DEF</th>
-      <th>Weight</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군어깨띠.png" /><br/>
-        Subjugation Sash
-      </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053110_ZntfRoWc.bmp" /></td>
-      <td>Orc's Memory (Normal Mode)</td>
-      <td>Garment</td>
-      <td>+7% Neutral resistance,<br/>FLEE +10</td>
-      <td>12</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군복.png" /><br/>
-        Subjugation Armor
-      </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
-      <td>Orc's Memory (Normal Mode)</td>
-      <td>Armor</td>
-      <td>
-        MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
-        -----------<br/>
-        When wearing Subjugation Sash, Boots & Ring:<br/>
-        ATK +15, MATK +15<br/>
-        -----------<br/>
-        If total Set is refined higher than +17:<br/>
-        Increased ASPD (-3% after attack delay),<br/>
-        -5% variable casting
-      </td>
-      <td>46</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군화.png" /><br/>
-        Subjugation Boots
-      </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053144_HG6H9loa.bmp" /></td>
-      <td>Prontera Culvert (Normal Mode)</td>
-      <td>Shoes</td>
-      <td>+5% HP Recovery,<br/>+3% SP Recovery</td>
-      <td>12</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/은반지.png" /><br/>
-        Subjugation Ring
-      </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053135_gHkeBgYE.bmp" /></td>
-      <td>Prontera Culvert (Normal Mode)</td>
-      <td>Accessory</td>
-      <td>STR +2, INT +2</td>
-      <td>0</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
-
-## Items

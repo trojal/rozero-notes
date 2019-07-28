@@ -119,6 +119,9 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 원정대 | Expedition (Grade III) |
 | 파병대 | Dispatching (Grade II) |
 | 정복자 | Conquering (Grade I) |
+| 희미하게 빛나는 결정체 | Shimmering Crystal |
+| 푸른 빛의 결정체 | Crystal of Blue Light |
+| 붉은 마력의 결정체 | Crystal of Red Power |
 | 저주받은 에메랄드 | Cursed Emerald |
 | 영롱한 오팔 | Shiny Opal |
 | 푸른 바다의 크리스탈 | Blue Sea Crystal |
