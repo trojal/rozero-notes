@@ -179,24 +179,44 @@ The second grade of Memorial Dungeon equipment. Your character must be at least 
     </tr>
     <tr>
       <td>
-        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/프론테라군군복.png" /><br/>
-        Subjugation Armor
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/게브네이의갑옷.png" /><br/>
+        Expedition Armor
       </td>
-      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053125_NUNIXSKw.bmp" /></td>
-      <td>Orc's Memory (Normal Mode)</td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053352_chAx6Lq1.bmp" /></td>
+      <td>Crafting Subjugation Armor</td>
       <td>Armor</td>
       <td>
-        MaxHP +300, MaxSP +20, MDEF +5, DEF +20<br/>
+        MaxHP +500, MaxSP +30, MDEF +5, DEF +30<br/>
         -----------<br/>
-        When wearing Subjugation Sash, Boots & Ring:<br/>
-        ATK +15, MATK +15<br/>
+        When wearing Expedition Mantle, Boots & Ring:<br/>
+        ATK +20<br/>
         -----------<br/>
-        If total Set is refined higher than +17:<br/>
-        Increased ASPD (-3% after attack delay),<br/>
+        If total Set is refined higher than +21:<br/>
+        Increased ASPD (-5% after attack delay),<br/>
         -5% variable casting
       </td>
-      <td>46</td>
-      <td>30</td>
+      <td>56</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/캐스팅의로브.png" /><br/>
+        Expedition Robe
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053336_BSptHouj.bmp" /></td>
+      <td>Crafting Subjugation Armor</td>
+      <td>Armor</td>
+      <td>
+        MaxHP +400, MaxSP +50, MDEF +5, DEF +30<br/>
+        -----------<br/>
+        When wearing Expedition Muffler, Shoes & Magic Ring:<br/>
+        MATK +20<br/>
+        -----------<br/>
+        If total Set is refined higher than +21:<br/>
+        -5% variable & fixed casting
+      </td>
+      <td>51</td>
+      <td>45</td>
     </tr>
     <tr>
       <td>
