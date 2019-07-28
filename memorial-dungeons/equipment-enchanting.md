@@ -85,7 +85,7 @@ Besides stats-based enchants, you can also enchant equipment with class-based es
 
 To enchant a piece of equipment with a class-based essence enchant, it must be +9 or greater. The enchant is chosen randomly, but if you use an enchanter NPC specific to your class, you are more likely to get one of your class' essence.
 
-Subjugation (Grade IV) Equipment can get one of the following class-based enchants.
+Subjugation (Grade IV) Equipment can get one of the following class-based enchants:
 
 <table>
   <tr>
@@ -100,6 +100,96 @@ Subjugation (Grade IV) Equipment can get one of the following class-based enchan
     <td>Archer's Essence Lvl 1</td>
     <td>Thief's Essence Lvl 1</td>
   </tr>
+</table>
+
+All other equipment grades can get one of the following class-based enchants, depending on which NPC you visit:
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">Enchantment Staff 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Swordman's Essence Lvl 1</td>
+      <td>Swordman's Essence Lvl 2</td>
+      <td>Merchant's Essence Lvl 1</td>
+      <td>Merchant's Essence Lvl 2</td>
+    </tr>
+    <tr>
+      <td>Mage's Essence Lvl 1</td>
+      <td>Mage's Essence Lvl 2</td>
+      <td>Acolyte's Essence Lvl 1</td>
+      <td>Acolyte's Essence Lvl 2</td>
+    </tr>
+    <tr>
+      <td>Thief's Essence Lvl 1</td>
+      <td>Thief's Essence Lvl 2</td>
+      <td>Archer's Essence Lvl 1</td>
+      <td>Archer's Essence Lvl 2</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">Enchantment Staff 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Knight's Essence Lvl 1/2</td>
+      <td>Knight's Essence II Lvl 1/2</td>
+      <td>Blacksmith's Essence Lvl 1/2</td>
+      <td>Blacksmith's Essence II Lvl 1/2</td>
+    </tr>
+    <tr>
+      <td>Wizard's Essence Lvl 1/2</td>
+      <td>Wizard's Essence II Lvl 1/2</td>
+      <td>Priest's Essence Lvl 1/2</td>
+      <td>Priest's Essence II Lvl 1/2</td>
+    </tr>
+    <tr>
+      <td>Crusader's Essence Lvl 1/2</td>
+      <td>Crusader's Essence II Lvl 1/2</td>
+      <td>Alchemist's Essence Lvl 1/2</td>
+      <td>Alchemist's Essence II Lvl 1/2</td>
+    </tr>
+    <tr>
+      <td>Sage's Essence Lvl 1/2</td>
+      <td>Sage's Essence II Lvl 1/2</td>
+      <td>Monk's Essence Lvl 1/2</td>
+      <td>Monk's Essence II Lvl 1/2</td>
+    </tr>
+    <tr>
+      <td>Assassin's Essence Lvl 1/2</td>
+      <td>Assassin's Essence II Lvl 1/2</td>
+      <td>Hunter's Essence Lvl 1/2</td>
+      <td>Hunter's Essence II Lvl 1/2</td>
+    </tr>
+    <tr>
+      <td>Rogue's Essence Lvl 1/2</td>
+      <td>Rogue's Essence II Lvl 1/2</td>
+      <td>Bard & Dancer's Essence Lvl 1/2</td>
+      <td>Bard & Dancer's Essence II Lvl 1/2</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Enchantment Staff Ninja</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ninja's Essence Lvl 1/2</td>
+      <td>Ninja's Essence II Lvl 1/2</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Enchanting Subjugation (Grade IV) Equipment
