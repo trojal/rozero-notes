@@ -192,12 +192,38 @@ All other equipment grades can get one of the following class-based enchants, de
   </tbody>
 </table>
 
+For more details about the bonuses for each class essence enchant, see the last section of this article.
+
 ## Enchanting Subjugation (Grade IV) Equipment
 
-Subjugation (Grade IV) Equipment can be enchanted **twice** with a stats-based enchant, and **once** with a class-based essence enchant, for a total of three enchants possible.
+Subjugation (Grade IV) Equipment can only have **1** enchant. This enchant can either be a stats-based enchant, or a class-based essence enchant (depending on the equipment refine rate).
 
-When enchanting Subjugation (Grade IV) Equipment, there are two groups of possible enchants. Those that can be given no matter the refine rate (Group 1) and those that can be given when the piece of equipment is +9 or greater (Group 2).
+## Enchanting Expedition (Grade III) Equipment
 
-Thus, if your piece of equipment is +9, the stats-based enchants will be chosen randomly from Group 1 and Group 2. Also, your piece of equipment is eligible for a class-based essence enchant.
+Expedition (Grade III) Equipment can only have **1** enchant. This enchant can either be a stats-based enchant, or a class-based essence enchant (depending on the equipment refine rate).
 
+## Enchanting Dispatching (Grade II) Equipment
 
+Dispatching (Grade II) Equipment can have **2** enchants. One enchant can be a stats-based enchant, and the last enchant must be a class-based essence enchant.
+
+## Enchanting Conquering (Grade II) Equipment
+
+Dispatching (Grade II) Equipment can have **3** enchants. Two enchants can be a stats-based enchant, and the last enchant must be a class-based essence enchant.
+
+---
+
+## Class-based Essence Enchant List
+
+Here is a list of all the class-based essence enchants, broken up my first class.
+
+### Swordman Essence Series
+
+### [](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법사의혼.png) Mage Essence Series
+
+### Merchant Essence Series
+
+### Acolyte Essence Series
+
+### Thief Essence Series
+
+### Archer Essence Series
