@@ -364,7 +364,7 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
       <td>Armor</td>
       <td>
         STR +1, AGI +1, MaxHP +700, MaxSP +50, MDEF +5, DEF +40<br/>
-        When +5 or higher, DEF +15, additional MaxHP +100
+        When +5 or higher, DEF +15, additional MaxHP +100<br/>
         -----------<br/>
         When wearing Dispatching Mantle, Greaves & Ring:<br/>
         ATK +25<br/>
@@ -387,7 +387,7 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
       <td>Armor</td>
       <td>
         INT +1, DEX +1, MaxHP +500, MaxSP +70, MDEF +5, DEF +40<br/>
-        When +5 or higher, DEF +10, additional MaxSP +20
+        When +5 or higher, DEF +10, additional MaxSP +20<br/>
         -----------<br/>
         When wearing Dispatching Muffler, Shoes & Magic Ring:<br/>
         MATK +25<br/>
@@ -401,6 +401,28 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
     </tr>
     <tr>
       <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/쉐퍼드클로스.png" /><br/>
+        Dispatching Garment [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054106_wsXejghT.bmp" /></td>
+      <td>Expedition Robe [1]</td>
+      <td>Armor</td>
+      <td>
+        INT +1, VIT +1, MaxHP +600, MaxSP +60, MDEF +5, DEF +40<br/>
+        When +5 or higher, DEF +10, additional MaxHP +100<br/>
+        -----------<br/>
+        When wearing Dispatching Cape, Magic Shoes & Necklace:<br/>
+        MATK +25<br/>
+        -----------<br/>
+        If total Set is refined higher than +25:<br/>
+        +2% HP Recovery,<br/>
+        -7% variable casting, -10% fixed casting
+      </td>
+      <td>59</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/스나이핑슈츠.png" /><br/>
         Dispatching Cloth [1]
       </td>
@@ -409,7 +431,7 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
       <td>Armor</td>
       <td>
         DEX +1, AGI +1, MaxHP +500, MaxSP +60, MDEF +5, DEF +40<br/>
-        When +5 or higher, DEF +15, additional MaxSP +20
+        When +5 or higher, DEF +15, additional MaxSP +20<br/>
         -----------<br/>
         When wearing Dispatching Scouting Mantle, Boots & Glove:<br/>
         ATK +25<br/>
@@ -421,6 +443,114 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
       </td>
       <td>63</td>
       <td>60</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/medical_cape.png" /><br/>
+        Dispatching Cape [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054056_tPeIdEUB.bmp" /></td>
+      <td>Expedition Muffler [1]</td>
+      <td>Garment</td>
+      <td>
+        -5% variable casting, FLEE +12<br>
+        When +5 or higher, +3% Neutral resistance.
+      </td>
+      <td>13</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/플로워망토.png" /><br/>
+        Dispatching Muffler [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054123_XpIgFDf2.bmp" /></td>
+      <td>Expedition Muffler [1]</td>
+      <td>Garment</td>
+      <td>
+        -3% variable casting, FLEE +16<br>
+        When +5 or higher, -4% additional variable casting.
+      </td>
+      <td>14</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/열풍의상의.png" /><br/>
+        Dispatching Mantle [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054155_dVqRtzZx.bmp" /></td>
+      <td>Expedition Mantle [1]</td>
+      <td>Garment</td>
+      <td>
+        Increased ASPD (-5% after attack delay), FLEE +15<br>
+        When +5 or higher, AGI +1.
+      </td>
+      <td>16</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/홍련의스톨.png" /><br/>
+        Dispatching Scouting Mantle [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054138_OIpmfXJ5.bmp" /></td>
+      <td>Expedition Mantle [1]</td>
+      <td>Garment</td>
+      <td>
+        Increased ASPD (-3% after attack delay), FLEE +20<br>
+        When +5 or higher, additional increased ASPD (-2% after attack delay).
+      </td>
+      <td>15</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/달과별의네클리스.png" /><br/>
+        Dispatching Necklace [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054041_oqgVuvFc.bmp" /></td>
+      <td>Expedition Magic Ring [1]</td>
+      <td>Accessory</td>
+      <td>INT +3, VIT +1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/콜드링.png" /><br/>
+        Dispatching Magic Ring [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054115_9tmnFsT5.bmp" /></td>
+      <td>Expedition Magic Ring [1]</td>
+      <td>Accessory</td>
+      <td>INT +3, DEX +1</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/매부리의장갑.png" /><br/>
+        Dispatching Glove [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054131_Vzq7c7zO.bmp" /></td>
+      <td>Expedition Ring [1]</td>
+      <td>Accessory</td>
+      <td>DEX +3, AGI +1</td>
+      <td>0</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/빨강반지.png" /><br/>
+        Dispatching Ring [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054146_EA7rbwbb.bmp" /></td>
+      <td>Expedition Ring [1]</td>
+      <td>Accessory</td>
+      <td>STR +3, AGI +1</td>
+      <td>0</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
