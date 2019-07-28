@@ -354,5 +354,73 @@ The second grade of Memorial Dungeon equipment. Your character must be at leats 
       <td>20</td>
       <td>40</td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/버코너워비늘갑옷.png" /><br/>
+        Dispatching Chain Mail [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054034_n55D3hPG.bmp" /></td>
+      <td>Expedition Armor [1]</td>
+      <td>Armor</td>
+      <td>
+        STR +1, AGI +1, MaxHP +700, MaxSP +50, MDEF +5, DEF +40<br/>
+        When +5 or higher, DEF +15, additional MaxHP +100
+        -----------<br/>
+        When wearing Dispatching Mantle, Greaves & Ring:<br/>
+        ATK +25<br/>
+        -----------<br/>
+        If total Set is refined higher than +25:<br/>
+        Increased ASPD (-7% after attack delay),<br/>
+        +2% CRIT damage,<br/>
+        -10% fixed casting
+      </td>
+      <td>66</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/자애의로브.png" /><br/>
+        Dispatching Robe [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/053947_Jx7tQL6l.bmp" /></td>
+      <td>Expedition Robe [1]</td>
+      <td>Armor</td>
+      <td>
+        INT +1, DEX +1, MaxHP +500, MaxSP +70, MDEF +5, DEF +40<br/>
+        When +5 or higher, DEF +10, additional MaxSP +20
+        -----------<br/>
+        When wearing Dispatching Muffler, Shoes & Magic Ring:<br/>
+        MATK +25<br/>
+        -----------<br/>
+        If total Set is refined higher than +25:<br/>
+        MATK +2%,<br/>
+        -7% variable casting, -10% fixed casting
+      </td>
+      <td>61</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/스나이핑슈츠.png" /><br/>
+        Dispatching Cloth [1]
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2018/01/30/054018_EdJxkwHj.bmp" /></td>
+      <td>Expedition Armor [1]</td>
+      <td>Armor</td>
+      <td>
+        DEX +1, AGI +1, MaxHP +500, MaxSP +60, MDEF +5, DEF +40<br/>
+        When +5 or higher, DEF +15, additional MaxSP +20
+        -----------<br/>
+        When wearing Dispatching Scouting Mantle, Boots & Glove:<br/>
+        ATK +25<br/>
+        -----------<br/>
+        If total Set is refined higher than +25:<br/>
+        Increased ASPD (-7% after attack delay),<br/>
+        +2% ranged physical damage,<br/>
+        -10% fixed casting
+      </td>
+      <td>63</td>
+      <td>60</td>
+    </tr>
   </tbody>
 </table>
