@@ -79,6 +79,29 @@ For Subjugation (Grade IV) Equipment that is +9 or higher, the possible stats-ba
   </tbody>
 </table>
 
+### Class-based Essence Enchants
+
+Besides stats-based enchants, you can also enchant equipment with class-based essences, that give class-specific bonuses.
+
+To enchant a piece of equipment with a class-based essence enchant, it must be +9 or greater. The enchant is chosen randomly, but if you use an enchanter NPC specific to your class, you are more likely to get one of your class' essence.
+
+Subjugation (Grade IV) Equipment can get one of the following class-based enchants.
+
+<table>
+  <tr>
+    <td>Mage's Essence Lvl 1</td>
+    <td>Swordsman's Essence Lvl 1</td>
+  </tr>
+  <tr>
+    <td>Acolyte's Essence Lvl 1</td>
+    <td>Merchant's Essence Lvl 1</td>
+  </tr>
+  <tr>
+    <td>Archer's Essence Lvl 1</td>
+    <td>Thief's Essence Lvl 1</td>
+  </tr>
+</table>
+
 ## Enchanting Subjugation (Grade IV) Equipment
 
 Subjugation (Grade IV) Equipment can be enchanted **twice** with a stats-based enchant, and **once** with a class-based essence enchant, for a total of three enchants possible.
