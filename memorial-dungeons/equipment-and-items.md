@@ -21,13 +21,13 @@ Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dunge
 
 To craft higher grades of equipment, head to the building at `prontera 50 227`.
 
-### Crafting Materials
+#### Crafting Materials
 
 Besides the equipment, you also need different crafting materials to craft the next grade of Memorial Dungeon Equipment.
 
-#### Jello Stones
+##### Jello Stones
 
-* Crafted out of Jello Fragments, which come from the Poring Village Memorial Dungeon.
+* Crafted out of Jello Fragments, which are found in Treasure Boxes in each of the Memorial Dungeons.
 * One Jello Stone is made from 5 Jello Fragments (recipes below).
 * You must be base level 30 or higher to craft Jello Fragments into Jello Stones.
 * It takes 3 days to make one Jello Stone. Can be made immediately if you have ![](https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/젤스타.png) 5 Gel Star.
@@ -36,7 +36,7 @@ Besides the equipment, you also need different crafting materials to craft the n
 <table>
   <thead>
     <tr>
-      <th>Recipes</th>
+      <th>Jello Stone Recipes</th>
     </tr>
   </thead>
   <tbody>
@@ -68,7 +68,17 @@ Besides the equipment, you also need different crafting materials to craft the n
   </tbody>
 </table>
 
-### Crafting Recipes
+##### Crystals
+
+Various crystals are needed to craft higher grades of Memorial Dungeon Equipment. Each crystal is obtained from different Memorial Dungeons.
+
+| Crystal | Found In |
+|---|---|
+| <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> Shimmering Crystal | Orc Memory, Prontera Culvert, Ant Hell 1F, Izlude 2F, Sunken Ship |
+| <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/꿈의파편.png"> Crystal of Blue Light | Ant Hell 1F, Sunken Ship |
+| <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> Crystal of Red Power | Izlude 2F, Sunken Ship |
+
+#### Crafting Recipes
 
 ##### Crafting Expedition Equipment (Grade III)
 
@@ -391,6 +401,25 @@ Besides the equipment, you also need different crafting materials to craft the n
     </tr>
   </tbody>
 <table>
+
+##### Crafting Hard Mode Accessories
+
+<table>
+  <thead>
+    <tr>
+      <th>Recipe</th>
+      <th>Accessory Obtained</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/cursed_emerald.png" /> 15 Cursed Emerald + <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/미스릴광석.png" /> 10 Mithril
+      </td>
+      <td>Cursed Emerald Earrings</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
