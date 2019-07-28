@@ -17,7 +17,7 @@ All Memorial Dungeon equipment can be worn by all classes, and each piece of equ
 
 ### Crafting Higher Grades
 
-Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. These pieces of equipment found in this set are the only ones dropped by monsters ingame. Otherwise, to create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next level.
+Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. The equipment found in this set are the only ones dropped by monsters ingame. To create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next grade.
 
 To craft higher grades of equipment, head to the building at `prontera 50 227`.
 
@@ -38,6 +38,55 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
         <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 2 Red Lotus Jello Stone
       </td>
       <td>Expedition Armor [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Armor [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 2 Breeze Jello Stone
+      </td>
+      <td>Expedition Robe [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Sash [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 1 Chaotic Jello Stone
+      </td>
+      <td>Expedition Mantle [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Sash [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 1 Holy Jello Stone
+      </td>
+      <td>Expedition Muffler [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Boots [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 1 Red Lotus Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 1 Chaotic Jello Stone
+      </td>
+      <td>Expedition Boots [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Boots [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 1 Breeze Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 1 Holy Jello Stone
+      </td>
+      <td>Expedition Shoes [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석지.png" /> 3 Dusk Jello Stone
+      </td>
+      <td>Expedition Ring [1]</td>
+    </tr>
+    <tr>
+      <td>Subjugation Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/수정조각.png"> 50 Shimmering Crystal + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 3 Holy Jello Stone
+      </td>
+      <td>Expedition Magic Ring [1]</td>
     </tr>
   </tbody>
 </table>
