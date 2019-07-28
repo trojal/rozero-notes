@@ -217,6 +217,132 @@ To craft higher grades of equipment, head to the building at `prontera 50 227`.
   </tbody>
 </table>
 
+#### Crafting Conquering Equipment (Grade I)
+
+<table>
+  <thead>
+    <tr>
+      <th>Start with</th>
+      <th>Combine with</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dispatching Chain Mail [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 6 Red Lotus Jello Stone
+      </td>
+      <td>Conquering Chain Mail [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Mantle [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 6 Chaotic Jello Stone
+      </td>
+      <td>Conquering Mantle [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Greaves [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 6 Red Lotus Jello Stone
+      </td>
+      <td>Conquering Greaves [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 10 Holy Jello Stone
+      </td>
+      <td>Conquering Ring [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Cloth [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 3 Red Lotus Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 3 Chaotic Jello Stone
+      </td>
+      <td>Conquering Cloth [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Scouting Mantle [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석화.png" /> 3 Red Lotus Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 3 Chaotic Jello Stone
+      </td>
+      <td>Conquering Scouting Mantle [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Boots [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석암.png" /> 6 Chaotic Jello Stone
+      </td>
+      <td>Conquering Boots [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Glove [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 10 Holy Jello Stone
+      </td>
+      <td>Conquering Glove [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Robe [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 6 Breeze Jello Stone
+      </td>
+      <td>Conquering Robe [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Muffler [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 3 Holy Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 3 Breeze Jello Stone
+      </td>
+      <td>Conquering Robe [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Shoes [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 6 Breeze Jello Stone
+      </td>
+      <td>Conquering Shoes [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Magic Ring [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 10 Holy Jello Stone
+      </td>
+      <td>Conquering Magic Ring [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Garment [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석풍.png" /> 3 Breeze Jello Stone + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 3 Holy Jello Stone
+      </td>
+      <td>Conquering Garment [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Cape [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 6 Holy Jello Stone
+      </td>
+      <td>Conquering Cape [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Magic Shoes [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 6 Holy Jello Stone
+      </td>
+      <td>Conquering Magic Shoes [1]</td>
+    </tr>
+    <tr>
+      <td>Dispatching Necklace [1]</td>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/저주받은파편.png"> 50 Crystal of Red Power + <img src="https://rd-center.fharr.com/assets/유저인터페이스/krzero/item/마법석성.png" /> 10 Holy Jello Stone
+      </td>
+      <td>Conquering Necklace [1]</td>
+    </tr>
+  </tbody>
+<table>
+
 ---
 
 ### Subjugation Equipment (Grade IV)
