@@ -11,11 +11,51 @@ All Memorial Dungeon equipment can be worn by all classes, and each piece of equ
 
 Obtaining Memorial Dungeon equipment of a higher grade is done through crafting. With crafting, you take a piece of equipment of a previous grade + various materials, and you get the next grade equivalent of that piece. See the `equipment-crafting.md` file for more information.
 
+(An exception to all of the above is the Poring Village Lower Headgear, which is described below.)
+
+---
+
+### Poring Village Lower Headgear
+
+* These headgear are not part of the other Memorial Dungeon series.
+* No slot.
+* Wearable by all classes.
+* Your character must be at least **base level 30** to wear these headgear.
+* Can be enchanted.
+* Weight of 10.
+* Increase your movement speed while transformed. (This increase does not overlap with Increase Agility.)
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Artwork</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/입에무는대파.png" /> Poring Village Leek
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2017/11/24/105506_lgKBwhJp.bmp" /></td>
+      <td>On receiving physical attack, chance to turn into Smokie for 5 seconds.</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://rd-center.fharr.com/assets/유저인터페이스/tw/item/입에무는홍당무.png" /> Poring Village Carrot
+      </td>
+      <td><img src="http://imgc.gnjoy.com/ufile/common/2017/11/24/105516_5fRUOcrB.bmp" /></td>
+      <td>When performing physical attack, chance to turn into Lunatic for 5 seconds.</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ### Subjugation Equipment (Grade IV)
 
-The lowest grade of Memorial Dungeon equipment. Your character must be **base level 60** to wear this grade of equipment.
+The lowest grade of Memorial Dungeon equipment. Your character must be at least **base level 60** to wear this grade of equipment.
 
 <table>
   <thead>

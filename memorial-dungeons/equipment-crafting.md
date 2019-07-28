@@ -1,6 +1,6 @@
 # Memorial Dungeon Equipment Crafting
 
-Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. The equipment found in this set are the only ones dropped by monsters ingame. To create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next grade.
+Subjugation Equipment (Grade IV) is the starting equipment in the Memorial Dungeon Equipment series. The equipment found in this set are the only ones that can be obtained from Memorial Dungeon Treasure Boxes. To create the higher grades of equipment, you must collect materials to craft with previous sets to reach the next grade.
 
 To craft higher grades of equipment, head to the building at `prontera 50 227`.
 

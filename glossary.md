@@ -119,6 +119,7 @@ To keep track of words and phrases that I continuously see, to prevent me from h
 | 원정대 | Expedition (Grade III) |
 | 파병대 | Dispatching (Grade II) |
 | 정복자 | Conquering (Grade I) |
+| 포링마을 대파 | Poring Village Leek |
 | 희미하게 빛나는 결정체 | Shimmering Crystal |
 | 푸른 빛의 결정체 | Crystal of Blue Light |
 | 붉은 마력의 결정체 | Crystal of Red Power |
