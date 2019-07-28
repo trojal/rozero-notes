@@ -206,7 +206,7 @@ Expedition (Grade III) Equipment can only have **1** enchant. This enchant can e
 
 Dispatching (Grade II) Equipment can have **2** enchants. One enchant can be a stats-based enchant, and the last enchant must be a class-based essence enchant.
 
-## Enchanting Conquering (Grade II) Equipment
+## Enchanting Conquering (Grade I) Equipment
 
 Dispatching (Grade II) Equipment can have **3** enchants. Two enchants can be a stats-based enchant, and the last enchant must be a class-based essence enchant.
 
